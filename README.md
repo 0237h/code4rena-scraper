@@ -1,13 +1,15 @@
 # code4rena-github-scraper
 Scraping [Code4rena](https://www.code4rena.com) contest audits reports for stats, fun (and profit ?).
 
-For accurate numbers check the Code4rena [leaderboard](https://code4rena.com/leaderboard) directly.
+For accurate prize money numbers check the Code4rena [leaderboard](https://code4rena.com/leaderboard) directly.
 
 ## Why ?
 
 To play around with the [Github API](https://docs.github.com/en/rest) and work my python scripting skills. I was curious since I found out that the audits reports repos contains the address of each participant for sending their prize money (see [here](https://github.com/code-423n4/2021-05-nftx-findings/tree/main/data) for example, in the .json files).
 
-It can be an issue if certain people wants to stay anonymous on this platform. 
+It can be an issue if certain people wants to stay anonymous on this platform.
+
+Also, the data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc.
 
 ## What ?
 
@@ -21,6 +23,7 @@ Worth the time ? I'd say yes as it gave me insights as to how to track funds acc
 
 ## Next ?
 
-- [ ] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
+- [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
+- [ ] Use data analysis modules or external programs to actually do something with the data
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed
 - [x] ~~Some more data mining from on-chain data maybe (GraphQL API would be best)~~ *won't do, no time*
