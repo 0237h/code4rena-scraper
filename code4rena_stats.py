@@ -5,24 +5,52 @@ import os
 import requests
 import requests_cache
 from datetime import datetime, date, timedelta
+from dotenv import load_dotenv
 from git import Repo
 
-def get_number_of_repos(org):
-	global base, headers
-	url = base + f"orgs/{org}"
-	return requests.get(url, headers=headers).json()['public_repos']
+load_dotenv()
 
-def get_repos(org, page=1):
+def _check_request(req):
+	if (req.status_code == 403 or req.status_code == 404):
+		logging.critical(f"Request returned {req.status_code}: {req.json()}")
+		exit(1)
+	elif all(k in req.headers for k in ['x-ratelimit-limit', 'x-ratelimit-remaining']):
+		logging.debug(f"Rate limit: {req.headers['x-ratelimit-remaining']} requests remaining (limit: {req.headers['x-ratelimit-limit']})")
+
+	return req
+
+def _get_paginated(org, start_url, redirect=None):
 	global base, headers
-	url = base + f"orgs/{org}/repos?type=all&&per_page=100&page={page}"
-	return requests.get(url, headers=headers).json()
+	url = redirect if redirect != None else (base + start_url)
+	return _check_request(requests.get(url, headers=headers))
+
+def get_repos(org, redirect=None):
+	return _get_paginated(org, f"orgs/{org}/repos?type=all&per_page=100", redirect)
+
+def get_issues(org, repo, redirect=None):
+	return _get_paginated(org, f"repos/{org}/{repo}/issues?state=all&per_page=100", redirect)
+
+def get_next_page_url(link_header): # Link header format: <url>; rel=[prev|next|last], ...
+	if (link_header == None):
+		return None
+
+	try:
+		for (url, rel) in [x.split(';') for x in link_header.split(',')]:
+			if (rel.strip().split('=')[1].strip('\"') == "next"): # Split 'rel=[prev|next|last]'
+				return url.strip().replace('<', '').replace('>', '')
+	except ValueError as e:
+		pass
+
+	return None
+
+def is_last_page(headers):
+	return 'Link' not in headers or 'next' not in headers['Link']
 
 def repo_creation_to_date(s): # format : [Y]-[M]-[D]T[H]:[M]:[S]Z
 	return datetime.strptime(s, '%Y-%m-%dT%H:%M:%SZ').date()
 
 if __name__ == "__main__":
 	file_handler = logging.FileHandler("code4rena.log", mode='w')
-	
 	console_handler = logging.StreamHandler()
 	console_handler.setLevel(logging.INFO)
 	logging.basicConfig(
@@ -37,17 +65,20 @@ if __name__ == "__main__":
 	logging.addLevelName(logging.ERROR, '[ERROR]')
 	logging.addLevelName(logging.CRITICAL, '[CRITICAL]')
 
-	requests_cache.install_cache('code4rena_cache', expire_after=timedelta(days=1)) # Update repo data every day (prevent reaching API rate limit)
+	requests_cache.install_cache('code4rena_cache', expire_after=timedelta(days=1)) # Cache repo data for one day (prevent reaching API rate limit)
 	base = f"https://api.github.com/"
-	headers = {'User-Agent': 'Bot'}
+	headers = {'Authorization': 'token ' + os.getenv('API_ACCESS_TOKEN'), 'User-Agent': 'Bot'} # Using auth bumps the rate limit to 5_000 requests per HOUR 
 	org = "code-423n4"
 
 	logging.info(f"Fetching all public repos from {org}...")
 	repos = []
-	nb_public_repos = get_number_of_repos(org)
-	for i in range(nb_public_repos//100 + 1):
-		repos += get_repos(org, i + 1)
-		logging.debug(f"Got {len(repos)} repos, page {i+1}/{nb_public_repos//100 + 1}")
+	req = requests.Response()
+	req.headers = {'Link': 'next'} # Run loop at least once
+	while not(is_last_page(req.headers)):
+		next_page_url = get_next_page_url(req.headers['Link'])
+		req = get_repos(org, next_page_url)
+		repos += req.json()
+		logging.debug(f"Got {len(repos)} repos, page {'1' if next_page_url == None else next_page_url[next_page_url.rindex('=')+1:]}")
 	logging.info(f"Fetched {len(repos)} repos from {org} [success]")
 
 	# Keep only audits reports starting from 20 March 2021 (earlier repos used a different format for tracking contributions)
@@ -74,21 +105,73 @@ if __name__ == "__main__":
 	else:
 		logging.warning(f"No new repos to clone")
 
-	logging.info(f"Parsing data to CSV file...")
+	logging.info("Getting issues data for each repo (this may take some time)...")
+	issues = {repo['name'] : [] for repo in repos}
+	console_handler.terminator = "\r"
+	for repo in repos:
+		req = requests.Response()
+		req.headers = {'Link': 'next'} # Run loop at least once
+		count_repo_issues = 0
+		while not(is_last_page(req.headers)):
+			next_page_url = get_next_page_url(req.headers['Link'])
+			req = get_issues(org, repo['name'], next_page_url)
+			issues[repo['name']] += req.json()
+			count_repo_issues += len(issues[repo['name']])
+			logging.debug(f"Got {count_repo_issues} issues for repo '{repo['name']}', page {'1' if next_page_url == None else next_page_url[next_page_url.rindex('=')+1:]}")
+		logging.info(f"Processed {repos.index(repo) + 1} / {len(repos)} repos")
+	console_handler.terminator = "\n"
+	logging.info(f"Got {sum([len(k) for k in issues.values()])} total issues in {len(repos)} repos from {org} [success]")
+
+	'''
+	At this point we have for each public contest report:
+		- Sponsor
+		- Rough date for when it took place (month, year)
+		- Participants
+			- Handle
+			- Address
+			- Issues reported
+		- Issues (= audit submission) tags
+			- Risk (QA, Non-critical/0, Low/1, Med/2, High/3)
+			- Sponsor acknowledged, confirmed, disputed, addressed/resolved
+			- Duplicate
+			- Is gas optimization
+			- Is judged invalid
+			- Has been upgraded by judge
+			- Has been withdrawn by warden
+			... others
+	'''
+
+	logging.info(f"Writing data to CSV file...")
 	count_rows = 0
-	auditor_fields = ['contest_id', 'contest_sponsor', 'date', 'handle', 'address', 'risk']
 	with open('code4rena.csv', 'w', newline='') as csvfile:
-		csv_writer = csv.DictWriter(csvfile, fieldnames=auditor_fields, extrasaction='ignore')
-		csv_writer.writeheader()
+		csv_writer = csv.writer(csvfile)
 		for repo in os.listdir(repos_data_folder):
+			repo_issues = issues[repo]
 			for json_filename in os.listdir(repos_data_folder + repo + '/data/'):
 				with open(repos_data_folder + repo + '/data/' + json_filename, 'r') as json_file:
+					'''
+					Sample JSON data file:
+						{
+						  "contest": "[ID]",
+						  "handle": "[HANDLE]",
+						  "address": "[ADDRESS]",
+						  "risk": "[1/2/3]",
+						  "title": "[TITLE]",
+						  "issueId": [ISSUE NUMBER],
+						  "issueUrl": "[UNUSED]"
+						}
+					'''
 					try:
-						json_data = json.loads(json_file.read())
-						json_data['contest_id'] = json_data['contest']
+						json_data = json.loads(json_file.read()) # Loads dict from json data file
+						issue = next(i for i in repo_issues if i['number'] == json_data['issueId']) # Get issue details
+
+						# Additional infos
 						json_data['contest_sponsor'] = " ".join(repo.split('-')[2:-1])
 						json_data['date'] = "/".join(repo.split('-')[:2])
-						csv_writer.writerow(json_data)
+						json_data['tags'] = ";".join([l['name'] for l in issue['labels']])
+						
+						for k, v in json_data.items():
+							csv_writer.writerow([k, v])
 						count_rows += 1
 					except Exception as e:
 						logging.error(f"Failed to parse '{json_filename}'' for repo '{repo}': {e}")

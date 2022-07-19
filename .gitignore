@@ -1,3 +1,4 @@
+.env
 repos_data/
 *.log
 *.sqlite
