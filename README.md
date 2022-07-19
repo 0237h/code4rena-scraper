@@ -25,12 +25,19 @@ Also, the extracted data allows to see who might be most efficient, writes the m
 
 Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in a .csv file.
 
+Currently, the extracted data looks like this:
+| contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
+| ---------- | ------ | ------- | ---- | ----- | ------- | -------- | --------------- | ---- | ---- |
+| Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, or G for gas optimization) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) |
+
+So each line in the csv file corresponds to one submission (identified by the `issueId`) of a warden (identified by his/her `(handle, address)` pair) for a given contest (identified by the `contest_id`).
+
 Jupyter notebooks can be found in the [charts_data](charts_data/) folder to visualize the data (requires [altair-viz](https://altair-viz.github.io/getting_started/installation.html)).
 
 What's been implemented so far:
 
 - Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the bar chart to filter for starting dates in the timeline chart*.
-[!Participant's longevity](charts_data/preview_participants_longevity.png)
+![Participant's longevity](charts_data/preview_participants_longevity.png)
 
 ## Next ?
 
