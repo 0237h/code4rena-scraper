@@ -1,5 +1,5 @@
 # code4rena-github-scraper
-Scraping contest audits reports for stats, fun (and profit ?).
+Scraping [Code4rena](https://www.code4rena.com) contest audits reports for stats, fun (and profit ?).
 
 For accurate numbers check the Code4rena [leaderboard](https://code4rena.com/leaderboard) directly.
 
