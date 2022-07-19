@@ -141,11 +141,15 @@ if __name__ == "__main__":
 			... others
 	'''
 
-	logging.info(f"Writing data to CSV file...")
+	logging.info(f"Writing data to CSV file (this may take some time)...")
+	csv_headers = ['contest_id', 'handle', 'address', 'risk', 'title', 'issueId', 'issueUrl', 'contest_sponsor', 'date', 'tags']
 	count_rows = 0
+	console_handler.terminator = "\r"
 	with open('code4rena.csv', 'w', newline='') as csvfile:
 		csv_writer = csv.writer(csvfile)
-		for repo in os.listdir(repos_data_folder):
+		csv_writer.writerow(csv_headers) # CSV Headers
+		repo_names = os.listdir(repos_data_folder)
+		for repo in repo_names:
 			repo_issues = issues[repo]
 			for json_filename in os.listdir(repos_data_folder + repo + '/data/'):
 				with open(repos_data_folder + repo + '/data/' + json_filename, 'r') as json_file:
@@ -170,10 +174,11 @@ if __name__ == "__main__":
 						json_data['date'] = "/".join(repo.split('-')[:2])
 						json_data['tags'] = ";".join([l['name'] for l in issue['labels']])
 						
-						for k, v in json_data.items():
-							csv_writer.writerow([k, v])
+						if (len(json_data.values()) == len(csv_headers)): # TODO: Include default values for malformed data
+							csv_writer.writerow(json_data.values())
 						count_rows += 1
 					except Exception as e:
 						logging.error(f"Failed to parse '{json_filename}'' for repo '{repo}': {e}")
-			logging.debug(f"Parsing finished for repo '{repo}'")
+			logging.info(f"Processed {repo_names.index(repo) + 1} / {len(repo_names)} repos")
+	console_handler.terminator = "\n"
 	logging.info(f"Finished parsing data: wrote {count_rows} rows to CSV file [success]")

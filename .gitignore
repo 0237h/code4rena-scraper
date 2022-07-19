@@ -1,5 +1,6 @@
 .env
 repos_data/
+*.ipynb_*
 *.log
 *.sqlite
 *.xlsx
