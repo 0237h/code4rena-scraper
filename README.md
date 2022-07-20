@@ -39,6 +39,9 @@ What's been implemented so far:
 - Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the bar chart to filter for starting dates in the timeline chart*.
 ![Participant's longevity](charts_data/preview_participants_longevity.png)
 
+- Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
+![Participant growth](charts_data/preview_participants_growth.png)
+
 ## Next ?
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
