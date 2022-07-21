@@ -44,7 +44,7 @@ Currently, the extracted data looks like this:
 So each line in the csv file corresponds to one submission (identified by the `issueId`) of a warden (identified by his/her `(handle, address)` pair) for a given contest (identified by the `contest_id`).
 
 The data can then be imported inside a Jupyter notebook (or anywhere else, how you want to parse it) for easy processing and visualization like so:
-```
+```python
 import pandas as pd
 import altair as alt
 
