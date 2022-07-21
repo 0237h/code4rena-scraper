@@ -19,7 +19,18 @@ Is it useful ? Probably not.
 
 Worth the time ? I'd say yes as it gave me insights as to how to track funds accross different chains (Polygon, Ethereum mainnet, etc.).
 
-Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc.
+Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc. Jupyter notebooks can be found in the [charts_data](charts_data/) folder to visualize the data (requires [altair-viz](https://altair-viz.github.io/getting_started/installation.html)).
+
+What's been implemented so far:
+
+- Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the bar chart to filter for starting dates in the timeline chart*.
+![Participant's longevity](charts_data/preview_participants_longevity.png)
+
+- Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
+![Participant growth](charts_data/preview_participants_growth.png)
+
+- Stacked bar chart showing the number of entries submitted by each warden, grouped by severity. Also show the total number of submissions for each severity category – *pro-tip: left click (or shift + left click) for filtering the data by one or more severity level*.
+![Participant entries by severity](charts_data/preview_participants_by_report_severity.png)
 
 ## How ?
 
@@ -32,18 +43,15 @@ Currently, the extracted data looks like this:
 
 So each line in the csv file corresponds to one submission (identified by the `issueId`) of a warden (identified by his/her `(handle, address)` pair) for a given contest (identified by the `contest_id`).
 
-Jupyter notebooks can be found in the [charts_data](charts_data/) folder to visualize the data (requires [altair-viz](https://altair-viz.github.io/getting_started/installation.html)).
+The data can then be imported inside a Jupyter notebook (or anywhere else, how you want to parse it) for easy processing and visualization like so:
+```
+import pandas as pd
+import altair as alt
 
-What's been implemented so far:
+alt.data_transformers.disable_max_rows() # Disable 5_000 rows limit
+data = pd.read_csv("../code4rena.csv") # Set path accordingly
+```
 
-- Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the bar chart to filter for starting dates in the timeline chart*.
-![Participant's longevity](charts_data/preview_participants_longevity.png)
-
-- Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
-![Participant growth](charts_data/preview_participants_growth.png)
-
-- Stacked bar chart showing the number of entries submitted by each warden, grouped by severity. Also show the total number of submissions for each severity category – *pro-tip: left click (or shift + left click) for filtering the data by one or more severity level*.
-![Participant entries by severity](charts_data/preview_participants_by_report_severity.png)
 ## Next ?
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
