@@ -28,7 +28,7 @@ Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest
 Currently, the extracted data looks like this:
 | contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
 | ---------- | ------ | ------- | ---- | ----- | ------- | -------- | --------------- | ---- | ---- |
-| Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, or G for gas optimization) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) |
+| Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, G for gas optimization, Q for QA) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) |
 
 So each line in the csv file corresponds to one submission (identified by the `issueId`) of a warden (identified by his/her `(handle, address)` pair) for a given contest (identified by the `contest_id`).
 
@@ -42,6 +42,8 @@ What's been implemented so far:
 - Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
 ![Participant growth](charts_data/preview_participants_growth.png)
 
+- Stacked bar chart showing the number of entries submitted by each warden, grouped by severity. Also show the total number of submissions for each severity category – *pro-tip: left click (or shift + left click) for filtering the data by one or more severity level*.
+![Participant entries by severity](charts_data/preview_participants_by_report_severity.png)
 ## Next ?
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
