@@ -57,7 +57,7 @@ data = pd.read_csv("../github_code4rena.csv") # Set path accordingly
 For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), the data looks like this:
 | period | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
 | ------ | ------ | ----------- | ------------- | -------- | --------- | ------- | -------- | -------
-| The period for which the data comes from | Name of the warden | Total earnings for the period | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
+| The period for which the data comes from | Name of the warden | Total earnings for the period (in $USD) | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
 ## Next ?
 

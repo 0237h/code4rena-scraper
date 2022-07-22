@@ -81,6 +81,7 @@ def scrape_leaderboard_table(url):
 		df = pd.read_html(str(table))[0]
 		df.columns = leaderboard_columns
 		df["period"] = period.text
+		df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
 
 		leaderboard_data = pd.concat([leaderboard_data, df])
 		logging.info(f"Parsed {periods.index(period) + 1}/{len(periods)} options ({len(df.index)} rows added for '{period.text}')")
@@ -117,7 +118,7 @@ if __name__ == "__main__":
 	leaderboard_csv_file = 'leaderboard_code4rena.csv'
 	df.to_csv(leaderboard_csv_file, index=False)
 	logging.info(f"Finished code4rena leaderboard data scraping: wrote '{len(df.index)}' rows to '{leaderboard_csv_file}' [success]")
-
+	
 	logging.info(f"Starting Github data scraping for '{org}'...")
 	logging.info(f"Fetching all public repos from {org}...")
 	repos = []
