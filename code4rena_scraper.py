@@ -2,11 +2,18 @@ import csv
 import json
 import logging
 import os
+import pandas as pd
 import requests
 import requests_cache
+import time
+
+from bs4 import BeautifulSoup
 from datetime import datetime, date, timedelta
 from dotenv import load_dotenv
 from git import Repo
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.firefox.options import Options
 
 load_dotenv()
 
@@ -49,8 +56,41 @@ def is_last_page(headers):
 def repo_creation_to_date(s): # format : [Y]-[M]-[D]T[H]:[M]:[S]Z
 	return datetime.strptime(s, '%Y-%m-%dT%H:%M:%SZ').date()
 
+def scrape_leaderboard_table(url):
+	logging.debug("Starting Selenium driver...")
+	browser_options = Options()
+	browser_options.headless = True
+	driver = webdriver.Firefox(options=browser_options, executable_path=os.getenv('FIREFOX_DRIVER_PATH'))
+	logging.debug(f"Selenium driver started [success]")
+
+	logging.info(f"Parsing dropdown options from '{url}'...")
+	driver.get(url)
+	periods = driver.find_element(By.XPATH, "//select[@class='dropdown']").find_elements(By.TAG_NAME, 'option')
+	logging.info(f"Got {len(periods)} options from '{url}' [success]")
+
+	leaderboard_columns = ['period', 'handle', 'prize_money', 'total_reports', 'high_all', 'high_solo', 'med_all', 'med_solo', 'gas_all']
+	leaderboard_data = pd.DataFrame(columns=leaderboard_columns)
+	
+	logging.info(f"Parsing leaderboard data for each option...")
+	console_handler.terminator = "\r"
+	for period in periods:
+		period.click()
+		soup = BeautifulSoup(driver.page_source, features="lxml")
+		table = soup.find('table', {'class': 'leaderboard-table'})
+		
+		df = pd.read_html(str(table))[0]
+		df.columns = leaderboard_columns
+		df["period"] = period.text
+
+		leaderboard_data = pd.concat([leaderboard_data, df])
+		logging.info(f"Parsed {periods.index(period) + 1}/{len(periods)} options ({len(df.index)} rows added for '{period.text}')")
+	console_handler.terminator = "\n"
+
+	driver.quit()
+	return leaderboard_data.reset_index(drop=True)
+
 if __name__ == "__main__":
-	file_handler = logging.FileHandler("code4rena.log", mode='w')
+	file_handler = logging.FileHandler("code4rena.log", mode='w', encoding='utf8')
 	console_handler = logging.StreamHandler()
 	console_handler.setLevel(logging.INFO)
 	logging.basicConfig(
@@ -58,6 +98,7 @@ if __name__ == "__main__":
 		level=logging.DEBUG, 
 		format='%(module)s:T+%(relativeCreated)d\t%(levelname)s %(message)s'
 	)
+	logging.getLogger('selenium').setLevel(logging.WARNING) # Prevent log file from being filed with Selenium debug output
 
 	logging.addLevelName(logging.DEBUG, '[DEBUG]')
 	logging.addLevelName(logging.INFO, '[*]')
@@ -69,7 +110,15 @@ if __name__ == "__main__":
 	base = f"https://api.github.com/"
 	headers = {'Authorization': 'token ' + os.getenv('API_ACCESS_TOKEN'), 'User-Agent': 'Bot'} # Using auth bumps the rate limit to 5_000 requests per HOUR 
 	org = "code-423n4"
+	leaderboard_url = "https://code4rena.com/leaderboard"
 
+	logging.info(f"Starting code4rena leaderboard data scraping at '{leaderboard_url}'...")
+	df = scrape_leaderboard_table(leaderboard_url)
+	leaderboard_csv_file = 'leaderboard_code4rena.csv'
+	df.to_csv(leaderboard_csv_file, index=False)
+	logging.info(f"Finished code4rena leaderboard data scraping: wrote '{len(df.index)}' rows to '{leaderboard_csv_file}' [success]")
+
+	logging.info(f"Starting Github data scraping for '{org}'...")
 	logging.info(f"Fetching all public repos from {org}...")
 	repos = []
 	req = requests.Response()
@@ -142,10 +191,11 @@ if __name__ == "__main__":
 	'''
 
 	logging.info(f"Writing data to CSV file (this may take some time)...")
+	github_csv_file = 'github_code4rena.csv'
 	csv_headers = ['contest_id', 'handle', 'address', 'risk', 'title', 'issueId', 'issueUrl', 'contest_sponsor', 'date', 'tags']
 	count_rows = 0
 	console_handler.terminator = "\r"
-	with open('code4rena.csv', 'w', newline='') as csvfile:
+	with open(github_csv_file, 'w', newline='') as csvfile:
 		csv_writer = csv.writer(csvfile)
 		csv_writer.writerow(csv_headers) # CSV Headers
 		repo_names = os.listdir(repos_data_folder)
@@ -178,7 +228,7 @@ if __name__ == "__main__":
 							csv_writer.writerow(json_data.values())
 						count_rows += 1
 					except Exception as e:
-						logging.error(f"Failed to parse '{json_filename}'' for repo '{repo}': {e}")
+						logging.warning(f"Failed to parse '{json_filename}'' for repo '{repo}': {e}")
 			logging.info(f"Processed {repo_names.index(repo) + 1} / {len(repo_names)} repos")
 	console_handler.terminator = "\n"
-	logging.info(f"Finished parsing data: wrote {count_rows} rows to CSV file [success]")
+	logging.info(f"Finished Github data scraping: wrote {count_rows} rows to '{github_csv_file}' [success]")

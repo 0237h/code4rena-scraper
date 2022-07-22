@@ -11,7 +11,7 @@ At first, I was curious since I found out that the audits reports repos contains
 
 ## What ?
 
-Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest) and parsed to a CSV file.
+Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) of the Code4rena website and is parsed to CSV files.
 
 Part of the data extracted can be used to link ETH/Polygon addresses to contest participants. Using tools like [polygonscan](https://polygonscan.com), [etherscan](https://etherscan.io) or [Bitquery](https://explorer.bitquery.io/) allows to look at the flow of funds from and to those wallets.
 
@@ -36,9 +36,9 @@ What's been implemented so far:
 
 ## How ?
 
-Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in a .csv file.
+Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in a CSV files.
 
-Currently, the extracted data looks like this:
+Currently, the extracted data from the Github API ([github_code4rena.csv](github_code4rena.csv)) looks like this:
 | contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
 | ---------- | ------ | ------- | ---- | ----- | ------- | -------- | --------------- | ---- | ---- |
 | Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, G for gas optimization, Q for QA) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) |
@@ -51,8 +51,13 @@ import pandas as pd
 import altair as alt
 
 alt.data_transformers.disable_max_rows() # Disable 5_000 rows limit
-data = pd.read_csv("../code4rena.csv") # Set path accordingly
+data = pd.read_csv("../github_code4rena.csv") # Set path accordingly
 ```
+
+For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), the data looks like this:
+| period | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
+| ------ | ------ | ----------- | ------------- | -------- | --------- | ------- | -------- | -------
+| The period for which the data comes from | Name of the warden | Total earnings for the period | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
 ## Next ?
 
