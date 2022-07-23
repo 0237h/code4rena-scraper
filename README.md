@@ -67,7 +67,7 @@ For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), th
 
 And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data looks like this:
 | contest_report_repo | contest_sponsor | contest_desc | start | end | prize_pool | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
-| ---
+| - | - | - | - | - | - | - | - | - | - | - | - | - | -
 | The name of the Github repo for the contest audit report or empty if not published yet | Name of the contest sponsor (lowercase, stripped) | Description of the contest sponsor | Starting date of the contest | Ending date of the contest | Total prize pool (calculated from the sum of warden's prize money) | Name of the warden | Total earnings for the contest (in $USD) | Total accepted reports for the contest | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
 ## Next ?
