@@ -11,7 +11,7 @@ At first, I was curious since I found out that the audits reports repos contains
 
 ## What ?
 
-Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) of the Code4rena website and is parsed to CSV files.
+Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files.
 
 Part of the data extracted can be used to link ETH/Polygon addresses to contest participants. Using tools like [polygonscan](https://polygonscan.com), [etherscan](https://etherscan.io) or [Bitquery](https://explorer.bitquery.io/) allows to look at the flow of funds from and to those wallets.
 
@@ -42,7 +42,7 @@ What's been implemented so far:
 
 ## How ?
 
-Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in CSV files.
+Use [`main.py [leaderboard|contests|github|all]`](main.py) to fetch and parse the latest data in CSV files.
 
 Currently, the extracted data from the Github API ([github_code4rena.csv](github_code4rena.csv)) looks like this:
 | contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
@@ -64,6 +64,11 @@ For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), th
 | period | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
 | ------ | ------ | ----------- | ------------- | -------- | --------- | ------- | -------- | -------
 | The period for which the data comes from | Name of the warden | Total earnings for the period (in $USD) | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
+
+And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data looks like this:
+| contest_report_repo | contest_sponsor | contest_desc | start | end | prize_pool | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
+| ---
+| The name of the Github repo for the contest audit report or empty if not published yet | Name of the contest sponsor (lowercase, stripped) | Description of the contest sponsor | Starting date of the contest | Ending date of the contest | Total prize pool (calculated from the sum of warden's prize money) | Name of the warden | Total earnings for the contest (in $USD) | Total accepted reports for the contest | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
 ## Next ?
 
