@@ -23,7 +23,7 @@ Also, the extracted data allows to see who might be most efficient, writes the m
 
 What's been implemented so far:
 
-- Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the bar chart to filter for starting dates in the timeline chart*.
+- Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the right bar chart to filter for starting dates in the timeline chart*.
 
 ![Participant's longevity](charts_data/preview_participants_longevity.png)
 [Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_longevity.ipynb)
@@ -42,7 +42,7 @@ What's been implemented so far:
 
 ## How ?
 
-Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in a CSV files.
+Use [`code4rena_scraper.py`](code4rena_scraper.py) to fetch and parse the latest data in CSV files.
 
 Currently, the extracted data from the Github API ([github_code4rena.csv](github_code4rena.csv)) looks like this:
 | contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
@@ -69,6 +69,6 @@ For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), th
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
 - [x] Use data analysis modules or external programs to actually do something with the data
+- [ ] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html).
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed
-- [ ] More notebooks --> more graphs
 - [x] ~~Some more data mining from on-chain data maybe (GraphQL API would be best)~~ *won't do, no time*
