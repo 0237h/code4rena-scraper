@@ -76,4 +76,6 @@ And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data
 - [x] Use data analysis modules or external programs to actually do something with the data
 - [ ] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html).
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed
+- [ ] Add command line argument parsing
+- [ ] Make CSV files update rather than recreate all data ? 
 - [x] ~~Some more data mining from on-chain data maybe (GraphQL API would be best)~~ *won't do, no time*
