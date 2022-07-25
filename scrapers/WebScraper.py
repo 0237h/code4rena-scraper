@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import time
 
+from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
@@ -24,6 +25,8 @@ class WebScraper():
 	def scrape_leaderboard_table(self, url):
 		logging.info(f"Parsing dropdown options from '{url}'...")
 		self.driver.get(url)
+		time.sleep(1) # Wait for JS to load page
+
 		periods = self.driver.find_element(By.XPATH, "//select[@class='dropdown']").find_elements(By.TAG_NAME, 'option')
 		logging.info(f"Got {len(periods)} options from '{url}' [success]")
 
@@ -34,17 +37,27 @@ class WebScraper():
 		self.console_handler.terminator = "\r"
 		for period in periods:
 			period.click()
-			table = self.driver.find_element(By.XPATH, "//table[@class='leaderboard-table']").get_attribute("outerHTML")
-			
-			df = pd.read_html(table)[0]
+			time.sleep(1) # Wait for JS to load page
+
+			table = BeautifulSoup(self.driver.find_element(By.XPATH, "//table[@class='leaderboard-table']").get_attribute("outerHTML"), 'lxml')
+			for div in table.find_all(attrs={'class': 'sb-avatar__text'}): # Remove avatar text spand for correct parsing of warden's handle
+				div.extract()			
+
+			df = pd.read_html(str(table))[0]
 			df.columns = leaderboard_columns
 			df["period"] = period.text
 			df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
 
+			is_team_data = []
+			for div in table.find_all(attrs={'class': 'wrapper-competitor'}):
+				is_team_data.append(div.find('div', attrs={'class': 'wrapper-members'}) != None)
+			df["is_team"] = is_team_data 
+			
 			leaderboard_data = pd.concat([leaderboard_data, df])
 			logging.info(f"Parsed {periods.index(period) + 1}/{len(periods)} options ({len(df.index)} rows added for '{period.text}')")
 		self.console_handler.terminator = "\n"
 
+		leaderboard_data.insert(2, 'is_team', leaderboard_data.pop('is_team')) # Re-order column next to 'handle' column
 		return leaderboard_data.reset_index(drop=True)
 
 	def scrape_contests_data(self, url):

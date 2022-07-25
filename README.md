@@ -75,9 +75,9 @@ data = pd.read_csv("../github_code4rena.csv") # Set path accordingly
 ```
 
 For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), the data looks like this:
-| period | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
-| ------ | ------ | ----------- | ------------- | -------- | --------- | ------- | -------- | -------
-| The period for which the data comes from | Name of the warden | Total earnings for the period (in $USD) | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
+| period | handle | is_team | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
+| ------ | ------ | ------- | ----------- | ------------- | -------- | --------- | ------- | -------- | -------
+| The period for which the data comes from | Name of the warden | Boolean indicating if the handle refers to a team or not | Total earnings for the period (in $USD) | Total accepted reports for the period | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
 And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data looks like this:
 | contest_report_repo | contest_sponsor | contest_desc | start | end | prize_pool | handle | prize_money | total_reports | high_all | high_solo | med_all | med_solo | gas_all
