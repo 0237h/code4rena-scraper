@@ -89,8 +89,8 @@ And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
 - [x] Use data analysis modules or external programs to actually do something with the data
 - [X] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html)
+- [x] Rework Github scraping for returning DataFrame for consistency
 - [ ] Try to make [ridgeline](https://altair-viz.github.io/gallery/ridgeline_plot.html) work (it looks so sick!)
-- [ ] Rework Github scraping for returning DataFrame for consistency
 - [ ] Rework scraping of issue labels to identify first labels (meaning original submission severity level) and last labels or maybe track entire history of labels in chronological order
 - [ ] Valid / invalid reports charts by contest sorted by start date (bars again ?)
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed

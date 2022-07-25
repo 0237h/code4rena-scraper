@@ -40,7 +40,7 @@ class WebScraper():
 			time.sleep(1) # Wait for JS to load page
 
 			table = BeautifulSoup(self.driver.find_element(By.XPATH, "//table[@class='leaderboard-table']").get_attribute("outerHTML"), 'lxml')
-			for div in table.find_all(attrs={'class': 'sb-avatar__text'}): # Remove avatar text spand for correct parsing of warden's handle
+			for div in table.find_all(attrs={'class': 'sb-avatar__text'}): # Remove avatar text <span> for correct parsing of wardens handle
 				div.extract()			
 
 			df = pd.read_html(str(table))[0]
@@ -98,7 +98,6 @@ class WebScraper():
 							https://code4rena.com/reports/2021-06-pooltogether
 					'''
 					report_link = repos_buttons.find_elements(By.TAG_NAME, 'a')[-1].get_attribute("href")
-					#logging.info(f"report_link:{report_link} / {report_link[report_link.rindex('/') + 1:]}")
 					df["contest_report_repo"] = '' if not 'code4rena.com/reports/' in report_link else report_link[report_link.rindex('/') + 1:]
 
 				contest_header_div = self.driver.find_element(By.XPATH, "//div[@class='top-section-text']")

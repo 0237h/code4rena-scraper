@@ -67,7 +67,7 @@ class GithubScraper():
 			req = self.get_repos(next_page_url)
 			repos += req.json()
 			logging.debug(f"Got {len(repos)} repos, page {'1' if next_page_url == None else next_page_url[next_page_url.rindex('=')+1:]}")
-		logging.info(f"Fetched {len(repos)} repos from '{self.org}'' [success]")
+		logging.info(f"Fetched {len(repos)} repos from '{self.org}' [success]")
 
 		# Keep only audits reports starting from 20 March 2021 (earlier repos used a different format for tracking contributions)
 		repos = list(filter(lambda repo: "findings" in repo['name'] and self.repo_creation_to_date(repo['created_at']) > date(2021, 3, 20), repos))
