@@ -1,4 +1,4 @@
-# code4rena-github-scraper
+# code4rena-scraper
 Scraping [Code4rena](https://www.code4rena.com) contest audits reports for stats, fun (and profit ?).
 
 For accurate prize money numbers check the Code4rena [leaderboard](https://code4rena.com/leaderboard) directly.
@@ -9,15 +9,21 @@ To play around with the [Github API](https://docs.github.com/en/rest) and work m
 
 At first, I was curious since I found out that the audits reports repos contains the address of each participant for sending their prize money (see [here](https://github.com/code-423n4/2021-05-nftx-findings/tree/main/data) for example, in the .json files). It could be an issue if certain people wants to stay anonymous on this platform.
 
+Also, I realized after a week of working on this project that the [website repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) of Code4rena already contains data for contests, findings and handles but hey, I learned a lot !
+
 ## What ?
 
 Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files.
+
+***This part hasn't been implemented or explored too much yet***
 
 Part of the data extracted can be used to link ETH/Polygon addresses to contest participants. Using tools like [polygonscan](https://polygonscan.com), [etherscan](https://etherscan.io) or [Bitquery](https://explorer.bitquery.io/) allows to look at the flow of funds from and to those wallets.
 
 Is it useful ? Probably not.
 
 Worth the time ? I'd say yes as it gave me insights as to how to track funds accross different chains (Polygon, Ethereum mainnet, etc.).
+
+*----------------------------------------------------------------------------*
 
 Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc. Jupyter notebooks can be found in the [charts_data](charts_data/) folder to visualize the data (requires [altair-viz](https://altair-viz.github.io/getting_started/installation.html)).
 
@@ -37,8 +43,16 @@ What's been implemented so far:
 <br/>[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_by_report_severity.ipynb)
 - Multi-line plot of the correlation between the number of reports and the prize money of a warden for each report category – *pro-tip: change the evaluated period with the dropdown below the chart*.
 
-![preview_severity_revenue](charts_data/preview_severity_revenue.png)
+![Correlation between number of reports and prize money for wardens](charts_data/preview_severity_revenue.png)
 [Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb)
+- Boxplot of the prize money distribution per prize pool with customizable bucket size for the prize pool data.
+
+![Prize money distribution per prize pool](charts_data/preview_contests_prize_pool_distribution_boxplot.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Prize-money-distribution-per-prize-pool-(boxplot))
+- Horizontal bar chart of the top n<sup>th</sup> warden's share of the prize pool, for each prize pool value. This data shows how much of the total prize pool the first (or second, third, ... customizable) warden capture for him/herself, with the mean value indicated as a purple vertical line – *pro-tip: click on the legend to highlight a particular warden (or shift+left click for multiple).*
+
+![Top nth warden share of prize pool](charts_data/preview_contests_prize_pool_distribution_bars.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Top-warden's-share-per-prize-pool)
 
 ## How ?
 
