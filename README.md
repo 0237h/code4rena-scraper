@@ -53,6 +53,10 @@ What's been implemented so far:
 
 ![Top nth warden share of prize pool](charts_data/preview_contests_prize_pool_distribution_bars.png)
 [Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Top-warden's-share-per-prize-pool)
+- Multiple pie charts and grouped bar charts for comparing team vs solo wardens performance per period.
+
+![Team VS Solo wardens performance](charts_data/preview_wardens_team_vs_solo.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/wardens_team_vs_solo.ipynb)
 
 ## How ?
 
