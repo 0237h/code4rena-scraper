@@ -43,8 +43,16 @@ What's been implemented so far:
 <br/>[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_by_report_severity.ipynb)
 - Multi-line plot of the correlation between the number of reports and the prize money of a warden for each report category – *pro-tip: change the evaluated period with the dropdown below the chart*.
 
-![Correlation between number of reports and prize money for wardens](charts_data/preview_severity_revenue.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb)
+![Correlation between the prize money and number of reports by severity](charts_data/preview_severity_revenue_line.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Correlation-between-the-prize-money-and-number-of-reports-by-severity)
+- Bar chart of the distribution of solo findings reward by report severity.
+
+![Distribution of solo finding reward by severity](charts_data/preview_severity_revenue_hist.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-solo-finding-reward-by-severity)
+- Boxplots for visualizing the distribution of award money by prize pool, for each severity level.
+
+![Distribution of award money compared by prize pool, for each severity level](charts_data/preview_severity_revenue_box.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-award-money-compared-by-prize-pool,-for-each-severity-level)
 - Boxplot of the prize money distribution per prize pool with customizable bucket size for the prize pool data.
 
 ![Prize money distribution per prize pool](charts_data/preview_contests_prize_pool_distribution_boxplot.png)
