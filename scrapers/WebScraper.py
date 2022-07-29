@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
+from selenium.common.exceptions import NoSuchElementException
 
 class WebScraper():
 	"""docstring for WebScraper"""
@@ -82,40 +83,48 @@ class WebScraper():
 			self.driver.get(contest_link)
 			time.sleep(1) # Wait for JS to load page
 
-			contest_tabs = self.driver.find_element(By.XPATH, "//div[@class='contest-tabs']")
-			if (len(contest_tabs.find_element(By.TAG_NAME, 'ul').find_elements(By.TAG_NAME, 'li')) > 2): # If 'Results' tab is present, the page contains the tabs ['Results', 'Details', 'FAQ'] (in order) 
-				df = pd.read_html(contest_tabs.find_element(By.XPATH, "//table[@class='leaderboard-table']").get_attribute("outerHTML"))[0]
-				df.columns = ["id"] + contest_table_columns
-				df.drop("id", axis=1, inplace=True)
+			try:
+				contest_tabs = self.driver.find_element(By.XPATH, "//div[@class='contest-tabs']")
+			except NoSuchElementException as e:
+				logging.warning(f"Could not parse '{contest_link}': contests tabs not found\n")
+				continue
 
-				df["contest_report_repo"] = ''
-				repos_buttons = self.driver.find_element(By.XPATH, "//div[@class='button-wrapper']")
-				if (len(repos_buttons.find_elements(By.TAG_NAME, 'a')) > 1): # Check that the contest report has been published 
-					'''
-						Report link is either a PDF file (older contests) or a link containing the repo name which can be used with the scraped Github data
-						Examples : 
-							https://ipfs.io/ipfs/bafybeicjla2h26q3wz4s344bsrtvhkxr3ypm44owvrzyorb2t6tcptlmem/C4%20Slingshot%20report.pdf
-							https://code4rena.com/reports/2021-06-pooltogether
-					'''
-					report_link = repos_buttons.find_elements(By.TAG_NAME, 'a')[-1].get_attribute("href")
-					df["contest_report_repo"] = '' if not 'code4rena.com/reports/' in report_link else report_link[report_link.rindex('/') + 1:]
+			try:
+				leaderboard_table = contest_tabs.find_element(By.XPATH, "//table[@class='leaderboard-table']")
+			except NoSuchElementException as e:
+				logging.warning(f"No awards distributed yet for '{contest_link}'\n")
+				continue			
 
-				contest_header_div = self.driver.find_element(By.XPATH, "//div[@class='top-section-text']")
-				df["contest_sponsor"] = contest_header_div.find_element(By.TAG_NAME, 'h1').get_attribute('innerText').lower().replace(' ', '').replace('contest', '')
-				df["contest_desc"] = contest_header_div.find_element(By.TAG_NAME, 'p').get_attribute('innerText')
-				
-				contest_date_div = self.driver.find_element(By.XPATH, "//div[@class='contest-tippy-top']")
-				dates = contest_date_div.find_element(By.TAG_NAME, 'p').get_attribute("innerText").split('—') # Example: Contest ran 16 February 2021—22 February 2021
-				df["start"] = ' '.join(dates[0].split(' ')[-3:]) # Remove the 'Contest ran ' and keep only starting date
-				df["end"] = dates[1]
+			df = pd.read_html(leaderboard_table.get_attribute("outerHTML"))[0]
+			df.columns = ["id"] + contest_table_columns
+			df.drop("id", axis=1, inplace=True)
 
-				df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
-				df["prize_pool"] = round(sum(df["prize_money"]))
+			df["contest_report_repo"] = ''
+			repos_buttons = self.driver.find_element(By.XPATH, "//div[@class='button-wrapper']")
+			if (len(repos_buttons.find_elements(By.TAG_NAME, 'a')) > 1): # Check that the contest report has been published 
+				'''
+					Report link is either a PDF file (older contests) or a link containing the repo name which can be used with the scraped Github data
+					Examples : 
+						https://ipfs.io/ipfs/bafybeicjla2h26q3wz4s344bsrtvhkxr3ypm44owvrzyorb2t6tcptlmem/C4%20Slingshot%20report.pdf
+						https://code4rena.com/reports/2021-06-pooltogether
+				'''
+				report_link = repos_buttons.find_elements(By.TAG_NAME, 'a')[-1].get_attribute("href")
+				df["contest_report_repo"] = '' if not 'code4rena.com/reports/' in report_link else report_link[report_link.rindex('/') + 1:]
 
-				contests_data = pd.concat([contests_data, df])
-				logging.info(f"Parsed {contests.index(contest_link) + 1}/{len(contests)} contests ({len(df.index)} rows added) ")
-			else:
-				logging.warning(f"No report yet published for '{contest_link}'\n")
+			contest_header_div = self.driver.find_element(By.XPATH, "//div[@class='top-section-text']")
+			df["contest_sponsor"] = contest_header_div.find_element(By.TAG_NAME, 'h1').get_attribute('innerText').lower().replace(' ', '').replace('contest', '')
+			df["contest_desc"] = contest_header_div.find_element(By.TAG_NAME, 'p').get_attribute('innerText')
+			
+			contest_date_div = self.driver.find_element(By.XPATH, "//div[@class='contest-tippy-top']")
+			dates = contest_date_div.find_element(By.TAG_NAME, 'p').get_attribute("innerText").split('—') # Example: Contest ran 16 February 2021—22 February 2021
+			df["start"] = ' '.join(dates[0].split(' ')[-3:]) # Remove the 'Contest ran ' and keep only starting date
+			df["end"] = dates[1]
+
+			df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
+			df["prize_pool"] = round(sum(df["prize_money"]))
+
+			contests_data = pd.concat([contests_data, df])
+			logging.info(f"Parsed {contests.index(contest_link) + 1}/{len(contests)} contests ({len(df.index)} rows added) ")
 		self.console_handler.terminator = "\n"
 
 		return contests_data.reset_index(drop=True)
