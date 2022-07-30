@@ -13,7 +13,7 @@ Also, I realized after a week of working on this project that the [website repo]
 
 ## What ?
 
-Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files.
+Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files. Original CSV files can also be used directly from the [Code4rena repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) in the contests/ and findings/ folders. 
 
 ***This part hasn't been implemented or explored too much yet***
 
@@ -102,7 +102,7 @@ And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data
 - [x] Use data analysis modules or external programs to actually do something with the data
 - [X] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html)
 - [x] Rework Github scraping for returning DataFrame for consistency
-- [ ] Try to make [ridgeline](https://altair-viz.github.io/gallery/ridgeline_plot.html) work (it looks so sick!)
+- [x] ~~Try to make [ridgeline](https://altair-viz.github.io/gallery/ridgeline_plot.html) work (it looks so sick!)~~ *not best for this kind of data actually*
 - [ ] Rework scraping of issue labels to identify first labels (meaning original submission severity level) and last labels or maybe track entire history of labels in chronological order
 - [ ] Valid / invalid reports charts by contest sorted by start date (bars again ?)
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed
