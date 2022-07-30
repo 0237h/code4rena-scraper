@@ -31,40 +31,40 @@ What's been implemented so far:
 
 - Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the right bar chart to filter for starting dates in the timeline chart*.
 
-![Participant's longevity](charts_data/preview_participants_longevity.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_longevity.ipynb)
+![Participant's longevity](charts_data/screenshots/preview_participants_longevity.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_longevity.ipynb)
 - Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
 
-![Participant growth](charts_data/preview_participants_growth.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_growth.ipynb)
+![Participant growth](charts_data/screenshots/preview_participants_growth.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_growth.ipynb)
 - Stacked bar chart showing the number of entries submitted by each warden, grouped by severity. Also show the total number of submissions for each severity category – *pro-tip: left click (or shift + left click) for filtering the data by one or more severity level*.
 
-![Participant entries by severity](charts_data/preview_participants_by_report_severity.png)
-<br/>[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/participants_by_report_severity.ipynb)
+![Participant entries by severity](charts_data/screenshots/preview_participants_by_report_severity.png)
+<br/>[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_by_report_severity.ipynb)
 - Multi-line plot of the correlation between the number of reports and the prize money of a warden for each report category – *pro-tip: change the evaluated period with the dropdown below the chart*.
 
-![Correlation between the prize money and number of reports by severity](charts_data/preview_severity_revenue_line.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Correlation-between-the-prize-money-and-number-of-reports-by-severity)
+![Correlation between the prize money and number of reports by severity](charts_data/screenshots/preview_severity_revenue_line.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Correlation-between-the-prize-money-and-number-of-reports-by-severity)
 - Bar chart of the distribution of solo findings reward by report severity.
 
-![Distribution of solo finding reward by severity](charts_data/preview_severity_revenue_hist.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-solo-finding-reward-by-severity)
+![Distribution of solo finding reward by severity](charts_data/screenshots/preview_severity_revenue_hist.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-solo-finding-reward-by-severity)
 - Boxplots for visualizing the distribution of award money by prize pool, for each severity level.
 
-![Distribution of award money compared by prize pool, for each severity level](charts_data/preview_severity_revenue_box.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-award-money-compared-by-prize-pool,-for-each-severity-level)
+![Distribution of award money compared by prize pool, for each severity level](charts_data/screenshots/preview_severity_revenue_box.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-award-money-compared-by-prize-pool,-for-each-severity-level)
 - Boxplot of the prize money distribution per prize pool with customizable bucket size for the prize pool data.
 
-![Prize money distribution per prize pool](charts_data/preview_contests_prize_pool_distribution_boxplot.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Prize-money-distribution-per-prize-pool-(boxplot))
+![Prize money distribution per prize pool](charts_data/screenshots/preview_contests_prize_pool_distribution_boxplot.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Prize-money-distribution-per-prize-pool-(boxplot))
 - Horizontal bar chart of the top n<sup>th</sup> warden's share of the prize pool, for each prize pool value. This data shows how much of the total prize pool the first (or second, third, ... customizable) warden capture for him/herself, with the mean value indicated as a purple vertical line – *pro-tip: click on the legend to highlight a particular warden (or shift+left click for multiple).*
 
-![Top nth warden share of prize pool](charts_data/preview_contests_prize_pool_distribution_bars.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Top-warden's-share-per-prize-pool)
+![Top nth warden share of prize pool](charts_data/screenshots/preview_contests_prize_pool_distribution_bars.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Top-warden's-share-per-prize-pool)
 - Multiple pie charts and grouped bar charts for comparing team vs solo wardens performance per period.
 
-![Team VS Solo wardens performance](charts_data/preview_wardens_team_vs_solo.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-github-scraper/blob/master/charts_data/wardens_team_vs_solo.ipynb)
+![Team VS Solo wardens performance](charts_data/screenshots/preview_wardens_team_vs_solo.png)
+[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/wardens_team_vs_solo.ipynb)
 
 ## How ?
 
