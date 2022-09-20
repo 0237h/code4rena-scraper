@@ -7,3 +7,4 @@ selenium>=4.3.0
 bs4
 webdriver-manager
 lxml
+jupyter-book
