@@ -1,10 +1,10 @@
+altair>=4.2.0
+bs4>=0.0.1
 GitPython>=3.1.27
+lxml>=4.6.3
 pandas>=1.4.3
 python-dotenv>=0.20.0
 requests>=2.26.0
 requests_cache>=0.9.5
 selenium>=4.3.0
-bs4
-webdriver-manager
-lxml
-jupyter-book
+webdriver-manager>=3.8.3
