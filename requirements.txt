@@ -4,4 +4,4 @@ python-dotenv>=0.20.0
 requests>=2.26.0
 requests_cache>=0.9.5
 selenium>=4.3.0
-beautifulsoup4>=4.9.3
+bs4
