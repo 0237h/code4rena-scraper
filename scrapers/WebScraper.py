@@ -5,6 +5,7 @@ import time
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
+from webdriver_manager.firefox import GeckoDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException
@@ -17,7 +18,7 @@ class WebScraper():
 		logging.info("Starting Selenium driver (firefox headless)...")
 		browser_options = Options()
 		browser_options.headless = True
-		self.driver = webdriver.Firefox(options=browser_options, executable_path=os.getenv('FIREFOX_DRIVER_PATH'))
+		self.driver = webdriver.Firefox(options=browser_options, executable_path=GeckoDriverManager().install())
 		logging.info(f"Selenium driver started [success]")
 
 	def __del__(self):

@@ -5,3 +5,4 @@ requests>=2.26.0
 requests_cache>=0.9.5
 selenium>=4.3.0
 bs4
+webdriver-manager
