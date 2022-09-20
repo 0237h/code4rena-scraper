@@ -5,27 +5,27 @@ For accurate prize money numbers check the Code4rena [leaderboard](https://code4
 
 ## Why ?
 
-To play around with the [Github API](https://docs.github.com/en/rest) and work my python scripting skills. It also got me working on data analysis tools like [Jupyter notebooks](https://jupyter.org/), [Pandas](https://pandas.pydata.org/docs/index.html) for manipulating the data and the [Altair](https://altair-viz.github.io/index.html) visualization framework.
+To play around with the [Github API](https://docs.github.com/en/rest) and work my python scripting skills. It also gave me the chance to work with data analysis tools such as [Jupyter notebooks](https://jupyter.org/), [Pandas](https://pandas.pydata.org/docs/index.html) for manipulating the data and [Altair](https://altair-viz.github.io/index.html), a visualization framework for generating charts.
 
-At first, I was curious since I found out that the audits reports repos contains the address of each participant for sending their prize money (see [here](https://github.com/code-423n4/2021-05-nftx-findings/tree/main/data) for example, in the .json files). It could be an issue if certain people wants to stay anonymous on this platform.
+In the beginning, I was curious since I found out that the audits reports repos contains the address of each participant for sending their prize money (see [here](https://github.com/code-423n4/2021-05-nftx-findings/tree/main/data) for example, in the .json files). I thought it would be interesting to try and track the flow of funds (which could be an issue if certain people wants to stay anonymous on this platform). However, this part is currently left out and the project quickly evolved into extracting data and building statistics from the Code4rena contests.  
 
-Also, I realized after a week of working on this project that the [website repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) of Code4rena already contains data for contests, findings and handles but hey, I learned a lot !
+Also, I realized after a week of working on this project that the [website repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) of Code4rena already contains data for contests, findings and handles but hey, I learned a lot about the scraping process !
 
 ## What ?
 
 Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files. Original CSV files can also be used directly from the [Code4rena repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) in the contests/ and findings/ folders. 
 
-***This part hasn't been implemented or explored too much yet***
-
-Part of the data extracted can be used to link ETH/Polygon addresses to contest participants. Using tools like [polygonscan](https://polygonscan.com), [etherscan](https://etherscan.io) or [Bitquery](https://explorer.bitquery.io/) allows to look at the flow of funds from and to those wallets.
+Part of the data extracted can be used to link ETH/Polygon addresses to contest participants. Using tools like [polygonscan](https://polygonscan.com), [etherscan](https://etherscan.io) or [Bitquery](https://explorer.bitquery.io/) allows to look at the flow of funds from and to those wallets (***this part hasn't been implemented or explored too much yet***).
 
 Is it useful ? Probably not.
 
 Worth the time ? I'd say yes as it gave me insights as to how to track funds accross different chains (Polygon, Ethereum mainnet, etc.).
 
-*----------------------------------------------------------------------------*
+Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc. 
 
-Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc. Jupyter notebooks can be found in the [charts_data](charts_data/) folder to visualize the data (requires [altair-viz](https://altair-viz.github.io/getting_started/installation.html)).
+### Jupyter notebooks
+Notebooks can be found in the [charts_data](charts_data/) folder to visualize the data. A link is provided below each chart for a static view of each notebook.
+For an interactive lab, you could setup your own locally or run one online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krow10/code4rena-scraper/HEAD).
 
 What's been implemented so far:
 
@@ -68,7 +68,9 @@ What's been implemented so far:
 
 ## How ?
 
-Use [`main.py [leaderboard|contests|github|all]`](main.py) to fetch and parse the latest data in CSV files.
+Install all requirements through `pip install -r requirements.txt` and setup your own [Github access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) in the `.env` file. 
+
+Then use [`main.py [leaderboard|contests|github|all]`](main.py) to fetch and parse the latest data in CSV files. A Github action is available for updating the CSV files in this repo directly.
 
 Currently, the extracted data from the Github API ([github_code4rena.csv](github_code4rena.csv)) looks like this:
 | contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
@@ -84,6 +86,9 @@ import altair as alt
 
 alt.data_transformers.disable_max_rows() # Disable 5_000 rows limit
 data = pd.read_csv("../github_code4rena.csv") # Set path accordingly
+
+# Visualize whatever (see https://altair-viz.github.io)
+alt.Chart(...)
 ```
 
 For the leaderboard ([leaderboard_code4rena.csv](leaderboard_code4rena.csv)), the data looks like this:
