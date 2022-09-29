@@ -158,6 +158,7 @@ class GithubScraper():
 						# Additional infos
 						json_data['contest_sponsor'] = " ".join(repo.split('-')[2:-1])
 						json_data['date'] = "/".join(repo.split('-')[:2])
+						json_data['issueCreation'] = issue['created_at']
 						json_data['tags'] = ";".join([l['name'] for l in issue['labels']])
 						
 						repos_data = pd.concat([repos_data, pd.DataFrame([json_data])], ignore_index=True)

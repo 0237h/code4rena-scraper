@@ -27,44 +27,7 @@ Also, the extracted data allows to see who might be most efficient, writes the m
 Notebooks can be found in the [charts_data](charts_data/) folder to visualize the data. A link is provided below each chart for a static view of each notebook.
 For an interactive lab, you could setup your own locally or run one online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krow10/code4rena-scraper/HEAD).
 
-What's been implemented so far:
-
-- Timeline of wardens participations and bar chart of the number of new participants grouped by their first contest date – *pro tip: drag the mouse on the right bar chart to filter for starting dates in the timeline chart*.
-
-![Participant's longevity](charts_data/screenshots/preview_participants_longevity.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_longevity.ipynb)
-- Stacked bar chart which shows the growth of the number of wardens as well as the active (includes brand new wardens), non-participating and inactive proportions of wardens for each month.
-
-![Participant growth](charts_data/screenshots/preview_participants_growth.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_growth.ipynb)
-- Stacked bar chart showing the number of entries submitted by each warden, grouped by severity. Also show the total number of submissions for each severity category – *pro-tip: left click (or shift + left click) for filtering the data by one or more severity level*.
-
-![Participant entries by severity](charts_data/screenshots/preview_participants_by_report_severity.png)
-<br/>[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/participants_by_report_severity.ipynb)
-- Multi-line plot of the correlation between the number of reports and the prize money of a warden for each report category – *pro-tip: change the evaluated period with the dropdown below the chart*.
-
-![Correlation between the prize money and number of reports by severity](charts_data/screenshots/preview_severity_revenue_line.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Correlation-between-the-prize-money-and-number-of-reports-by-severity)
-- Bar chart of the distribution of solo findings reward by report severity.
-
-![Distribution of solo finding reward by severity](charts_data/screenshots/preview_severity_revenue_hist.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-solo-finding-reward-by-severity)
-- Boxplots for visualizing the distribution of award money by prize pool, for each severity level.
-
-![Distribution of award money compared by prize pool, for each severity level](charts_data/screenshots/preview_severity_revenue_box.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/severity_revenue.ipynb#Distribution-of-award-money-compared-by-prize-pool,-for-each-severity-level)
-- Boxplot of the prize money distribution per prize pool with customizable bucket size for the prize pool data.
-
-![Prize money distribution per prize pool](charts_data/screenshots/preview_contests_prize_pool_distribution_boxplot.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Prize-money-distribution-per-prize-pool-(boxplot))
-- Horizontal bar chart of the top n<sup>th</sup> warden's share of the prize pool, for each prize pool value. This data shows how much of the total prize pool the first (or second, third, ... customizable) warden capture for him/herself, with the mean value indicated as a purple vertical line – *pro-tip: click on the legend to highlight a particular warden (or shift+left click for multiple).*
-
-![Top nth warden share of prize pool](charts_data/screenshots/preview_contests_prize_pool_distribution_bars.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/contests_prize_pool_distribution.ipynb#Top-warden's-share-per-prize-pool)
-- Multiple pie charts and grouped bar charts for comparing team vs solo wardens performance per period.
-
-![Team VS Solo wardens performance](charts_data/screenshots/preview_wardens_team_vs_solo.png)
-[Try it here !](https://nbviewer.org/github/Krow10/code4rena-scraper/blob/master/charts_data/wardens_team_vs_solo.ipynb)
+You can also run non-interactive notebooks through [nbviewer](https://nbviewer.org/github/Krow10/code4rena-scraper/tree/master/charts_data/).
 
 ## How ?
 
@@ -73,9 +36,9 @@ Install all requirements through `pip install -r requirements.txt` and setup you
 Then use [`main.py [leaderboard|contests|github|all]`](main.py) to fetch and parse the latest data in CSV files. A Github action is available for updating the CSV files in this repo directly.
 
 Currently, the extracted data from the Github API ([github_code4rena.csv](github_code4rena.csv)) looks like this:
-| contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags |
-| ---------- | ------ | ------- | ---- | ----- | ------- | -------- | --------------- | ---- | ---- |
-| Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, G for gas optimization, Q for QA) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) |
+| contest_id | handle | address | risk | title | issueId | issueUrl | contest_sponsor | date | tags | issueCreation |
+| ---------- | ------ | ------- | ---- | ----- | ------- | -------- | --------------- | ---- | ---- | ------------- |
+| Identifiy the contest | Name of the warden | Polygon address | Caracterize the submission criticity (0 to 3, G for gas optimization, Q for QA) | Title of the submission | Github issue number | Github issue URL (unused) | Contest sponsor extracted from repo's name | Contest running date extracted from repo's name | Tags associated with issue (further caracterize the submission) | Creation time of the issue |
 
 So each line in the csv file corresponds to one submission (identified by the `issueId`) of a warden (identified by his/her `(handle, address)` pair) for a given contest (identified by the `contest_id`).
 
@@ -105,12 +68,12 @@ And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
 - [x] Use data analysis modules or external programs to actually do something with the data
-- [X] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html)
+- [x] For each contest, scrape the prize pool and results from the Code4rena contest page ([example](https://code4rena.com/contests/2021-02-slingshot-finance-contest)) and make a [ridgeline plot](https://altair-viz.github.io/gallery/ridgeline_plot.html) showing the distribution of rewards for each prize pool amount (with layered distribution for same pool amount) or simpler [boxplots](https://altair-viz.github.io/gallery/boxplot.html)
 - [x] Rework Github scraping for returning DataFrame for consistency
 - [x] ~~Try to make [ridgeline](https://altair-viz.github.io/gallery/ridgeline_plot.html) work (it looks so sick!)~~ *not best for this kind of data actually*
-- [ ] Rework scraping of issue labels to identify first labels (meaning original submission severity level) and last labels or maybe track entire history of labels in chronological order
-- [ ] Valid / invalid reports charts by contest sorted by start date (bars again ?)
+- [x] ~~Rework scraping of issue labels to identify first labels (meaning original submission severity level) and last labels or maybe track entire history of labels in chronological order~~ *done through parsing with pandas*
+- [x] ~~Valid / invalid reports charts by contest sorted by start date (bars again ?)~~ *done and more in warden_stats*
 - [ ] Connect to Polygon/Ethereum blockchain to show the balances of the addresses listed
 - [ ] Add command line argument parsing
-- [ ] Make CSV files update rather than recreate all data ? 
+- [ ] Make CSV files auto-update through workflow when changes happens on the Code4rena repo
 - [x] ~~Some more data mining from on-chain data maybe (GraphQL API would be best)~~ *won't do, no time*
