@@ -67,10 +67,13 @@ class WebScraper():
 		self.driver.get(url)
 		time.sleep(1) # Wait for JS to load page
 
-		contests = [
-			c.find_element(By.XPATH, "//div[contains(@class, 'contest-repo')]").get_attribute("href")
-			for c in self.driver.find_elements(By.XPATH, "//div[@class='wrapper-contest-content']")
-		]
+		contests = []
+		for c in self.driver.find_elements(By.XPATH, "//div[@class='wrapper-contest-content']"):
+			try:
+				contests.append(c.find_element(By.XPATH, "//div[contains(@class, 'contest-repo')]").get_attribute("href"))
+			except NoSuchElementException as e:
+				logging.warning(f"Could not find contest link for '{c.find_element(By.TAG_NAME, 'h4').get_attribute('innerText')}'\n")
+				continue
 		logging.info(f"Got {len(contests)} contests from '{url}' [success]")
 
 		contest_table_columns = ['handle', 'prize_money', 'total_reports', 'high_all', 'high_solo', 'med_all', 'med_solo', 'gas_all']
