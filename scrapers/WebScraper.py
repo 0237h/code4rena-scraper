@@ -99,6 +99,10 @@ class WebScraper():
 				logging.warning(f"No awards distributed yet for '{contest_link}'\n")
 				continue			
 
+			if "No results to show" in leaderboard_table.get_attribute("outerHTML"):
+				logging.warning(f"No awards distributed yet for '{contest_link}'\n")
+				continue
+
 			df = pd.read_html(leaderboard_table.get_attribute("outerHTML"))[0]
 			df.columns = ["id"] + contest_table_columns
 			df.drop("id", axis=1, inplace=True)
