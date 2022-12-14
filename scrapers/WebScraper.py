@@ -70,7 +70,7 @@ class WebScraper():
 		contests = []
 		for c in self.driver.find_elements(By.XPATH, "//div[@class='wrapper-contest-content']"):
 			try:
-				contests.append(c.find_element(By.XPATH, "//a[contains(@class, 'contest-repo')]").get_attribute("href"))
+				contests.append(c.find_element(By.XPATH, ".a[contains(@class, 'contest-repo')]").get_attribute("href"))
 			except NoSuchElementException as e:
 				logging.warning(f"Could not find contest link for '{c.find_element(By.TAG_NAME, 'h4').get_attribute('innerText')}'\n")
 				continue
