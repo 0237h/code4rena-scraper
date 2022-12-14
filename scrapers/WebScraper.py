@@ -68,7 +68,7 @@ class WebScraper():
 		time.sleep(1) # Wait for JS to load page
 
 		contests = [
-			c.find_elements(By.TAG_NAME, "a")[-1].get_attribute("href") # 'div' can contain multiple links but last one is always the contest link (see 'Cudos contest' for example)
+			c.find_element(By.XPATH, "//div[contains(@class, 'contest-repo')]").get_attribute("href")
 			for c in self.driver.find_elements(By.XPATH, "//div[@class='wrapper-contest-content']")
 		]
 		logging.info(f"Got {len(contests)} contests from '{url}' [success]")
