@@ -1,0 +1,60 @@
+name: Build website
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "**.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - uses: actions/setup-python@v4
+        with:
+            python-version: "3.11"
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Update analysis notebooks
+        run: |
+          for filename in charts_data/*.ipynb; do
+            jupyter nbconvert --to notebook --execute $filename --ExecutePreprocessor.kernel_name='python3' --inplace
+          done
+      - name: Convert notebooks to HTML
+        run: |
+          for filename in charts_data/*.ipynb; do
+            jupyter nbconvert --to html $filename
+          done
+          mkdir -p site/static
+          mv index.html site/static/
+      - name: Upload artifacts
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'site/'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated static html notebooks build
