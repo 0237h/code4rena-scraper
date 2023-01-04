@@ -48,12 +48,12 @@ class WebScraper():
 			df = pd.read_html(str(table))[0]
 			df.columns = leaderboard_columns
 			df["period"] = period.text
-			df["prize_money"] = pd.to_numeric(df["prize_money"].str.replace(r'\$|,', '', regex=True), errors='coerce').astype(float)
+			df["prize_money"] = pd.to_numeric(df["prize_money"].str.replace(r'\$|,', '', regex=True), errors='coerce').fillna(0).astype(float)
 
 			is_team_data = []
 			for div in table.find_all(attrs={'class': 'wrapper-competitor'}):
 				is_team_data.append(div.find('div', attrs={'class': 'wrapper-members'}) != None)
-			df["is_team"] = is_team_data if is_team_data else None
+			df["is_team"] = is_team_data if is_team_data else False
 			
 			leaderboard_data = pd.concat([leaderboard_data, df])
 			logging.info(f"Parsed {periods.index(period) + 1}/{len(periods)} options ({len(df.index)} rows added for '{period.text}')")
