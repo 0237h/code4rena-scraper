@@ -709,7 +709,7 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-10-inverse,inversefinance,Rethink the way you borrow.,25 October 2022,30 October 2022,50000,saneryee,0.38,1,0,0,1,0,0
 2022-10-inverse,inversefinance,Rethink the way you borrow.,25 October 2022,30 October 2022,50000,Ccuteboiz,0.38,1,0,0,1,0,0
 2022-10-inverse,inversefinance,Rethink the way you borrow.,25 October 2022,30 October 2022,50000,M4TZ1P,0.38,1,0,0,1,0,0
-2022-10-inverse,inversefinance,Rethink the way you borrow.,25 October 2022,30 October 2022,50000,Rrokinot,0.38,1,0,0,1,0,0
+2022-10-inverse,inversefinance,Rethink the way you borrow.,25 October 2022,30 October 2022,50000,rokinot,0.38,1,0,0,1,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,TTrust,27733.34,12,4,2,7,3,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0xA5DF,6718.76,5,4,0,1,1,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,LLambda,6646.71,7,2,0,4,2,0
@@ -783,77 +783,77 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Zzishansami,26.35,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Tomio,26.35,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Shinchan,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,SSatyam_Sharma,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Satyam_Sharma,26.35,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,sakman,26.35,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Saintcode_,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Rryshaw,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,ryshaw,26.35,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,ret2basic,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,PPheonix,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ppeiw,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,MMukund,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,MMetatron,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,MMathieu,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,JJujic,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Pheonix,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,peiw,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Mukund,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Metatron,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Mathieu,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Jujic,26.35,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,JrNet,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,JJC,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Iiepathos,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ii_got_hacked,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Hhxzy,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,JC,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,iepathos,26.35,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,i_got_hacked,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,hxzy,26.35,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,gogo,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ggianganhnguyen,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,gianganhnguyen,26.35,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,exolorkistis,26.35,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,DdurianSausage,26.35,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,durianSausage,26.35,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0xsam,26.35,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0x1f8b,26.35,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Mminhtrng,11.44,3,0,0,2,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Aarcoun,6.83,2,0,0,1,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Tteawaterwire,1.97,2,0,0,1,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,minhtrng,11.44,3,0,0,2,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,arcoun,6.83,2,0,0,1,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,teawaterwire,1.97,2,0,0,1,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,nadin,1.97,1,0,0,1,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ppashov,0.02,2,0,0,1,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Cchaduke,0.02,3,0,0,1,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Bballx,0.02,3,0,0,1,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,22997ms,0.02,2,0,0,1,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,pashov,0.02,2,0,0,1,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,chaduke,0.02,3,0,0,1,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,ballx,0.02,3,0,0,1,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,2997ms,0.02,2,0,0,1,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ocean_Sky,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,MMigue,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,MMargaret,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Migue,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Margaret,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,malinariy,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Llouhk,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,louhk,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,kv,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Iignacio,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Hhansfriese,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,ignacio,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,hansfriese,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,francoHacker,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,DDravee,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,DDiraco,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ccloudjunky,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ccaventa,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Dravee,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Diraco,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,cloudjunky,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,caventa,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,a12jmx,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,00xhunter,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0xhunter,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,seyni,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,RRaoulSchaffranek,0.0,1,0,0,0,0,0
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,RaoulSchaffranek,0.0,1,0,0,0,0,0
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Rahoz,0.0,1,0,0,0,0,0
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ww0Lfrum,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ttnevler,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,TTagir2003,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Sskyle,0.0,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ssikorico,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,PPaludoX0,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,w0Lfrum,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,tnevler,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Tagir2003,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,skyle,0.0,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,sikorico,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,PaludoX0,0.0,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Olivierdem,0.0,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Llyncurion,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,lyncurion,0.0,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,lucacez,0.0,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,KKingNFT,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,KingNFT,0.0,2,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Franfran,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Eemrekocak,0.0,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,emrekocak,0.0,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,dharma09,0.0,1,0,0,0,0,1
 2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,cylzxje,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Cchrisdior4,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Ccatwhiskeys,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Bbulej93,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Bbeardofginger,0.0,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,AAmithuddar,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,00xzh,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,00x5rings,0.0,2,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,00x040,0.0,1,0,0,0,0,1
-2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,YYiko,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,chrisdior4,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,catwhiskeys,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,bulej93,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,beardofginger,0.0,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Amithuddar,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0xzh,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0x5rings,0.0,2,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,0x040,0.0,1,0,0,0,0,1
+2022-10-holograph,holograph,"Omnichain protocol for deploying, minting, & bridging NFTs between blockchains.",18 October 2022,25 October 2022,75000,Yiko,0.0,2,0,0,0,0,1
 ,3xcalibur,"A liquidity marketplace powered by Tri-AMM architecture to facilitate stableswaps, variable swaps and credit markets.",18 October 2022,23 October 2022,50000,0x52,24368.73,6,3,3,3,1,0
 ,3xcalibur,"A liquidity marketplace powered by Tri-AMM architecture to facilitate stableswaps, variable swaps and credit markets.",18 October 2022,23 October 2022,50000,GalloDaSballo,3707.35,5,0,0,3,1,1
 ,3xcalibur,"A liquidity marketplace powered by Tri-AMM architecture to facilitate stableswaps, variable swaps and credit markets.",18 October 2022,23 October 2022,50000,Mminhtrng,2263.5,2,0,0,2,1,0
@@ -1404,78 +1404,78 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,seyni,53.31,3,0,0,1,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Rrokinot,53.31,3,0,0,1,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Cc3phas,51.61,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,RReyAdmirado,51.16,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ccsanuragjain,48.01,2,0,0,1,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,ReyAdmirado,51.16,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,csanuragjain,48.01,2,0,0,1,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,OOptimismSec,47.99,2,0,0,1,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Bbobirichman,47.63,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,DDeivitto,43.64,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ccryptostellar5,42.95,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,DDiana,42.26,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,BB2,42.0,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,bobirichman,47.63,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Deivitto,43.64,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,cryptostellar5,42.95,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Diana,42.26,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,B2,42.0,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,ret2basic,41.95,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ddelfin454000,41.82,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,delfin454000,41.82,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,RRockingMiles,41.14,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,WWaze,40.98,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ttnevler,40.89,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Aaysha,40.88,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Mmics,40.88,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Waze,40.98,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,tnevler,40.89,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,aysha,40.88,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,mics,40.88,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,cryptphi,40.88,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Funen,40.84,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,DdurianSausage,40.84,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,durianSausage,40.84,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Triangle,40.84,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ggot_targ,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,00x040,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,got_targ,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0x040,40.83,2,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,natzuu,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ssach1r0,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Kkaranctf,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Aasutorufos,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Sslowmoses,40.83,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Jjag,40.82,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,TTagir2003,40.82,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Mmillersplanet,40.82,2,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Yyixxas,39.16,1,0,0,1,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,sach1r0,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,karanctf,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,asutorufos,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,slowmoses,40.83,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,jag,40.82,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Tagir2003,40.82,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,millersplanet,40.82,2,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,yixxas,39.16,1,0,0,1,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0x52,39.16,1,0,0,1,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,a12jmx,28.07,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,00xf15ers,28.07,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ssikorico,28.02,1,0,0,0,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,sikorico,28.02,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,bharg4v,28.01,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,JJLevick,28.01,1,0,0,0,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,JLevick,28.01,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,exd0tpy,28.01,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Tointer,28.01,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,YYiko,28.01,1,0,0,0,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Yiko,28.01,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,obront,28.01,1,0,0,0,0,0
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,yongskiws,28.01,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Yyasir,28.01,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Bbbuddha,28.01,1,0,0,0,0,0
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Pprasantgupta52,26.43,2,0,0,1,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,00x5rings,25.3,2,0,0,1,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,SSnowMan,13.94,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Mmedikko,12.99,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ppeanuts,12.99,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Cch0bu,12.99,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,yasir,28.01,1,0,0,0,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,bbuddha,28.01,1,0,0,0,0,0
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,prasantgupta52,26.43,2,0,0,1,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0x5rings,25.3,2,0,0,1,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,SnowMan,13.94,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,medikko,12.99,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,peanuts,12.99,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,ch0bu,12.99,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Rohan16,12.87,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Zzishansami,12.87,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,zishansami,12.87,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,erictee,12.84,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Dd3e4,12.83,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,AAmithuddar,12.82,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,d3e4,12.83,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Amithuddar,12.82,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Tomio,12.82,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0xA5DF,12.82,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,RRaymondFam,12.82,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,RaymondFam,12.82,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Fitraldys,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,SSooYa,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,SooYa,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,JAGADESH,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,BBen,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Iimare,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,MMetatron,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ben,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,imare,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Metatron,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ocean_Sky,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Bbeardofginger,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,SSatyam_Sharma,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Aalbincsergo,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,beardofginger,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Satyam_Sharma,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,albincsergo,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0xmatt,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Bbulej93,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,bulej93,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,dharma09,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Ddrdr,12.81,1,0,0,0,0,1
-2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,PPheonix,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,drdr,12.81,1,0,0,0,0,1
+2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,Pheonix,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,fatherOfBlocks,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,0xsam,12.81,1,0,0,0,0,1
 2022-09-frax,fraxetherliquidstaking,A liquid ETH staking derivative designed to uniquely leverage the Frax Finance ecosystem.,22 September 2022,25 September 2022,30000,emrekocak,12.81,1,0,0,0,0,1
@@ -1543,51 +1543,51 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Chom,60.78,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Aak1,60.78,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,0x1f8b,59.4,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Rrajatbeladiya,52.43,3,0,0,2,0,0
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,rajatbeladiya,52.43,3,0,0,2,0,0
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,joestakey,52.43,3,0,0,2,0,0
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,berndartmueller,51.69,2,0,0,1,0,0
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Cc3phas,47.42,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Llukris02,46.35,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,c3phas,47.42,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,lukris02,46.35,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,pfapostol,44.82,1,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Aajtra,43.66,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Iimare,41.92,2,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ccryptostellar5,35.87,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DDeivitto,35.17,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,BBnke0x0,31.11,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ajtra,43.66,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,imare,41.92,2,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,cryptostellar5,35.87,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Deivitto,35.17,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Bnke0x0,31.11,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,gogo,31.11,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DdurianSausage,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ooyc_109,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,JJC,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DDiana,30.68,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Bbrgltd,30.45,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Lladboy233,29.04,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,durianSausage,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,oyc_109,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,JC,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Diana,30.68,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,brgltd,30.45,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ladboy233,29.04,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Tomo,28.92,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ppeanuts,28.69,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,peanuts,28.69,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,OOptimismSec,28.69,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Dd3e4,28.69,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,d3e4,28.69,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,0xbepresent,28.69,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRolezn,28.77,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,WWaze,28.65,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Rolezn,28.77,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Waze,28.65,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRockingMiles,28.65,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Funen,28.24,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,a12jmx,28.24,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ttnevler,28.24,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,tnevler,28.24,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,martin,28.18,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Sm4rty,28.18,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Pprasantgupta52,28.18,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,prasantgupta52,28.18,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,seyni,28.7,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,leosathya,28.01,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ddelfin454000,28.01,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Mmillersplanet,27.97,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,delfin454000,28.01,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,millersplanet,27.97,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,erictee,27.97,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Rohan16,27.97,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRaymondFam,27.97,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CChristianKuri,27.96,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Aaysha,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RaymondFam,27.97,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ChristianKuri,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,aysha,27.96,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,VV_B,27.96,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CCodingNameKiki,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CodingNameKiki,27.96,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ret2basic,27.95,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ppeiw,27.95,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,peiw,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,eighty,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,medikko,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,exd0tpy,27.95,2,0,0,0,0,1
@@ -2239,50 +2239,50 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,pedr02b2,222.38,2,0,0,1,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Yyixxas,222.37,2,0,0,1,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,TomJ,207.55,2,0,0,1,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ddatapunk,205.93,4,0,0,3,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Eelad,188.58,3,0,0,3,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,datapunk,205.93,4,0,0,3,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,elad,188.58,3,0,0,3,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,fatherOfBlocks,176.86,3,0,0,1,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,GGimelSec,165.49,2,0,0,1,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Hhansfriese,162.01,4,0,0,3,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,__Adam,150.49,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,hansfriese,162.01,4,0,0,3,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,_Adam,150.49,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,0x1f8b,142.36,3,0,0,1,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,00xc0ffEE,140.96,3,0,0,1,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,CCodingNameKiki,136.39,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Cc3phas,132.81,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Aak1,131.45,2,0,0,1,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,CChristianKuri,121.62,2,0,0,1,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Bbrgltd,118.16,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,0xc0ffEE,140.96,3,0,0,1,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,CodingNameKiki,136.39,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,c3phas,132.81,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ak1,131.45,2,0,0,1,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ChristianKuri,121.62,2,0,0,1,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,brgltd,118.16,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,gogo,116.0,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Pperitoflores,115.46,3,0,0,2,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ttonisives,115.47,3,0,0,2,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,RReyAdmirado,110.46,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,EElKu,109.85,2,0,0,1,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,RRolezn,108.87,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ooyc_109,107.46,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,RRaymondFam,107.23,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,peritoflores,115.46,3,0,0,2,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,tonisives,115.47,3,0,0,2,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ReyAdmirado,110.46,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ElKu,109.85,2,0,0,1,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Rolezn,108.87,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,oyc_109,107.46,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,RaymondFam,107.23,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,leosathya,107.81,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ddjxploit,107.03,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Rrobee,106.23,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,djxploit,107.03,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,robee,106.23,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,martin,106.39,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,PPPrieditis,106.19,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Cch0bu,106.19,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Bbulej93,106.19,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,BBnke0x0,106.19,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Bballx,106.19,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,PPrieditis,106.19,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ch0bu,106.19,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,bulej93,106.19,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Bnke0x0,106.19,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ballx,106.19,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,ret2basic,106.19,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,PPaludoX0,106.18,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,PaludoX0,106.18,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,lucacez,106.18,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Franfran,106.18,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,dharma09,106.18,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ssikorico,106.18,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,SSamatak,106.18,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,WWaze,106.4,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Aasutorufos,106.2,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,sikorico,106.18,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Samatak,106.18,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Waze,106.4,2,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,asutorufos,106.2,2,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Respx,106.2,2,0,0,0,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Wwagmi,100.11,3,0,0,2,0,1
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Eeierina,95.55,2,0,0,1,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,wagmi,100.11,3,0,0,2,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,eierina,95.55,2,0,0,1,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,0xNazgul,90.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,LLeoS,77.96,1,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,LeoS,77.96,1,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,chatch,70.68,1,0,0,1,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,neumo,66.38,2,0,0,1,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,minhtrng,66.38,2,0,0,1,0,0
@@ -2459,41 +2459,41 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Picodes,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,indijanc,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Pprasantgupta52,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,88olidity,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,8olidity,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,BipinSah,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ch_301,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,PPPrieditis,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,EEthLedger,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MMasterCookie,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Rrajatbeladiya,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,PPaludoX0,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MMargaret,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ccloudjunky,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,PPrieditis,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,EthLedger,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MasterCookie,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,rajatbeladiya,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,PaludoX0,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Margaret,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,cloudjunky,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,ch13fd357r0y3r,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,JJC,35.99,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,JC,35.99,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,exolorkistis,32.71,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Zzishansami,32.61,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Cch0bu,32.59,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Jjag,32.59,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,zishansami,32.61,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,ch0bu,32.59,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,jag,32.59,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Noah3o6,32.58,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Saintcode_,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Cchrisdior4,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,AAmithuddar,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SShishigami,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MMetatron,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,RRoiEvenHaim,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ppeiw,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Kkris,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Kkaranctf,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,TTagir2003,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ssimon135,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SSooYa,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,chrisdior4,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Amithuddar,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Shishigami,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Metatron,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,RoiEvenHaim,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,peiw,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,kris,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,karanctf,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Tagir2003,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,simon135,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SooYa,32.58,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Fitraldys,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Nnewfork01,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,DDionysus,32.6,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ppeachtea,11.03,1,0,0,1,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,JJujic,11.03,1,0,0,1,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,DDravee,11.03,1,0,0,1,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,newfork01,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Dionysus,32.6,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,peachtea,11.03,1,0,0,1,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Jujic,11.03,1,0,0,1,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Dravee,11.03,1,0,0,1,0,0
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Rrbserver,10624.99,3,0,0,1,1,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Respx,10610.11,3,0,0,1,1,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,LLambda,1800.55,4,1,0,0,0,1
@@ -2566,26 +2566,26 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Olivierdem,52.36,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ssikorico,52.36,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Bbrgltd,52.34,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Hhyh,52.34,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,hyh,52.34,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,saian,52.34,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,seyni,52.34,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Bbobirichman,52.34,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ccarlitox477,52.34,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Lladboy233,52.13,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,bobirichman,52.34,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,carlitox477,52.34,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,ladboy233,52.13,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Tomo,52.12,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,fatherOfBlocks,52.12,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,ret2basic,52.12,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Pprasantgupta52,52.12,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Llukris02,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Dd3e4,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,prasantgupta52,52.12,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,lukris02,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,d3e4,52.11,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Guardian,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ddelfin454000,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,WWaze,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ccatchup,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,delfin454000,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Waze,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,catchup,52.11,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,GGimelSec,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ssryysryy,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ssimon135,52.11,2,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,LLeoS,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,sryysryy,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,simon135,52.11,2,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,LeoS,52.11,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,durianSausage,52.11,2,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,auditor0517,38.84,1,0,0,0,0,0
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,xiaoming90,35.45,1,0,0,0,0,0
@@ -2862,44 +2862,44 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Aasutorufos,44.84,2,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,apostle0x01,44.84,2,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,a12jmx,44.84,2,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,00xNineDec,44.84,2,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xNineDec,44.84,2,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xbepresent,44.84,2,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0x52,32.12,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Bahurum,30.34,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,RRoiEvenHaim,30.07,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Bbyndooa,29.89,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Wwastewa,29.89,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,VVexjon,29.89,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,RoiEvenHaim,30.07,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,byndooa,29.89,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,wastewa,29.89,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Vexjon,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,sseefried,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,seyni,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,saneryee,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,neumo,29.89,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,LLambda,29.89,1,0,0,0,0,0
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Pp_crypt0,29.89,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Lambda,29.89,1,0,0,0,0,0
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,p_crypt0,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,exd0tpy,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,00xsolstars,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xmatt,29.89,1,0,0,0,0,0
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,m_Rassska,17.47,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Nnewfork01,15.07,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,newfork01,15.07,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Tomio,15.03,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xSmartContract,15.0,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Jjag,14.96,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,AAmithuddar,14.96,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,jag,14.96,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Amithuddar,14.96,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,SpaceCake,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,SSooYa,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Ssashik_eth,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,SooYa,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,sashik_eth,14.95,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,saian,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,NNoamYakov,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,MMetatron,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Iignacio,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Ggerdusx,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,NoamYakov,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Metatron,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,ignacio,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,gerdusx,14.95,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Fitraldys,14.95,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,CRYP70,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,Cchrisdior4,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,22997ms,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,chrisdior4,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,2997ms,14.95,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xHarry,14.95,1,0,0,0,0,1
 2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0xackermann,14.95,1,0,0,0,0,1
-2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,00x040,14.95,1,0,0,0,0,1
+2022-08-fiatdao,fiatdaovefdt,Unlock liquidity for your DeFi fixed income assets.,12 August 2022,15 August 2022,35000,0x040,14.95,1,0,0,0,0,1
 2022-08-foundation,foundationdrop,Foundation is a web3 destination.,11 August 2022,15 August 2022,40000,LLambda,9387.62,5,0,0,4,1,0
 2022-08-foundation,foundationdrop,Foundation is a web3 destination.,11 August 2022,15 August 2022,40000,joestakey,9277.77,5,0,0,3,1,1
 2022-08-foundation,foundationdrop,Foundation is a web3 destination.,11 August 2022,15 August 2022,40000,KIntern_NA,2924.09,4,0,0,4,0,0
@@ -3169,46 +3169,46 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Extropy,62.41,2,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Ssikorico,62.36,2,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Mmics,62.36,2,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Bbobirichman,62.36,2,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,SSooYa,62.35,2,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Rrobee,62.35,2,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,CCodingNameKiki,62.35,2,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,bobirichman,62.36,2,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,SooYa,62.35,2,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,robee,62.35,2,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,CodingNameKiki,62.35,2,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Ch_301,49.69,1,0,0,1,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Ddipp,42.55,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,TThrone6g,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,JJujic,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,YYiko,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,dipp,42.55,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Throne6g,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Jujic,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Yiko,40.62,1,0,0,0,0,0
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,ppoirots,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Aayeslick,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,ayeslick,40.62,1,0,0,0,0,0
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,exd0tpy,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,00xNineDec,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,SSoosh,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Bbulej93,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,0xNineDec,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Soosh,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,bulej93,40.62,1,0,0,0,0,0
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,00xf15ers,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Pp_crypt0,40.62,1,0,0,0,0,0
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,p_crypt0,40.62,1,0,0,0,0,0
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,00xsolstars,40.62,1,0,0,0,0,0
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,NNoamYakov,25.39,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Jjag,22.03,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Eeierina,22.03,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,CChinmay,22.03,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,NoamYakov,25.39,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,jag,22.03,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,eierina,22.03,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Chinmay,22.03,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,bharg4v,21.76,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,ret2basic,21.73,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,MMetatron,21.73,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,DdurianSausage,21.73,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Bballx,21.73,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,00x040,21.73,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Metatron,21.73,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,durianSausage,21.73,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,ballx,21.73,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,0x040,21.73,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,tofunmi,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,00xc0ffEE,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Zzeesaw,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,PPaludoX0,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,0xc0ffEE,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,zeesaw,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,PaludoX0,21.72,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,dharma09,21.72,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,lucacez,21.72,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,apostle0x01,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Kkyteg,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Ggerdusx,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,kyteg,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,gerdusx,21.72,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Fitraldys,21.72,1,0,0,0,0,1
 2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,0xsam,21.72,1,0,0,0,0,1
-2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,Tteddav,21.72,1,0,0,0,0,1
+2022-08-rigor,rigorprotocol,Community lending and instant payments for new home construction.,1 August 2022,6 August 2022,50000,teddav,21.72,1,0,0,0,0,1
 2022-07-axelar,axelarnetworkv2,Decentralized interoperability network.,29 July 2022,3 August 2022,50000,Chom,11259.63,4,0,0,2,1,1
 2022-07-axelar,axelarnetworkv2,Decentralized interoperability network.,29 July 2022,3 August 2022,50000,Xxiaoming90,7836.03,2,0,0,1,1,0
 2022-07-axelar,axelarnetworkv2,Decentralized interoperability network.,29 July 2022,3 August 2022,50000,___141345__,7787.96,3,0,0,1,1,1
@@ -3337,66 +3337,66 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aak1,246.06,3,1,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ppanprog,240.1,4,4,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RustyRabbit,236.98,4,1,0,2,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Mminhquanym,212.42,7,0,0,5,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,minhquanym,212.42,7,0,0,5,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,shenwilly,206.42,4,1,0,2,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,DDimitarDimitrov,189.57,1,1,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,DimitarDimitrov,189.57,1,1,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xNazgul,189.05,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rrokinot,188.25,5,1,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CcRat1st0s,188.9,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ddjxploit,186.66,5,0,0,3,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aauditor0517,186.56,2,2,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ccsanuragjain,186.43,3,0,0,2,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rrajatbeladiya,181.99,4,3,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,GGreen,181.06,5,2,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Hhorsefacts,174.91,4,0,0,3,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ccodexploder,174.91,4,0,0,3,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,AAuditsAreUS,171.06,3,0,0,2,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,rokinot,188.25,5,1,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,cRat1st0s,188.9,3,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,djxploit,186.66,5,0,0,3,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,auditor0517,186.56,2,2,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,csanuragjain,186.43,3,0,0,2,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,rajatbeladiya,181.99,4,3,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Green,181.06,5,2,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,horsefacts,174.91,4,0,0,3,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,codexploder,174.91,4,0,0,3,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,AuditsAreUS,171.06,3,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00xf15ers,167.73,3,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Picodes,166.78,2,1,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ddipp,159.74,5,2,0,2,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,dipp,159.74,5,2,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CRYP70,149.77,3,1,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Treasure-Seeker,143.85,5,0,0,4,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Cchatch,139.18,2,0,0,1,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,chatch,139.18,2,0,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,M0ndoHEHE,131.76,2,1,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,jayjonah8,130.02,2,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xHarry,130.02,2,0,0,2,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,MMiloTruck,129.83,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,MiloTruck,129.83,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xSmartContract,129.83,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Cc3phas,129.83,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aajtra,129.83,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,NNoamYakov,129.83,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,___141345__,129.98,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ooyc_109,129.98,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,JJmaxmanblue,103.74,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CChinmay,94.66,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,c3phas,129.83,3,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ajtra,129.83,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,NoamYakov,129.83,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,__141345__,129.98,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,oyc_109,129.98,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Jmaxmanblue,103.74,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Chinmay,94.66,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,m_Rassska,94.66,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aymen0909,94.66,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,gogo,94.66,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Wwastewa,93.28,1,1,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,wastewa,93.28,1,1,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Limbooo,93.28,1,1,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00x4non,82.57,4,0,0,3,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0x4non,82.57,4,0,0,3,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ruhum,61.16,5,0,0,3,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Jjayphbee,61.01,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,jayphbee,61.01,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Twpony,58.21,4,2,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ellahi,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,apostle0x01,56.64,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Bbrgltd,56.64,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RRedOneN,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,brgltd,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RedOneN,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Sm4rty,56.64,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,__Adam,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,_Adam,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,saian,56.64,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,KKenshin,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Kenshin,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,lucacez,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssashik_eth,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,sashik_eth,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,StyxRave,56.49,3,0,0,1,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,jayfromthe13th,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rohan16,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aasutorufos,56.49,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00xLovesleep,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,asutorufos,56.49,3,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xLovesleep,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xmatt,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Funen,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ddelfin454000,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssupernova,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,delfin454000,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,supernova,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Junnon,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,mics,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,robee,56.49,2,0,0,0,0,1
@@ -3784,67 +3784,67 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,apostle0x01,99.43,2,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,00xsolstars,99.43,2,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,88olidity,99.42,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Rrokinot,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,rokinot,99.41,2,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Rohan16,99.41,2,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,pedr02b2,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,DdurianSausage,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Bbenbaessler,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aasutorufos,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ssach1r0,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,durianSausage,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,benbaessler,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,asutorufos,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,sach1r0,99.41,2,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,fatherOfBlocks,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ddelfin454000,99.41,2,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aauditor0517,81.3,1,1,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,delfin454000,99.41,2,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,auditor0517,81.3,1,1,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,hhubble,76.58,2,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aasync,76.58,2,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Cchatch,73.67,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,async,76.58,2,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,chatch,73.67,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,m_Rassska,64.32,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Pperitoflores,63.34,2,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,KKthere,63.34,2,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,AAmithuddar,63.34,2,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Hhake,63.42,2,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,peritoflores,63.34,2,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Kthere,63.34,2,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Amithuddar,63.34,2,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,hake,63.42,2,0,0,1,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,00xf15ers,62.31,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aaysha,61.97,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,aysha,61.97,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,dy,61.96,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Zz3s,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,z3s,61.94,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Viksaa39,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ssahar,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,KKeen_Sheen,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,sahar,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Keen_Sheen,61.94,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,HHawkeye,61.94,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aymen0909,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,KKulk0,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,DDavid_,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ssvskaushik,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Rrajatbeladiya,61.94,1,0,0,0,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ccloudjunky,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Kulk0,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,David_,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,svskaushik,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,rajatbeladiya,61.94,1,0,0,0,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,cloudjunky,61.94,1,0,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,hrishibhat,55.16,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,0xKitsune,55.16,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Sslywaters,43.83,3,0,0,2,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,slywaters,43.83,3,0,0,2,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,giovannidisiena,42.59,2,0,0,1,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Chom,42.43,2,0,0,1,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,0xSky,41.49,1,1,0,0,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,gogo,39.64,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Avci,38.87,2,0,0,1,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,RRedOneN,38.36,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Aajtra,38.36,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,RedOneN,38.36,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,ajtra,38.36,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,0xkatana,38.36,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Limbooo,38.9,2,0,0,1,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Bbrgltd,37.55,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Iignacio,37.49,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,NNoamYakov,37.47,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Kkaranctf,37.47,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,brgltd,37.55,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,ignacio,37.49,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,NoamYakov,37.47,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,karanctf,37.47,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,jocxyen,37.47,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Fitraldys,37.47,1,0,0,0,0,1
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Ddjxploit,37.47,1,0,0,0,0,1
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,djxploit,37.47,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,dharma09,37.47,1,0,0,0,0,1
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,tofunmi,6.36,2,0,0,2,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,byterocket,4.96,1,0,0,1,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Twpony,4.96,1,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Rreassor,4.96,1,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,reassor,4.96,1,0,0,1,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,nine9,4.96,1,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,BBradMoon,4.96,1,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,AACai,4.96,1,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,BradMoon,4.96,1,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,ACai,4.96,1,0,0,1,0,0
 2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,StyxRave,1.4,1,0,0,1,0,0
-2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,Bbardamu,1.4,1,0,0,1,0,0
+2022-07-fractional,fractionalv2,A collective ownership platform for NFTs on Ethereum.,7 July 2022,14 July 2022,75000,bardamu,1.4,1,0,0,1,0,0
 2022-07-juicebox,juiceboxv2,The decentralized fundraising and treasury protocol.,1 July 2022,8 July 2022,75000,berndartmueller,14020.84,7,1,0,5,2,0
 2022-07-juicebox,juiceboxv2,The decentralized fundraising and treasury protocol.,1 July 2022,8 July 2022,75000,Ccccz,11055.17,7,1,0,5,2,0
 2022-07-juicebox,juiceboxv2,The decentralized fundraising and treasury protocol.,1 July 2022,8 July 2022,75000,zzzitron,6473.84,5,1,0,3,1,0
@@ -4054,35 +4054,35 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Ggrrwahrr,23.06,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,RRedOneN,21.59,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,0xKitsune,21.59,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,UUnusualTurtle,21.33,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,UnusualTurtle,21.33,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Tomio,21.24,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,saian,21.24,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Aymen0909,21.24,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Zz3s,21.18,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,z3s,21.18,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,jayfromthe13th,21.18,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Cc3phas,21.18,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Zzeesaw,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,c3phas,21.18,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,zeesaw,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,StyxRave,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Sslywaters,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Ssach1r0,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,slywaters,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,sach1r0,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Ruhum,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,RRandyyy,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Randyyy,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,natzuu,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,mrpathfindr,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,mektigboy,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,m_Rassska,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Lladboy233,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,ladboy233,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Haruxe,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Fitraldys,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,CcRat1st0s,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Ccodetilda,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Aasutorufos,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,cRat1st0s,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,codetilda,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,asutorufos,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,apostle0x01,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Aak1,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Aajtra,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,ak1,21.17,1,0,0,0,0,1
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,ajtra,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,0xHarry,21.17,1,0,0,0,0,1
 2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,0v3rf10w,21.17,1,0,0,0,0,1
-2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,Ddipp,5.52,1,0,0,1,0,0
+2022-06-putty,putty,An order-book based american options market for NFTs and ERC20s.,29 June 2022,4 July 2022,50000,dipp,5.52,1,0,0,1,0,0
 2022-06-canto-v2,cantov2,Execution layer for original work.,28 June 2022,2 July 2022,25000,Picodes,3313.85,5,1,1,2,1,1
 2022-06-canto-v2,cantov2,Execution layer for original work.,28 June 2022,2 July 2022,25000,0x1f8b,2933.74,5,2,0,1,0,1
 2022-06-canto-v2,cantov2,Execution layer for original work.,28 June 2022,2 July 2022,25000,Lladboy233,2842.76,5,2,1,1,0,1
