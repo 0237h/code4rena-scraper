@@ -27,7 +27,7 @@ Also, the extracted data allows to see who might be most efficient, writes the m
 Notebooks can be found in the [charts_data](charts_data/) folder to visualize the data. A link is provided below each chart for a static view of each notebook.
 For an interactive lab, you could setup your own locally or run one online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krow10/code4rena-scraper/HEAD).
 
-You can also run non-interactive notebooks through [nbviewer](https://nbviewer.org/github/Krow10/code4rena-scraper/tree/master/charts_data/).
+You can also run non-interactive notebooks through [nbviewer](https://nbviewer.org/github/Krow10/code4rena-scraper/tree/master/charts_data/) or view the static generated html at [https://krow10.github.io/code4rena-scraper/](https://krow10.github.io/code4rena-scraper/).
 
 ## How ?
 
