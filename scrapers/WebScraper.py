@@ -47,6 +47,9 @@ class WebScraper():
 
 			df = pd.read_html(str(table))[0]
 			df.columns = leaderboard_columns
+
+			if df["handle"].str.contains('No results to show. Try changing filter criteria').any():
+				continue
 			df["period"] = period.text
 			df["prize_money"] = pd.to_numeric(df["prize_money"].str.replace(r'\$|,', '', regex=True), errors='coerce').fillna(0).astype(float)
 
