@@ -14968,11 +14968,11 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
       <th>13</th>
       <td>2022-05-01</td>
       <td>232</td>
-      <td>18</td>
+      <td>17</td>
       <td>119</td>
-      <td>108</td>
+      <td>107</td>
       <td>535</td>
-      <td>195</td>
+      <td>196</td>
     </tr>
     <tr>
       <th>14</th>
@@ -14980,9 +14980,9 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
       <td>238</td>
       <td>45</td>
       <td>99</td>
-      <td>153</td>
+      <td>152</td>
       <td>634</td>
-      <td>243</td>
+      <td>244</td>
     </tr>
     <tr>
       <th>15</th>
@@ -14990,9 +14990,9 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
       <td>229</td>
       <td>18</td>
       <td>79</td>
-      <td>171</td>
+      <td>170</td>
       <td>713</td>
-      <td>313</td>
+      <td>314</td>
     </tr>
     <tr>
       <th>16</th>
@@ -15000,39 +15000,39 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
       <td>303</td>
       <td>18</td>
       <td>143</td>
-      <td>189</td>
+      <td>188</td>
       <td>856</td>
-      <td>364</td>
+      <td>365</td>
     </tr>
     <tr>
       <th>17</th>
       <td>2022-09-01</td>
       <td>333</td>
-      <td>38</td>
+      <td>34</td>
       <td>129</td>
-      <td>227</td>
+      <td>222</td>
       <td>985</td>
-      <td>425</td>
+      <td>430</td>
     </tr>
     <tr>
       <th>18</th>
       <td>2022-10-01</td>
-      <td>236</td>
-      <td>65</td>
-      <td>66</td>
-      <td>292</td>
-      <td>1051</td>
-      <td>523</td>
+      <td>384</td>
+      <td>55</td>
+      <td>163</td>
+      <td>277</td>
+      <td>1148</td>
+      <td>487</td>
     </tr>
     <tr>
       <th>19</th>
       <td>2022-11-01</td>
       <td>106</td>
-      <td>34</td>
-      <td>36</td>
-      <td>326</td>
-      <td>1087</td>
-      <td>655</td>
+      <td>103</td>
+      <td>15</td>
+      <td>380</td>
+      <td>1163</td>
+      <td>677</td>
     </tr>
   </tbody>
 </table>
@@ -15203,13 +15203,13 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 
 <div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
 
-<div id="altair-viz-34777338a06d47c2b1f06d3f0110c560"></div>
+<div id="altair-viz-9ce0fbcdcd5f43249f9b9892e5906151"></div>
 <script type="text/javascript">
   var VEGA_DEBUG = (typeof VEGA_DEBUG == "undefined") ? {} : VEGA_DEBUG;
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-34777338a06d47c2b1f06d3f0110c560") {
-      outputDiv = document.getElementById("altair-viz-34777338a06d47c2b1f06d3f0110c560");
+    if (outputDiv.id !== "altair-viz-9ce0fbcdcd5f43249f9b9892e5906151") {
+      outputDiv = document.getElementById("altair-viz-9ce0fbcdcd5f43249f9b9892e5906151");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -15255,7 +15255,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
         .catch(showError)
         .then(() => displayChart(vegaEmbed));
     }
-  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": {"type": "bar", "size": 30}, "encoding": {"color": {"field": "column", "title": "Warden categories", "type": "nominal"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"axis": {"title": "Total warden count"}, "field": "value", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"text": {"field": "percentActive", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "total_wardens", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.active_wardens / datum.total_wardens", "as": "percentActive"}, {"calculate": "datum.non_participating_wardens / datum.total_wardens", "as": "percentNonParticipating"}, {"calculate": "datum.total_inactive_wardens / datum.total_wardens", "as": "percentInactive"}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"opacity": {"condition": {"value": 1, "test": "datum.non_participating_wardens > 10"}, "value": 0}, "text": {"field": "percentNonParticipating", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "dy", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.non_participating_wardens + datum.total_inactive_wardens", "as": "dy"}, {"calculate": "datum.non_participating_wardens / datum.total_wardens", "as": "percentNonParticipating"}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"opacity": {"condition": {"value": 1, "test": "datum.total_inactive_wardens > 10"}, "value": 0}, "text": {"field": "percentInactive", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "total_inactive_wardens", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.total_inactive_wardens / datum.total_wardens", "as": "percentInactive"}]}], "data": {"name": "data-6211c68c820cc38610a95bccbf24520d"}, "height": 400, "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-6211c68c820cc38610a95bccbf24520d": [{"date": "2021-04-01T00:00:00", "active_wardens": 17, "inactive_wardens": 0, "new_wardens": 17, "total_inactive_wardens": 0, "total_wardens": 17, "non_participating_wardens": 0}, {"date": "2021-05-01T00:00:00", "active_wardens": 22, "inactive_wardens": 3, "new_wardens": 8, "total_inactive_wardens": 3, "total_wardens": 25, "non_participating_wardens": 0}, {"date": "2021-06-01T00:00:00", "active_wardens": 19, "inactive_wardens": 5, "new_wardens": 7, "total_inactive_wardens": 8, "total_wardens": 32, "non_participating_wardens": 5}, {"date": "2021-07-01T00:00:00", "active_wardens": 28, "inactive_wardens": 2, "new_wardens": 14, "total_inactive_wardens": 10, "total_wardens": 46, "non_participating_wardens": 8}, {"date": "2021-08-01T00:00:00", "active_wardens": 30, "inactive_wardens": 6, "new_wardens": 15, "total_inactive_wardens": 16, "total_wardens": 61, "non_participating_wardens": 15}, {"date": "2021-09-01T00:00:00", "active_wardens": 38, "inactive_wardens": 7, "new_wardens": 22, "total_inactive_wardens": 23, "total_wardens": 83, "non_participating_wardens": 22}, {"date": "2021-10-01T00:00:00", "active_wardens": 37, "inactive_wardens": 5, "new_wardens": 17, "total_inactive_wardens": 28, "total_wardens": 100, "non_participating_wardens": 35}, {"date": "2021-11-01T00:00:00", "active_wardens": 80, "inactive_wardens": 4, "new_wardens": 53, "total_inactive_wardens": 32, "total_wardens": 153, "non_participating_wardens": 41}, {"date": "2021-12-01T00:00:00", "active_wardens": 65, "inactive_wardens": 14, "new_wardens": 29, "total_inactive_wardens": 46, "total_wardens": 182, "non_participating_wardens": 71}, {"date": "2022-01-01T00:00:00", "active_wardens": 119, "inactive_wardens": 7, "new_wardens": 71, "total_inactive_wardens": 53, "total_wardens": 253, "non_participating_wardens": 81}, {"date": "2022-02-01T00:00:00", "active_wardens": 102, "inactive_wardens": 15, "new_wardens": 33, "total_inactive_wardens": 68, "total_wardens": 286, "non_participating_wardens": 116}, {"date": "2022-03-01T00:00:00", "active_wardens": 113, "inactive_wardens": 11, "new_wardens": 53, "total_inactive_wardens": 79, "total_wardens": 339, "non_participating_wardens": 147}, {"date": "2022-04-01T00:00:00", "active_wardens": 155, "inactive_wardens": 11, "new_wardens": 77, "total_inactive_wardens": 90, "total_wardens": 416, "non_participating_wardens": 171}, {"date": "2022-05-01T00:00:00", "active_wardens": 232, "inactive_wardens": 18, "new_wardens": 119, "total_inactive_wardens": 108, "total_wardens": 535, "non_participating_wardens": 195}, {"date": "2022-06-01T00:00:00", "active_wardens": 238, "inactive_wardens": 45, "new_wardens": 99, "total_inactive_wardens": 153, "total_wardens": 634, "non_participating_wardens": 243}, {"date": "2022-07-01T00:00:00", "active_wardens": 229, "inactive_wardens": 18, "new_wardens": 79, "total_inactive_wardens": 171, "total_wardens": 713, "non_participating_wardens": 313}, {"date": "2022-08-01T00:00:00", "active_wardens": 303, "inactive_wardens": 18, "new_wardens": 143, "total_inactive_wardens": 189, "total_wardens": 856, "non_participating_wardens": 364}, {"date": "2022-09-01T00:00:00", "active_wardens": 333, "inactive_wardens": 38, "new_wardens": 129, "total_inactive_wardens": 227, "total_wardens": 985, "non_participating_wardens": 425}, {"date": "2022-10-01T00:00:00", "active_wardens": 236, "inactive_wardens": 65, "new_wardens": 66, "total_inactive_wardens": 292, "total_wardens": 1051, "non_participating_wardens": 523}, {"date": "2022-11-01T00:00:00", "active_wardens": 106, "inactive_wardens": 34, "new_wardens": 36, "total_inactive_wardens": 326, "total_wardens": 1087, "non_participating_wardens": 655}]}}, {"mode": "vega-lite"});
+  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": {"type": "bar", "size": 30}, "encoding": {"color": {"field": "column", "title": "Warden categories", "type": "nominal"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"axis": {"title": "Total warden count"}, "field": "value", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"text": {"field": "percentActive", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "total_wardens", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.active_wardens / datum.total_wardens", "as": "percentActive"}, {"calculate": "datum.non_participating_wardens / datum.total_wardens", "as": "percentNonParticipating"}, {"calculate": "datum.total_inactive_wardens / datum.total_wardens", "as": "percentInactive"}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"opacity": {"condition": {"value": 1, "test": "datum.non_participating_wardens > 10"}, "value": 0}, "text": {"field": "percentNonParticipating", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "dy", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.non_participating_wardens + datum.total_inactive_wardens", "as": "dy"}, {"calculate": "datum.non_participating_wardens / datum.total_wardens", "as": "percentNonParticipating"}]}, {"mark": {"type": "text", "color": "white", "dy": 10}, "encoding": {"opacity": {"condition": {"value": 1, "test": "datum.total_inactive_wardens > 10"}, "value": 0}, "text": {"field": "percentInactive", "format": ".0%", "type": "quantitative"}, "x": {"axis": {"format": "%m/%y", "grid": false, "title": ""}, "field": "date", "type": "temporal"}, "y": {"field": "total_inactive_wardens", "type": "quantitative"}}, "transform": [{"fold": ["non_participating_wardens", "total_inactive_wardens", "active_wardens"], "as": ["column", "value"]}, {"calculate": "datum.total_inactive_wardens / datum.total_wardens", "as": "percentInactive"}]}], "data": {"name": "data-b9d7c03b4cc6b8337eebb280858ffaf9"}, "height": 400, "width": 700, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-b9d7c03b4cc6b8337eebb280858ffaf9": [{"date": "2021-04-01T00:00:00", "active_wardens": 17, "inactive_wardens": 0, "new_wardens": 17, "total_inactive_wardens": 0, "total_wardens": 17, "non_participating_wardens": 0}, {"date": "2021-05-01T00:00:00", "active_wardens": 22, "inactive_wardens": 3, "new_wardens": 8, "total_inactive_wardens": 3, "total_wardens": 25, "non_participating_wardens": 0}, {"date": "2021-06-01T00:00:00", "active_wardens": 19, "inactive_wardens": 5, "new_wardens": 7, "total_inactive_wardens": 8, "total_wardens": 32, "non_participating_wardens": 5}, {"date": "2021-07-01T00:00:00", "active_wardens": 28, "inactive_wardens": 2, "new_wardens": 14, "total_inactive_wardens": 10, "total_wardens": 46, "non_participating_wardens": 8}, {"date": "2021-08-01T00:00:00", "active_wardens": 30, "inactive_wardens": 6, "new_wardens": 15, "total_inactive_wardens": 16, "total_wardens": 61, "non_participating_wardens": 15}, {"date": "2021-09-01T00:00:00", "active_wardens": 38, "inactive_wardens": 7, "new_wardens": 22, "total_inactive_wardens": 23, "total_wardens": 83, "non_participating_wardens": 22}, {"date": "2021-10-01T00:00:00", "active_wardens": 37, "inactive_wardens": 5, "new_wardens": 17, "total_inactive_wardens": 28, "total_wardens": 100, "non_participating_wardens": 35}, {"date": "2021-11-01T00:00:00", "active_wardens": 80, "inactive_wardens": 4, "new_wardens": 53, "total_inactive_wardens": 32, "total_wardens": 153, "non_participating_wardens": 41}, {"date": "2021-12-01T00:00:00", "active_wardens": 65, "inactive_wardens": 14, "new_wardens": 29, "total_inactive_wardens": 46, "total_wardens": 182, "non_participating_wardens": 71}, {"date": "2022-01-01T00:00:00", "active_wardens": 119, "inactive_wardens": 7, "new_wardens": 71, "total_inactive_wardens": 53, "total_wardens": 253, "non_participating_wardens": 81}, {"date": "2022-02-01T00:00:00", "active_wardens": 102, "inactive_wardens": 15, "new_wardens": 33, "total_inactive_wardens": 68, "total_wardens": 286, "non_participating_wardens": 116}, {"date": "2022-03-01T00:00:00", "active_wardens": 113, "inactive_wardens": 11, "new_wardens": 53, "total_inactive_wardens": 79, "total_wardens": 339, "non_participating_wardens": 147}, {"date": "2022-04-01T00:00:00", "active_wardens": 155, "inactive_wardens": 11, "new_wardens": 77, "total_inactive_wardens": 90, "total_wardens": 416, "non_participating_wardens": 171}, {"date": "2022-05-01T00:00:00", "active_wardens": 232, "inactive_wardens": 17, "new_wardens": 119, "total_inactive_wardens": 107, "total_wardens": 535, "non_participating_wardens": 196}, {"date": "2022-06-01T00:00:00", "active_wardens": 238, "inactive_wardens": 45, "new_wardens": 99, "total_inactive_wardens": 152, "total_wardens": 634, "non_participating_wardens": 244}, {"date": "2022-07-01T00:00:00", "active_wardens": 229, "inactive_wardens": 18, "new_wardens": 79, "total_inactive_wardens": 170, "total_wardens": 713, "non_participating_wardens": 314}, {"date": "2022-08-01T00:00:00", "active_wardens": 303, "inactive_wardens": 18, "new_wardens": 143, "total_inactive_wardens": 188, "total_wardens": 856, "non_participating_wardens": 365}, {"date": "2022-09-01T00:00:00", "active_wardens": 333, "inactive_wardens": 34, "new_wardens": 129, "total_inactive_wardens": 222, "total_wardens": 985, "non_participating_wardens": 430}, {"date": "2022-10-01T00:00:00", "active_wardens": 384, "inactive_wardens": 55, "new_wardens": 163, "total_inactive_wardens": 277, "total_wardens": 1148, "non_participating_wardens": 487}, {"date": "2022-11-01T00:00:00", "active_wardens": 106, "inactive_wardens": 103, "new_wardens": 15, "total_inactive_wardens": 380, "total_wardens": 1163, "non_participating_wardens": 677}]}}, {"mode": "vega-lite"});
 </script>
 </div>
 
