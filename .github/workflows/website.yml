@@ -46,7 +46,7 @@ jobs:
           mkdir -p site/static
           for filename in charts_data/*.ipynb; do
             jupyter nbconvert --to html $filename
-            mv ${s%.*}.html site/static/
+            mv ${filename%.*}.html site/static/
           done
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v1
