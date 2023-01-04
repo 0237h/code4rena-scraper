@@ -43,11 +43,11 @@ jobs:
           done
       - name: Convert notebooks to HTML
         run: |
+          mkdir -p site/static
           for filename in charts_data/*.ipynb; do
             jupyter nbconvert --to html $filename
+            mv $filename.html site/static/
           done
-          mkdir -p site/static
-          mv index.html site/static/
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v1
         with:
