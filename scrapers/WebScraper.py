@@ -39,7 +39,7 @@ class WebScraper():
 		self.console_handler.terminator = "\r"
 		for period in periods:
 			period.click()
-			time.sleep(1) # Wait for JS to load page
+			time.sleep(10) # Wait for JS to load page
 
 			table = BeautifulSoup(self.driver.find_element(By.XPATH, "//table[@class='leaderboard-table']").get_attribute("outerHTML"), 'lxml')
 			for div in table.find_all(attrs={'class': 'sb-avatar__text'}): # Remove avatar text <span> for correct parsing of wardens handle
