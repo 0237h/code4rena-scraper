@@ -48,6 +48,13 @@ jobs:
             jupyter nbconvert --to html $filename
             mv ${filename%.*}.html site/static/
           done
+      - name: Install and build index
+        run: |
+          sudo apt-get update
+          sudo apt-get install curl git -y
+          curl https://raw.githubusercontent.com/jayanta525/apindex-v2/master/sudo-install.sh | bash
+          cd site/
+          apindex .
       - name: Upload artifacts
         uses: actions/upload-pages-artifact@v1
         with:
