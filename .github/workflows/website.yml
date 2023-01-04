@@ -2,7 +2,8 @@ name: Build website
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
+    paths: ["**.csv"]
   workflow_dispatch:
 
 permissions:
