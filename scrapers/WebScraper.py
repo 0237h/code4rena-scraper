@@ -53,7 +53,7 @@ class WebScraper():
 			is_team_data = []
 			for div in table.find_all(attrs={'class': 'wrapper-competitor'}):
 				is_team_data.append(div.find('div', attrs={'class': 'wrapper-members'}) != None)
-			df["is_team"] = is_team_data 
+			df["is_team"] = is_team_data if is_team_data else None
 			
 			leaderboard_data = pd.concat([leaderboard_data, df])
 			logging.info(f"Parsed {periods.index(period) + 1}/{len(periods)} options ({len(df.index)} rows added for '{period.text}')")
