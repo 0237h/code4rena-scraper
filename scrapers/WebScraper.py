@@ -48,7 +48,10 @@ class WebScraper():
 			df = pd.read_html(str(table))[0]
 			df.columns = leaderboard_columns
 			df["period"] = period.text
-			df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
+			try:
+				df["prize_money"] = df["prize_money"].str.replace(r'\$|,', '', regex=True).astype(float)
+			except ValueError:
+				continue
 
 			is_team_data = []
 			for div in table.find_all(attrs={'class': 'wrapper-competitor'}):
