@@ -3,7 +3,8 @@ name: Build website
 on:
   push:
     branches: ["master"]
-    paths: ["*.csv"]
+    paths:
+      - "**.csv"
   workflow_dispatch:
 
 permissions:
