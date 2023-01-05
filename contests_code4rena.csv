@@ -463,30 +463,30 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 ,chainlinkstaking,Earn rewards for helping secure the Chainlink Network. Chainlink Staking is a security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services.,1 November 2022,15 November 2022,100000,RRolezn,139.59,1,0,0,0,0,1
 ,chainlinkstaking,Earn rewards for helping secure the Chainlink Network. Chainlink Staking is a security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services.,1 November 2022,15 November 2022,100000,Ooyc_109,139.59,1,0,0,0,0,1
 ,chainlinkstaking,Earn rewards for helping secure the Chainlink Network. Chainlink Staking is a security mechanism in which stakers commit LINK in smart contracts to back certain performance guarantees around oracle services.,1 November 2022,15 November 2022,100000,0x1f8b,139.59,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,SSoosh,70985.01,1,0,0,1,1,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,HHE1M,34676.26,2,0,0,1,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ccodehacker,24571.73,1,0,0,1,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,0x1f8b,2320.96,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Bbrgltd,2102.32,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,0xSmartContract,2102.32,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ddatapunk,2102.32,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Tomo,2102.32,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cchaduke,2102.32,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cc3phas,1785.36,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,IIllIllI,1785.36,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,RRolezn,480.53,2,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Rrbserver,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ppashov,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Lladboy233,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ccccz,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cctf_sec,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,jayjonah8,250.77,1,0,0,0,0,0
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Aymen0909,229.76,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,TomJ,229.76,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,gogo,229.76,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,RReyAdmirado,229.76,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,mcwildy,229.76,1,0,0,0,0,1
-,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,HardlyCodeMan,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,SSoosh,70985.01,1,0,0,1,1,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,HHE1M,34676.26,2,0,0,1,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ccodehacker,24571.73,1,0,0,1,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,0x1f8b,2320.96,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Bbrgltd,2102.32,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,0xSmartContract,2102.32,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ddatapunk,2102.32,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Tomo,2102.32,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cchaduke,2102.32,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cc3phas,1785.36,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,IIllIllI,1785.36,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,RRolezn,480.53,2,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Rrbserver,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ppashov,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Lladboy233,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Ccccz,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Cctf_sec,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,jayjonah8,250.77,1,0,0,0,0,0
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,Aymen0909,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,TomJ,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,gogo,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,RReyAdmirado,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,mcwildy,229.76,1,0,0,0,0,1
+2022-10-zksync,zksyncv2,"Rely on math, not validators.",28 October 2022,9 November 2022,150000,HardlyCodeMan,229.76,1,0,0,0,0,1
 ,paladin-wardenpledges,A governance lending protocol transforming users voting power into a new money lego.,27 October 2022,30 October 2022,30000,0x52,5767.74,5,0,0,4,0,0
 ,paladin-wardenpledges,A governance lending protocol transforming users voting power into a new money lego.,27 October 2022,30 October 2022,30000,Ccccz,5659.22,4,0,0,3,1,0
 ,paladin-wardenpledges,A governance lending protocol transforming users voting power into a new money lego.,27 October 2022,30 October 2022,30000,TTrust,3013.36,5,0,0,4,0,0
@@ -1549,45 +1549,45 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Cc3phas,47.42,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Llukris02,46.35,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,pfapostol,44.82,1,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ajtra,43.66,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,imare,41.92,2,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,cryptostellar5,35.87,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Deivitto,35.17,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Bnke0x0,31.11,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Aajtra,43.66,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Iimare,41.92,2,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ccryptostellar5,35.87,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DDeivitto,35.17,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,BBnke0x0,31.11,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,gogo,31.11,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,durianSausage,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,oyc_109,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,JC,31.1,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Diana,30.68,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,brgltd,30.45,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ladboy233,29.04,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DdurianSausage,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ooyc_109,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,JJC,31.1,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,DDiana,30.68,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Bbrgltd,30.45,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Lladboy233,29.04,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Tomo,28.92,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,peanuts,28.69,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ppeanuts,28.69,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,OOptimismSec,28.69,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,d3e4,28.69,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Dd3e4,28.69,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,0xbepresent,28.69,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Rolezn,28.77,3,0,0,1,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Waze,28.65,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRolezn,28.77,3,0,0,1,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,WWaze,28.65,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRockingMiles,28.65,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Funen,28.24,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,a12jmx,28.24,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,tnevler,28.24,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ttnevler,28.24,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,martin,28.18,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Sm4rty,28.18,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,prasantgupta52,28.18,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Pprasantgupta52,28.18,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,seyni,28.7,3,0,0,1,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,leosathya,28.01,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,delfin454000,28.01,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,millersplanet,27.97,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ddelfin454000,28.01,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Mmillersplanet,27.97,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,erictee,27.97,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Rohan16,27.97,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RaymondFam,27.97,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ChristianKuri,27.96,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,aysha,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,RRaymondFam,27.97,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CChristianKuri,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Aaysha,27.96,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,VV_B,27.96,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CodingNameKiki,27.96,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,CCodingNameKiki,27.96,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,ret2basic,27.95,2,0,0,0,0,1
-2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,peiw,27.95,2,0,0,0,0,1
+2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,Ppeiw,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,eighty,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,medikko,27.95,2,0,0,0,0,1
 2022-09-vtvl,vtvl,"Building no-code token management tools to empower web3 founders and investors, starting with token vesting.",20 September 2022,23 September 2022,30001,exd0tpy,27.95,2,0,0,0,0,1
@@ -2315,15 +2315,15 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Bbobirichman,60.77,1,0,0,0,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,bharg4v,60.77,1,0,0,0,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,a12jmx,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ttnevler,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Sslowmoses,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ssahar,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Ssach1r0,60.77,1,0,0,0,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,tnevler,60.77,1,0,0,0,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,slowmoses,60.77,1,0,0,0,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,sahar,60.77,1,0,0,0,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,sach1r0,60.77,1,0,0,0,0,0
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,0xbepresent,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,00x85102,60.77,1,0,0,0,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,SSnowMan,59.64,1,0,0,0,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,0x85102,60.77,1,0,0,0,0,0
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,SnowMan,59.64,1,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,antonttc,54.69,2,0,0,2,0,0
-2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Eeasy_peasy,51.02,2,0,0,1,0,1
+2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,easy_peasy,51.02,2,0,0,1,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,JAGADESH,49.69,1,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,Saintcode_,49.69,1,0,0,0,0,1
 2022-09-nouns-builder,nounsbuilder,"A permissionless, governed protocol to deploy nouns-style DAOs complete with treasury, generative collections, and governance mechanisms.",6 September 2022,15 September 2022,89999,immeas,49.08,1,0,0,1,0,0
@@ -2468,30 +2468,30 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Rrajatbeladiya,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,PPaludoX0,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MMargaret,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,cloudjunky,54.31,1,0,0,0,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ccloudjunky,54.31,1,0,0,0,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,ch13fd357r0y3r,54.31,1,0,0,0,0,0
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,JC,35.99,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,JJC,35.99,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,exolorkistis,32.71,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,zishansami,32.61,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,ch0bu,32.59,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,jag,32.59,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Zzishansami,32.61,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Cch0bu,32.59,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Jjag,32.59,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Noah3o6,32.58,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Saintcode_,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,chrisdior4,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Amithuddar,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Shishigami,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Metatron,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,RoiEvenHaim,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,peiw,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,kris,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,karanctf,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Tagir2003,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,simon135,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SooYa,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Cchrisdior4,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,AAmithuddar,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SShishigami,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,MMetatron,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,RRoiEvenHaim,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ppeiw,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Kkris,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Kkaranctf,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,TTagir2003,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ssimon135,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,SSooYa,32.58,1,0,0,0,0,1
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Fitraldys,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,newfork01,32.58,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Dionysus,32.6,1,0,0,0,0,1
-2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,peachtea,11.03,1,0,0,1,0,0
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Nnewfork01,32.58,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,DDionysus,32.6,1,0,0,0,0,1
+2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Ppeachtea,11.03,1,0,0,1,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Jujic,11.03,1,0,0,1,0,0
 2022-08-olympus,olympusdao,"Version 3 of Olympus protocol, a decentralized floating currency.",25 August 2022,1 September 2022,75000,Dravee,11.03,1,0,0,1,0,0
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Rrbserver,10624.99,3,0,0,1,1,1
@@ -2631,29 +2631,29 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Zzishansami,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,exolorkistis,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,lucacez,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,bulej93,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Bbulej93,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,BipinSah,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,SaharAP,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,ignacio,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ben,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Shishigami,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,jag,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,samruna,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Iignacio,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,BBen,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,SShishigami,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Jjag,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ssamruna,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,a12jmx,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,peritoflores,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Pperitoflores,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,IgnacioB,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Diraco,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Randyyy,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,DDiraco,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,RRandyyy,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,francoHacker,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,ACai,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Yiko,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,tay054,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Polandia94,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,RoiEvenHaim,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,newfork01,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,2997ms,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,AACai,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,YYiko,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Ttay054,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,PPolandia94,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,RRoiEvenHaim,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Nnewfork01,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,22997ms,16.66,1,0,0,0,0,1
 2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,SerMyVillage,16.66,1,0,0,0,0,1
-2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,medikko,16.66,1,0,0,0,0,1
+2022-08-nounsdao,nounsdao,A DAO-driven NFT project on Ethereum.,22 August 2022,27 August 2022,50015,Mmedikko,16.66,1,0,0,0,0,1
 ,fraxlend(fraxfinance),Fraxlend: A permissionless lending platform and the final piece of the Frax Finance Defi Trinity.,12 August 2022,17 August 2022,50000,0xA5DF,10575.65,10,2,0,6,1,1
 ,fraxlend(fraxfinance),Fraxlend: A permissionless lending platform and the final piece of the Frax Finance Defi Trinity.,12 August 2022,17 August 2022,50000,LLambda,7629.07,6,2,0,2,1,1
 ,fraxlend(fraxfinance),Fraxlend: A permissionless lending platform and the final piece of the Frax Finance Defi Trinity.,12 August 2022,17 August 2022,50000,berndartmueller,4184.7,4,0,0,3,1,0
@@ -3381,77 +3381,77 @@ contest_report_repo,contest_sponsor,contest_desc,start,end,prize_pool,handle,pri
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ellahi,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,apostle0x01,56.64,3,0,0,1,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Bbrgltd,56.64,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RRedOneN,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RedOneN,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Sm4rty,56.64,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,__Adam,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,_Adam,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,saian,56.64,4,0,0,2,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,KKenshin,56.64,4,0,0,2,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Kenshin,56.64,4,0,0,2,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,lucacez,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssashik_eth,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,sashik_eth,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,StyxRave,56.49,3,0,0,1,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,jayfromthe13th,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rohan16,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Aasutorufos,56.49,3,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00xLovesleep,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,asutorufos,56.49,3,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xLovesleep,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xmatt,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Funen,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ddelfin454000,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssupernova,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,JJunnon,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Mmics,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rrobee,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,delfin454000,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,supernova,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Junnon,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,mics,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,robee,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,zuhaibmohd,56.49,2,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,fatherOfBlocks,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,MMaxime,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssach1r0,56.49,2,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Bbin2chen,39.84,4,0,0,3,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ccryptonue,39.84,4,0,0,3,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Yych18,39.69,2,0,0,1,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Maxime,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,sach1r0,56.49,2,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,bin2chen,39.84,4,0,0,3,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,cryptonue,39.84,4,0,0,3,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ych18,39.69,2,0,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Chom,35.32,3,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ch_301,35.32,2,0,0,1,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,WWaze,35.32,2,0,0,1,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,KKumpa,35.32,2,0,0,1,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,JJujic,35.32,3,0,0,2,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,88olidity,35.32,3,0,0,2,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Waze,35.32,2,0,0,1,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Kumpa,35.32,2,0,0,1,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Jujic,35.32,3,0,0,2,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,8olidity,35.32,3,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Tadashi,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00xsolstars,35.17,2,0,0,1,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,00xc0ffEE,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xc0ffEE,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xackermann,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CryptoMartian,35.17,1,0,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Iidkwhatimdoing,35.17,1,0,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,SSoosh,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,idkwhatimdoing,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Soosh,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,dirk_y,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,saneryee,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ccthulhu_cult,35.17,2,0,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,exd0tpy,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,indijanc,35.17,2,0,0,1,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Lluckypanda,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,luckypanda,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,StErMi,35.17,2,0,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,pedr02b2,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,giovannidisiena,35.17,2,0,0,1,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Franfran,35.17,1,0,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ccodetilda,35.17,1,0,0,0,0,0
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,DDevABDee,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,codetilda,35.17,1,0,0,0,0,0
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,DevABDee,35.17,1,0,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,neumo,26.77,1,1,0,0,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,erictee,21.47,2,0,0,1,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xKitsune,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Fitraldys,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RRandyyy,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CCodingNameKiki,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Rrfa,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Randyyy,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CodingNameKiki,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,rfa,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,pfapostol,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ggerdusx,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,gerdusx,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Tomio,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Lladboy233,21.32,2,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ladboy233,21.32,2,0,0,1,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Noah3o6,21.32,2,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,RReyAdmirado,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,ReyAdmirado,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Kaiziron,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,tofunmi,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,DdurianSausage,21.32,2,0,0,1,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,CChandr,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,MMigue,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,durianSausage,21.32,2,0,0,1,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Chandr,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Migue,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,0xsam,21.32,1,0,0,0,0,1
-,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,Ssamruna,21.32,1,0,0,0,0,1
+,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,samruna,21.32,1,0,0,0,0,1
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,peritoflores,4.67,3,0,0,3,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,cloudjunky,0.15,2,0,0,2,0,0
 ,golom,"An NFT marketplace that offers the lowest industry fee, a publicly available order-book along with analytical tools.",26 July 2022,1 August 2022,75000,PaludoX0,0.15,1,0,0,1,0,0
