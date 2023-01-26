@@ -1,143 +1,160 @@
 period,handle,is_team,prize_money,total_reports,high_all,high_solo,med_all,med_solo,gas_all
 LAST 60 DAYS,xiaoming90,False,18760.33,9,5,1,3,0,0
-LAST 60 DAYS,Jeiwan,False,17504.62,11,4,1,5,0,0
+LAST 60 DAYS,Jeiwan,False,18061.86,15,6,1,7,0,0
 LAST 60 DAYS,bin2chen,False,12847.99,15,7,0,7,1,0
-LAST 60 DAYS,unforgiven,False,10392.07,17,5,0,9,0,1
-LAST 60 DAYS,hihen,False,8809.39,15,5,0,9,1,0
+LAST 60 DAYS,unforgiven,False,12576.56,22,7,0,11,0,1
+LAST 60 DAYS,hihen,False,8902.58,18,7,0,10,1,0
 LAST 60 DAYS,csanuragjain,False,8225.62,8,0,0,6,2,0
-LAST 60 DAYS,0x52,False,7998.48,12,3,0,7,0,0
-LAST 60 DAYS,HE1M,False,7127.64,7,3,0,3,1,0
-LAST 60 DAYS,hansfriese,False,6758.49,17,3,0,12,1,0
-LAST 60 DAYS,rvierdiiev,False,6578.7,20,8,0,8,0,0
-LAST 60 DAYS,ladboy233,False,5239.15,15,4,0,8,0,0
+LAST 60 DAYS,0x52,False,8005.47,13,4,0,7,0,0
+LAST 60 DAYS,Bobface,False,7600.88,5,2,0,2,1,0
+LAST 60 DAYS,rvierdiiev,False,7386.83,23,10,0,8,0,0
+LAST 60 DAYS,hansfriese,False,7199.36,21,5,0,14,1,0
+LAST 60 DAYS,HE1M,False,7174.89,9,5,0,3,1,0
+LAST 60 DAYS,ladboy233,False,5828.31,19,5,0,10,0,0
+LAST 60 DAYS,0xSmartContract,False,5694.02,13,2,0,0,0,4
 LAST 60 DAYS,HollaDieWaldfee,False,4752.64,12,3,0,7,0,0
-LAST 60 DAYS,__141345__,False,4611.77,6,2,0,3,0,1
-LAST 60 DAYS,0xSmartContract,False,4471.22,11,2,0,0,0,3
-LAST 60 DAYS,ktg,False,4203.7,1,0,0,1,0,0
-LAST 60 DAYS,Bobface,False,4158.72,3,1,0,1,1,0
-LAST 60 DAYS,RaymondFam,False,4120.57,12,0,0,2,0,5
+LAST 60 DAYS,__141345__,False,4659.02,8,4,0,3,0,1
+LAST 60 DAYS,ktg,False,4388.03,2,0,0,2,0,0
+LAST 60 DAYS,RaymondFam,False,4225.82,15,1,0,2,0,6
+LAST 60 DAYS,cccz,False,4072.66,17,6,0,9,0,0
 LAST 60 DAYS,ronnyx2017,False,4057.68,2,2,0,0,0,0
 LAST 60 DAYS,aphak5010,False,3897.84,7,0,0,3,1,2
 LAST 60 DAYS,0xdeadbeef0x,False,3785.67,3,0,0,3,1,0
+LAST 60 DAYS,cozzetti,False,3609.31,5,2,0,2,0,0
 LAST 60 DAYS,Ruhum,False,3453.37,7,4,0,3,0,0
+LAST 60 DAYS,imare,False,3375.85,9,2,0,6,0,0
 LAST 60 DAYS,pauliax,False,3356.54,4,3,0,1,0,0
-LAST 60 DAYS,cccz,False,3274.43,14,3,0,9,0,0
+LAST 60 DAYS,gzeon,False,3208.51,11,2,0,4,0,2
 LAST 60 DAYS,stealthyz,False,2898.15,2,0,0,2,1,0
 LAST 60 DAYS,0xalpharush,False,2846.97,1,0,0,1,1,0
 LAST 60 DAYS,zaskoh,False,2464.21,6,1,0,3,0,1
-LAST 60 DAYS,gzeon,False,2457.53,10,1,0,4,0,2
 LAST 60 DAYS,AkshaySrivastav,False,2345.75,8,1,0,5,0,2
+LAST 60 DAYS,KingNFT,False,2240.77,8,4,0,4,0,0
 LAST 60 DAYS,sorrynotsorry,False,2198.75,2,1,0,1,1,0
-LAST 60 DAYS,adriro,False,2109.76,12,2,0,5,0,3
+LAST 60 DAYS,Tricko,False,2175.77,6,3,0,1,0,2
+LAST 60 DAYS,adriro,False,2155.7,13,2,0,6,0,3
 LAST 60 DAYS,joestakey,False,2000.49,8,1,0,3,0,0
-LAST 60 DAYS,Tricko,False,1984.45,4,2,0,0,0,2
 LAST 60 DAYS,rotcivegaf,False,1980.74,4,1,0,0,0,1
-LAST 60 DAYS,imare,False,1805.74,8,2,0,5,0,0
-LAST 60 DAYS,Koolex,False,1774.59,4,2,0,2,0,0
+LAST 60 DAYS,Koolex,False,1781.58,5,3,0,2,0,0
 LAST 60 DAYS,R2,False,1704.35,4,1,0,2,0,0
-LAST 60 DAYS,Chom,False,1499.83,4,1,0,3,0,0
-LAST 60 DAYS,KingNFT,False,1482.8,6,2,0,4,0,0
+LAST 60 DAYS,Rolezn,False,1599.3,9,0,0,0,0,5
+LAST 60 DAYS,ElKu,False,1577.1,2,1,0,1,0,0
+LAST 60 DAYS,Chom,False,1540.09,5,2,0,3,0,0
 LAST 60 DAYS,deliriusz,False,1428.24,5,1,0,2,0,0
-LAST 60 DAYS,Rolezn,False,1316.14,7,0,0,0,0,4
+LAST 60 DAYS,chaduke,False,1311.95,12,4,0,3,0,3
 LAST 60 DAYS,enckrish,False,1309.61,1,0,0,1,0,0
-LAST 60 DAYS,chaduke,False,1241.73,9,2,0,2,0,3
 LAST 60 DAYS,Trust,False,1239.22,4,1,0,3,0,0
 LAST 60 DAYS,kyteg,False,1238.16,1,0,0,1,0,0
+LAST 60 DAYS,koxuan,False,1220.34,7,5,0,2,0,0
+LAST 60 DAYS,c3phas,False,1213.36,4,0,0,0,0,4
 LAST 60 DAYS,Josiah,False,1105.02,3,0,0,1,0,0
+LAST 60 DAYS,IllIllI,False,1096.03,4,0,0,0,0,2
+LAST 60 DAYS,minhquanym,False,1090.31,8,5,0,2,0,0
 LAST 60 DAYS,brgltd,False,1085.88,2,0,0,0,0,0
-LAST 60 DAYS,c3phas,False,1034.13,3,0,0,0,0,3
-LAST 60 DAYS,cryptonue,False,946.38,7,1,0,2,0,2
-LAST 60 DAYS,IllIllI,False,866.64,2,0,0,0,0,1
-LAST 60 DAYS,8olidity,False,789.49,7,3,0,4,0,0
+LAST 60 DAYS,carlitox477,False,1031.36,3,2,0,0,0,1
+LAST 60 DAYS,8olidity,False,1023.98,9,3,0,5,0,0
+LAST 60 DAYS,cryptonue,False,961.21,8,1,0,2,0,3
+LAST 60 DAYS,yixxas,False,949.51,11,2,0,5,0,0
+LAST 60 DAYS,Lambda,False,939.21,4,2,0,1,0,0
+LAST 60 DAYS,shung,False,843.01,2,1,0,0,0,0
+LAST 60 DAYS,obront,False,807.61,11,2,0,6,0,0
+LAST 60 DAYS,9svR6w,False,791.24,2,2,0,0,0,0
 LAST 60 DAYS,0xfuje,False,763.19,2,0,0,0,0,0
-LAST 60 DAYS,yixxas,False,662.09,7,1,0,3,0,0
+LAST 60 DAYS,ak1,False,754.82,4,1,0,2,0,0
+LAST 60 DAYS,ReyAdmirado,False,690.76,5,0,0,0,0,5
 LAST 60 DAYS,codeislight,False,658.15,2,0,0,0,0,1
 LAST 60 DAYS,0xA5DF,False,656.69,5,1,0,3,0,0
 LAST 60 DAYS,slvDev,False,640.51,4,1,0,1,0,1
-LAST 60 DAYS,UUdarTeam,True,583.62,3,0,0,1,0,1
+LAST 60 DAYS,UUdarTeam,True,598.45,4,0,0,1,0,2
 LAST 60 DAYS,0xTraub,False,583.62,3,0,0,1,0,1
-LAST 60 DAYS,ak1,False,573.99,2,0,0,1,0,0
 LAST 60 DAYS,eierina,False,554.95,2,0,0,1,0,0
+LAST 60 DAYS,helios,False,530.47,2,0,0,0,0,0
 LAST 60 DAYS,trustindistrust,False,524.62,2,0,0,1,0,0
-LAST 60 DAYS,ReyAdmirado,False,511.53,4,0,0,0,0,4
-LAST 60 DAYS,Aymen0909,False,492.0,5,1,0,0,0,2
-LAST 60 DAYS,helios,False,480.31,1,0,0,0,0,0
-LAST 60 DAYS,obront,False,477.56,8,1,0,5,0,0
-LAST 60 DAYS,fs0c,False,468.66,5,2,0,3,0,0
+LAST 60 DAYS,Aymen0909,False,506.83,6,1,0,0,0,3
+LAST 60 DAYS,fs0c,False,475.65,6,3,0,3,0,0
+LAST 60 DAYS,Franfran,False,441.02,5,2,0,2,0,0
 LAST 60 DAYS,pfapostol,False,423.75,1,0,0,0,0,1
+LAST 60 DAYS,CRYP70,False,402.89,5,1,0,4,0,0
 LAST 60 DAYS,0xNazgul,False,401.93,4,0,0,1,0,0
-LAST 60 DAYS,Franfran,False,388.09,3,1,0,1,0,0
-LAST 60 DAYS,Breeje,False,353.85,1,0,0,0,0,0
+LAST 60 DAYS,Breeje,False,368.68,2,0,0,0,0,1
+LAST 60 DAYS,dic0de,False,348.29,2,0,0,2,0,0
 LAST 60 DAYS,neko_nyaa,False,338.92,1,0,0,0,0,1
+LAST 60 DAYS,aviggiano,False,318.15,5,3,0,1,0,0
+LAST 60 DAYS,UNCHAIN,True,317.19,5,2,0,2,0,0
+LAST 60 DAYS,pavankv,False,300.5,4,0,0,1,0,3
 LAST 60 DAYS,SmartSek,True,292.63,3,0,0,1,0,0
-LAST 60 DAYS,pavankv,False,285.67,3,0,0,1,0,2
-LAST 60 DAYS,aviggiano,False,261.0,3,2,0,1,0,0
+LAST 60 DAYS,nicobevi,False,282.93,3,1,0,0,0,2
+LAST 60 DAYS,cryptostellar5,False,272.84,3,0,0,1,0,1
+LAST 60 DAYS,wait,False,261.65,7,2,0,3,0,0
+LAST 60 DAYS,Bnke0x0,False,256.93,9,0,0,2,0,2
 LAST 60 DAYS,idkwhatimdoing,False,249.09,2,0,0,1,0,0
-LAST 60 DAYS,nicobevi,False,242.67,2,0,0,0,0,2
 LAST 60 DAYS,Parth,False,241.69,5,2,0,2,0,0
-LAST 60 DAYS,minhquanym,False,239.83,4,2,0,2,0,0
 LAST 60 DAYS,0Kage,False,238.9,2,1,0,0,0,0
+LAST 60 DAYS,immeas,False,237.24,7,3,0,2,0,0
+LAST 60 DAYS,haku,False,227.96,2,1,0,1,0,0
+LAST 60 DAYS,oyc_109,False,224.48,7,0,0,0,0,3
 LAST 60 DAYS,datapunk,False,224.74,3,0,0,1,0,1
 LAST 60 DAYS,0xbepresent,False,222.7,5,1,0,3,0,0
 LAST 60 DAYS,Englave,False,222.67,6,0,0,3,0,2
-LAST 60 DAYS,haku,False,220.97,1,0,0,1,0,0
 LAST 60 DAYS,pashov,False,219.73,6,2,0,4,0,0
 LAST 60 DAYS,ayeslick,False,210.78,1,1,0,0,0,0
 LAST 60 DAYS,mert_eren,False,210.78,1,1,0,0,0,0
-LAST 60 DAYS,oyc_109,False,209.65,6,0,0,0,0,2
 LAST 60 DAYS,Beepidibop,False,207.65,1,0,0,0,0,1
 LAST 60 DAYS,PaludoX0,False,206.17,2,1,0,0,0,1
-LAST 60 DAYS,carrotsmuggler,False,197.41,7,2,0,3,0,0
-LAST 60 DAYS,Bnke0x0,False,191.94,7,0,0,2,0,1
-LAST 60 DAYS,koxuan,False,191.84,2,2,0,0,0,0
-LAST 60 DAYS,Lambda,False,188.23,3,1,0,1,0,0
+LAST 60 DAYS,carrotsmuggler,False,204.4,8,3,0,3,0,0
+LAST 60 DAYS,Janio,False,201.96,2,0,0,1,0,0
+LAST 60 DAYS,Diana,False,186.53,5,0,0,0,0,3
+LAST 60 DAYS,0xmuxyz,False,184.33,1,0,0,1,0,0
 LAST 60 DAYS,evan,False,183.63,4,2,0,2,0,0
-LAST 60 DAYS,immeas,False,180.09,5,2,0,2,0,0
-LAST 60 DAYS,wait,False,175.45,5,1,0,2,0,0
+LAST 60 DAYS,NoamYakov,False,179.23,1,0,0,0,0,1
+LAST 60 DAYS,BBPZ,True,173.84,1,0,0,1,0,0
 LAST 60 DAYS,FForkEth,True,171.27,1,0,0,1,0,0
-LAST 60 DAYS,Diana,False,171.7,4,0,0,0,0,2
+LAST 60 DAYS,tnevler,False,169.65,5,0,0,2,0,2
 LAST 60 DAYS,rbserver,False,169.02,4,1,0,2,0,0
 LAST 60 DAYS,keccak123,False,168.96,4,0,0,1,0,1
+LAST 60 DAYS,gz627,False,167.21,7,1,0,1,0,2
 LAST 60 DAYS,Deivitto,False,166.72,4,0,0,0,0,2
 LAST 60 DAYS,Ch_301,False,160.95,3,1,0,2,0,0
 LAST 60 DAYS,sakshamguruji,False,159.32,4,0,0,0,0,2
-LAST 60 DAYS,tnevler,False,154.82,4,0,0,2,0,1
 LAST 60 DAYS,martin,False,152.73,5,0,0,1,0,2
-LAST 60 DAYS,gz627,False,152.38,6,1,0,1,0,1
 LAST 60 DAYS,0xRobocop,False,146.8,5,1,0,3,0,0
 LAST 60 DAYS,danyams,False,144.46,5,1,0,2,0,0
+LAST 60 DAYS,0xhacksmithh,False,141.73,6,0,0,1,0,3
+LAST 60 DAYS,0xAgro,False,139.98,4,0,0,0,0,1
 LAST 60 DAYS,Awesome,False,136.85,5,0,0,1,0,2
-LAST 60 DAYS,CRYP70,False,132.36,2,0,0,2,0,0
 LAST 60 DAYS,cryptoDave,False,131.6,1,0,0,1,0,0
-LAST 60 DAYS,0xhacksmithh,False,126.9,5,0,0,1,0,2
 LAST 60 DAYS,shark,False,125.76,4,0,0,1,0,0
-LAST 60 DAYS,0xAgro,False,125.15,3,0,0,0,0,0
+LAST 60 DAYS,rjs,False,123.14,4,1,0,0,0,2
+LAST 60 DAYS,Madalad,False,123.27,5,1,0,2,0,2
+LAST 60 DAYS,seyni,False,122.44,5,2,0,2,0,0
+LAST 60 DAYS,saneryee,False,120.47,4,0,0,0,0,4
 LAST 60 DAYS,0x4non,False,119.6,3,0,0,0,0,2
+LAST 60 DAYS,caventa,False,118.54,3,1,0,0,0,0
 LAST 60 DAYS,JohnSmith,False,118.46,3,1,0,0,0,1
-LAST 60 DAYS,seyni,False,115.45,4,1,0,2,0,0
-LAST 60 DAYS,0xDecorativePineapple,False,108.08,3,2,0,1,0,0
-LAST 60 DAYS,Madalad,False,108.44,4,1,0,2,0,1
+LAST 60 DAYS,lukris02,False,118.18,5,1,0,2,0,1
+LAST 60 DAYS,0xDecorativePineapple,False,115.07,4,3,0,1,0,0
 LAST 60 DAYS,ajtra,False,106.44,4,0,0,1,0,2
 LAST 60 DAYS,Dinesh11G,False,106.34,3,0,0,1,0,2
-LAST 60 DAYS,saneryee,False,105.64,3,0,0,0,0,3
-LAST 60 DAYS,lukris02,False,103.35,4,1,0,2,0,0
+LAST 60 DAYS,0x1f8b,False,103.62,3,0,0,1,0,1
 LAST 60 DAYS,Mukund,False,94.11,3,0,0,0,0,2
 LAST 60 DAYS,ahmedov,False,93.26,3,0,0,2,0,1
+LAST 60 DAYS,bytehat,False,93.19,3,2,0,1,0,0
 LAST 60 DAYS,B2,False,93.14,2,0,0,0,0,1
 LAST 60 DAYS,0xPanda,False,93.14,2,0,0,0,0,1
 LAST 60 DAYS,Sathish9098,False,92.23,3,0,0,0,0,2
-LAST 60 DAYS,0x1f8b,False,88.79,2,0,0,1,0,0
-LAST 60 DAYS,cryptostellar5,False,88.51,2,0,0,0,0,1
+LAST 60 DAYS,minhtrng,False,88.38,4,2,0,2,0,0
+LAST 60 DAYS,Zarf,False,87.84,2,0,0,1,0,0
 LAST 60 DAYS,nameruse,False,86.83,4,1,0,1,0,0
 LAST 60 DAYS,Secureverse,True,83.19,2,0,0,0,0,1
 LAST 60 DAYS,saian,False,80.77,2,1,0,0,0,0
+LAST 60 DAYS,JC,False,79.29,4,0,0,1,0,2
 LAST 60 DAYS,ppoirots,True,75.87,3,2,0,1,0,0
 LAST 60 DAYS,peritoflores,False,73.58,2,0,0,0,0,1
 LAST 60 DAYS,TomJ,False,72.1,2,0,0,0,0,1
 LAST 60 DAYS,simon135,False,70.03,3,0,0,2,0,0
 LAST 60 DAYS,perseverancesuccess,False,69.42,2,0,0,1,0,0
 LAST 60 DAYS,karanctf,False,69.07,3,0,0,2,0,1
-LAST 60 DAYS,rjs,False,65.99,2,0,0,0,0,2
+LAST 60 DAYS,SleepingBugs,True,64.99,2,0,0,0,0,1
 LAST 60 DAYS,Tomio,False,64.7,2,0,0,0,0,2
 LAST 60 DAYS,dharma09,False,64.7,2,0,0,0,0,2
 LAST 60 DAYS,gasperpre,False,60.86,3,0,0,2,0,0
@@ -161,28 +178,36 @@ LAST 60 DAYS,erictee,False,53.49,1,0,0,0,0,0
 LAST 60 DAYS,subtle77,False,53.49,1,0,0,0,0,0
 LAST 60 DAYS,codexploder,False,53.49,1,0,0,0,0,0
 LAST 60 DAYS,yongskiws,False,53.44,2,1,0,0,0,0
+LAST 60 DAYS,AApocalypto,True,52.93,2,1,0,1,0,0
+LAST 60 DAYS,rajatbeladiya,False,52.93,2,1,0,1,0,0
 LAST 60 DAYS,reassor,False,51.79,3,2,0,1,0,0
 LAST 60 DAYS,jayphbee,False,50.45,2,2,0,0,0,0
+LAST 60 DAYS,0xGusMcCrae,False,50.16,1,0,0,0,0,0
+LAST 60 DAYS,h0wl,False,50.16,1,0,0,0,0,0
+LAST 60 DAYS,ahayashi,False,50.16,1,0,0,0,0,0
 LAST 60 DAYS,ey88,False,49.61,1,1,0,0,0,0
+LAST 60 DAYS,eyexploit,False,49.27,3,1,0,1,0,1
+LAST 60 DAYS,kiki_dev,False,48.12,3,1,0,2,0,0
+LAST 60 DAYS,BAHOZ,False,47.25,2,2,0,0,0,0
+LAST 60 DAYS,0xDave,False,46.78,2,1,0,1,0,0
 LAST 60 DAYS,SaharDevep,False,43.54,1,0,0,0,0,0
-LAST 60 DAYS,eyexploit,False,42.28,2,0,0,1,0,1
 LAST 60 DAYS,0xLad,False,41.25,2,1,0,1,0,0
 LAST 60 DAYS,rbitbytes,False,40.94,1,0,0,0,0,1
+LAST 60 DAYS,0xxm,False,40.26,1,1,0,0,0,0
+LAST 60 DAYS,Junnon,False,40.26,1,1,0,0,0,0
+LAST 60 DAYS,mauricio1802,False,40.26,1,1,0,0,0,0
 LAST 60 DAYS,halden,False,39.65,1,0,0,0,0,1
 LAST 60 DAYS,Schlagatron,False,39.65,1,0,0,0,0,1
+LAST 60 DAYS,lumoswiz,False,38.14,5,2,0,3,0,0
+LAST 60 DAYS,izhelyazkov,False,35.11,2,1,0,0,0,0
+LAST 60 DAYS,Tointer,False,35.11,2,1,0,0,0,0
 LAST 60 DAYS,teawaterwire,False,33.4,1,0,0,1,0,0
 LAST 60 DAYS,Saintcode_,False,33.4,1,0,0,1,0,0
 LAST 60 DAYS,_Adam,False,32.5,2,0,0,1,0,0
 LAST 60 DAYS,jonatascm,False,31.15,4,1,0,3,0,0
-LAST 60 DAYS,lumoswiz,False,31.15,4,1,0,3,0,0
 LAST 60 DAYS,Soosh,False,30.15,2,0,0,2,0,0
 LAST 60 DAYS,yellowBirdy,False,29.42,2,0,0,2,0,0
-LAST 60 DAYS,Zarf,False,28.12,1,0,0,0,0,0
 LAST 60 DAYS,Udsen,False,28.12,1,0,0,0,0,0
-LAST 60 DAYS,caventa,False,28.12,1,0,0,0,0,0
-LAST 60 DAYS,izhelyazkov,False,28.12,1,0,0,0,0,0
-LAST 60 DAYS,Janio,False,28.12,1,0,0,0,0,0
-LAST 60 DAYS,Tointer,False,28.12,1,0,0,0,0,0
 LAST 60 DAYS,gogo,False,25.32,1,1,0,0,0,0
 LAST 60 DAYS,hl_,False,25.32,1,1,0,0,0,0
 LAST 60 DAYS,peanuts,False,25.32,1,1,0,0,0,0
@@ -190,209 +215,221 @@ LAST 60 DAYS,RHaO-sec,False,25.05,1,0,0,0,0,1
 LAST 60 DAYS,nadin,False,25.05,1,0,0,0,0,1
 LAST 60 DAYS,wagmi,False,15.93,1,0,0,1,0,0
 LAST 60 DAYS,pedroais,False,15.93,1,0,0,1,0,0
-LAST 60 DAYS,JC,False,14.3,2,0,0,1,0,1
+LAST 60 DAYS,ret2basic,False,14.83,1,0,0,0,0,1
+LAST 60 DAYS,0xab00,False,14.83,1,0,0,0,0,1
+LAST 60 DAYS,JrNet,False,14.83,1,0,0,0,0,1
+LAST 60 DAYS,HardlyCodeMan,False,14.83,1,0,0,0,0,1
+LAST 60 DAYS,millersplanet,False,14.83,1,0,0,0,0,1
 LAST 60 DAYS,abiih,False,13.69,1,0,0,0,0,1
 LAST 60 DAYS,DijkstraDev,False,13.69,1,0,0,0,0,1
 LAST 60 DAYS,SaeedAlipoor01988,False,13.69,1,0,0,0,0,1
 LAST 60 DAYS,exolorkistis,False,13.69,1,0,0,0,0,1
-LAST 60 DAYS,kiki_dev,False,2.18,2,1,0,1,0,0
-LAST 60 DAYS,minhtrng,False,2.18,2,1,0,1,0,0
+LAST 60 DAYS,supernova,False,7.6,2,1,0,1,0,0
+LAST 60 DAYS,dipp,False,6.99,1,1,0,0,0,0
+LAST 60 DAYS,SamGMK,False,6.99,1,1,0,0,0,0
 LAST 60 DAYS,kree-dotcom,False,2.18,2,1,0,1,0,0
 LAST 60 DAYS,mahdikarimi,False,1.76,2,1,0,1,0,0
 LAST 60 DAYS,zapaz,False,1.45,2,1,0,1,0,0
 LAST 60 DAYS,kaliberpoziomka8552,False,0.84,1,1,0,0,0,0
-LAST 60 DAYS,0xDave,False,0.84,1,1,0,0,0,0
 LAST 60 DAYS,0x446576,False,0.84,1,1,0,0,0,0
 LAST 60 DAYS,asgeir,False,0.61,1,0,0,1,0,0
 LAST 60 DAYS,Tutturu,False,0.61,1,0,0,1,0,0
-LAST 60 DAYS,supernova,False,0.61,1,0,0,1,0,0
-LAST 60 DAYS,dic0de,False,0.61,1,0,0,1,0,0
 LAST 60 DAYS,tourist,False,0.61,1,0,0,1,0,0
 LAST 90 DAYS,Soosh,False,71015.16,3,0,0,3,1,0
-LAST 90 DAYS,HE1M,False,47748.49,27,9,0,14,2,0
-LAST 90 DAYS,Jeiwan,False,32030.33,33,9,1,20,1,0
-LAST 90 DAYS,cccz,False,29800.95,37,8,1,24,3,0
+LAST 90 DAYS,HE1M,False,47795.74,29,11,0,14,2,0
+LAST 90 DAYS,Jeiwan,False,32587.57,37,11,1,22,1,0
+LAST 90 DAYS,cccz,False,30599.18,40,11,1,24,3,0
 LAST 90 DAYS,Trust,False,27162.04,40,10,0,26,3,0
-LAST 90 DAYS,hansfriese,False,26365.97,33,7,0,23,3,0
+LAST 90 DAYS,hansfriese,False,26806.84,37,9,0,25,3,0
 LAST 90 DAYS,codehacker,False,24571.73,1,0,0,1,0,0
 LAST 90 DAYS,bin2chen,False,24380.65,27,12,0,14,1,0
 LAST 90 DAYS,ronnyx2017,False,24173.09,9,6,0,3,2,0
-LAST 90 DAYS,rvierdiiev,False,22172.6,43,10,0,24,1,0
-LAST 90 DAYS,Lambda,False,21965.68,30,7,0,20,3,0
-LAST 90 DAYS,unforgiven,False,21252.35,27,13,3,11,0,1
+LAST 90 DAYS,unforgiven,False,23436.84,32,15,3,13,0,1
+LAST 90 DAYS,rvierdiiev,False,22980.73,46,12,0,24,1,0
+LAST 90 DAYS,Lambda,False,22716.66,31,8,0,20,3,0
 LAST 90 DAYS,zzykxx,False,19328.84,5,3,0,1,0,0
 LAST 90 DAYS,xiaoming90,False,18760.33,9,5,1,3,0,0
-LAST 90 DAYS,0x52,False,17820.12,22,3,0,15,0,0
-LAST 90 DAYS,0xSmartContract,False,17143.16,29,2,0,6,1,7
+LAST 90 DAYS,0xSmartContract,False,18365.96,31,2,0,6,1,8
+LAST 90 DAYS,0x52,False,17827.11,23,4,0,15,0,0
+LAST 90 DAYS,KingNFT,False,15748.67,17,6,0,9,1,0
 LAST 90 DAYS,berndartmueller,False,15484.92,8,4,0,4,1,0
-LAST 90 DAYS,KingNFT,False,14990.7,15,4,0,9,1,0
-LAST 90 DAYS,minhquanym,False,14414.31,14,4,0,8,0,0
-LAST 90 DAYS,adriro,False,12787.56,32,8,0,13,0,5
+LAST 90 DAYS,minhquanym,False,15264.79,18,7,0,8,0,0
+LAST 90 DAYS,adriro,False,12833.5,33,8,0,14,0,5
 LAST 90 DAYS,0xA5DF,False,12339.58,9,3,0,4,0,0
 LAST 90 DAYS,aphak5010,False,12225.48,30,4,0,15,3,5
-LAST 90 DAYS,hihen,False,11198.93,23,8,0,14,1,0
-LAST 90 DAYS,__141345__,False,10692.4,21,3,0,10,0,5
-LAST 90 DAYS,IllIllI,False,10503.7,14,0,0,1,0,7
-LAST 90 DAYS,ktg,False,9832.7,6,1,0,3,0,0
+LAST 90 DAYS,hihen,False,11292.12,26,10,0,15,1,0
+LAST 90 DAYS,__141345__,False,10739.65,23,5,0,10,0,5
+LAST 90 DAYS,IllIllI,False,10733.09,16,0,0,1,0,8
+LAST 90 DAYS,ktg,False,10017.03,7,1,0,4,0,0
+LAST 90 DAYS,ladboy233,False,9054.58,37,6,0,23,0,0
 LAST 90 DAYS,0xdeadbeef0x,False,8780.81,15,4,0,10,1,0
-LAST 90 DAYS,RaymondFam,False,8604.57,30,0,0,6,0,11
-LAST 90 DAYS,ladboy233,False,8465.42,33,5,0,21,0,0
+LAST 90 DAYS,RaymondFam,False,8709.82,33,1,0,6,0,12
 LAST 90 DAYS,csanuragjain,False,8316.52,11,0,0,7,2,0
 LAST 90 DAYS,rbserver,False,7922.14,26,2,0,17,3,0
 LAST 90 DAYS,Ruhum,False,7727.42,17,4,0,11,1,1
 LAST 90 DAYS,clems4ever,False,7681.38,7,6,2,0,0,0
-LAST 90 DAYS,0x1f8b,False,6645.37,18,0,0,5,0,7
-LAST 90 DAYS,immeas,False,6377.02,18,4,0,9,1,0
+LAST 90 DAYS,Bobface,False,7600.88,5,2,0,2,1,0
+LAST 90 DAYS,0x1f8b,False,6660.2,19,0,0,5,0,8
+LAST 90 DAYS,immeas,False,6434.17,20,5,0,9,1,0
 LAST 90 DAYS,datapunk,False,6331.42,18,4,1,8,0,2
 LAST 90 DAYS,joestakey,False,5476.91,26,3,0,16,0,0
 LAST 90 DAYS,Ch_301,False,5288.61,10,2,0,8,1,0
-LAST 90 DAYS,Rolezn,False,4808.21,23,0,0,2,0,11
+LAST 90 DAYS,Rolezn,False,5091.37,25,0,0,2,0,12
 LAST 90 DAYS,HollaDieWaldfee,False,4752.64,12,3,0,7,0,0
 LAST 90 DAYS,brgltd,False,4660.24,15,0,0,3,0,2
 LAST 90 DAYS,pashov,False,4584.55,23,2,0,14,0,1
-LAST 90 DAYS,c3phas,False,4383.26,14,0,0,0,0,9
-LAST 90 DAYS,Bobface,False,4158.72,3,1,0,1,1,0
-LAST 90 DAYS,carrotsmuggler,False,4061.57,10,2,0,5,0,0
-LAST 90 DAYS,chaduke,False,3991.98,22,2,0,8,0,5
+LAST 90 DAYS,c3phas,False,4562.49,15,0,0,0,0,10
+LAST 90 DAYS,imare,False,4270.58,16,3,0,9,0,2
+LAST 90 DAYS,carrotsmuggler,False,4068.56,11,3,0,5,0,0
+LAST 90 DAYS,chaduke,False,4062.2,25,4,0,9,0,5
 LAST 90 DAYS,rotcivegaf,False,3626.24,16,5,0,1,0,3
+LAST 90 DAYS,koxuan,False,3621.05,12,7,0,5,1,0
+LAST 90 DAYS,cozzetti,False,3609.31,5,2,0,2,0,0
 LAST 90 DAYS,Holmgren,False,3596.28,2,0,0,2,1,0
+LAST 90 DAYS,9svR6w,False,3456.44,11,8,0,2,0,0
 LAST 90 DAYS,zaskoh,False,3437.63,15,1,0,6,0,4
 LAST 90 DAYS,2997ms,False,3397.85,1,0,0,1,1,0
 LAST 90 DAYS,pauliax,False,3356.54,4,3,0,1,0,0
 LAST 90 DAYS,Josiah,False,3233.44,14,0,0,4,0,0
+LAST 90 DAYS,gzeon,False,3208.51,11,2,0,4,0,2
+LAST 90 DAYS,Chom,False,2915.89,11,2,0,7,0,0
 LAST 90 DAYS,stealthyz,False,2898.15,2,0,0,2,1,0
-LAST 90 DAYS,Chom,False,2875.63,10,1,0,7,0,0
 LAST 90 DAYS,0xalpharush,False,2846.97,1,0,0,1,1,0
-LAST 90 DAYS,imare,False,2700.47,15,3,0,8,0,2
-LAST 90 DAYS,9svR6w,False,2665.2,9,6,0,2,0,0
-LAST 90 DAYS,koxuan,False,2592.55,7,4,0,3,1,0
-LAST 90 DAYS,Koolex,False,2472.32,7,3,0,4,0,0
-LAST 90 DAYS,gzeon,False,2457.53,10,1,0,4,0,2
+LAST 90 DAYS,Koolex,False,2479.31,8,4,0,4,0,0
 LAST 90 DAYS,zzzitron,False,2440.19,1,0,0,0,0,0
+LAST 90 DAYS,ReyAdmirado,False,2387.71,19,0,0,1,0,12
 LAST 90 DAYS,AkshaySrivastav,False,2345.75,8,1,0,5,0,2
+LAST 90 DAYS,carlitox477,False,2315.35,17,2,0,6,0,5
+LAST 90 DAYS,Tricko,False,2237.96,8,3,0,1,0,2
 LAST 90 DAYS,sorrynotsorry,False,2223.35,4,1,0,3,1,0
-LAST 90 DAYS,ReyAdmirado,False,2208.48,18,0,0,1,0,11
 LAST 90 DAYS,Tomo,False,2186.71,4,0,0,3,0,0
 LAST 90 DAYS,perseverancesuccess,False,2166.28,7,2,0,3,0,0
 LAST 90 DAYS,ayeslick,False,2148.89,5,2,0,3,0,0
 LAST 90 DAYS,R2,False,2085.08,9,2,0,5,0,0
-LAST 90 DAYS,Tricko,False,2046.64,6,2,0,0,0,2
+LAST 90 DAYS,ElKu,False,2062.49,5,1,0,2,0,1
 LAST 90 DAYS,cryptphi,False,1972.17,3,2,0,1,0,0
 LAST 90 DAYS,deliriusz,False,1933.85,6,1,0,3,0,0
 LAST 90 DAYS,kaden,False,1880.14,5,0,0,2,0,2
 LAST 90 DAYS,djxploit,False,1844.63,9,0,0,3,0,3
 LAST 90 DAYS,Deivitto,False,1701.75,16,0,0,1,0,8
 LAST 90 DAYS,PaludoX0,False,1675.15,3,2,0,0,0,1
-LAST 90 DAYS,Aymen0909,False,1638.72,22,1,0,5,0,9
+LAST 90 DAYS,Aymen0909,False,1653.55,23,1,0,5,0,10
+LAST 90 DAYS,yixxas,False,1630.81,20,3,0,12,0,0
 LAST 90 DAYS,RaoulSchaffranek,False,1606.52,4,0,0,3,0,0
 LAST 90 DAYS,SmartSek,True,1600.9,9,0,0,6,0,0
 LAST 90 DAYS,trustindistrust,False,1538.82,11,0,0,4,0,1
 LAST 90 DAYS,0x4non,False,1531.11,10,3,0,1,0,3
+LAST 90 DAYS,lukris02,False,1486.76,15,1,0,2,0,6
 LAST 90 DAYS,delfin454000,False,1479.03,8,0,0,0,0,0
-LAST 90 DAYS,lukris02,False,1471.93,14,1,0,2,0,5
-LAST 90 DAYS,cryptonue,False,1446.98,17,2,0,6,0,3
+LAST 90 DAYS,cryptonue,False,1461.81,18,2,0,6,0,4
 LAST 90 DAYS,VV_B,True,1407.83,9,2,0,6,0,0
+LAST 90 DAYS,Franfran,False,1401.52,10,2,0,6,1,0
+LAST 90 DAYS,wait,False,1389.79,13,5,1,6,0,0
 LAST 90 DAYS,enckrish,False,1365.35,3,0,0,1,0,1
-LAST 90 DAYS,Franfran,False,1348.59,8,1,0,5,1,0
-LAST 90 DAYS,yixxas,False,1343.39,16,2,0,10,0,0
 LAST 90 DAYS,CloudX,True,1330.34,5,0,0,1,0,3
-LAST 90 DAYS,wait,False,1303.59,11,4,1,5,0,0
-LAST 90 DAYS,carlitox477,False,1283.99,14,0,0,6,0,4
+LAST 90 DAYS,8olidity,False,1287.83,17,4,0,10,0,0
+LAST 90 DAYS,tnevler,False,1250.08,17,0,0,2,0,7
 LAST 90 DAYS,indijanc,False,1241.67,2,0,0,1,0,1
+LAST 90 DAYS,gz627,False,1239.47,12,1,0,5,0,2
 LAST 90 DAYS,kyteg,False,1238.16,1,0,0,1,0,0
-LAST 90 DAYS,tnevler,False,1235.25,16,0,0,2,0,6
-LAST 90 DAYS,gz627,False,1224.64,11,1,0,5,0,1
 LAST 90 DAYS,hyh,False,1152.15,2,0,0,2,0,0
-LAST 90 DAYS,fs0c,False,1139.95,12,4,0,6,0,0
+LAST 90 DAYS,fs0c,False,1146.94,13,5,0,6,0,0
 LAST 90 DAYS,smiling_heretic,False,1133.21,1,1,0,0,0,0
 LAST 90 DAYS,Picodes,False,1110.57,7,1,0,4,0,1
-LAST 90 DAYS,8olidity,False,1053.34,15,4,0,9,0,0
+LAST 90 DAYS,Bnke0x0,False,1093.93,23,0,0,6,0,7
 LAST 90 DAYS,0xNazgul,False,1049.66,11,0,0,2,0,1
-LAST 90 DAYS,Bnke0x0,False,1028.94,21,0,0,6,0,6
 LAST 90 DAYS,philogy,False,1016.92,2,1,0,1,0,0
 LAST 90 DAYS,neko_nyaa,False,1007.99,7,0,0,3,0,2
 LAST 90 DAYS,0xbepresent,False,935.04,10,2,0,6,0,1
 LAST 90 DAYS,jayphbee,False,887.3,7,2,0,3,0,0
+LAST 90 DAYS,shung,False,843.01,2,1,0,0,0,0
+LAST 90 DAYS,obront,False,807.61,11,2,0,6,0,0
 LAST 90 DAYS,pfapostol,False,803.85,2,0,0,0,0,2
 LAST 90 DAYS,c7e7eff,False,802.35,9,2,0,5,0,0
+LAST 90 DAYS,aviggiano,False,781.98,12,3,0,4,0,3
 LAST 90 DAYS,neumo,False,777.54,7,1,0,4,0,0
 LAST 90 DAYS,0xfuje,False,763.19,2,0,0,0,0,0
 LAST 90 DAYS,eierina,False,763.2,7,0,0,6,0,0
 LAST 90 DAYS,ctf_sec,False,761.86,6,0,0,2,0,0
 LAST 90 DAYS,BBClabs,True,758.72,4,0,0,2,0,0
-LAST 90 DAYS,aviggiano,False,724.83,10,2,0,4,0,3
-LAST 90 DAYS,0xhacksmithh,False,711.4,8,0,0,2,0,2
+LAST 90 DAYS,ak1,False,754.82,4,1,0,2,0,0
+LAST 90 DAYS,0xhacksmithh,False,726.23,9,0,0,2,0,3
 LAST 90 DAYS,ajtra,False,676.48,15,0,0,2,0,8
 LAST 90 DAYS,codeislight,False,658.15,2,0,0,0,0,1
 LAST 90 DAYS,horsefacts,False,642.44,9,0,0,4,0,2
 LAST 90 DAYS,slvDev,False,640.51,4,1,0,1,0,1
+LAST 90 DAYS,oyc_109,False,634.71,16,0,0,0,0,8
+LAST 90 DAYS,cryptostellar5,False,633.44,11,0,0,2,0,5
 LAST 90 DAYS,corerouter,False,629.88,7,1,0,5,0,0
 LAST 90 DAYS,JTJabba,False,621.61,6,3,0,2,0,0
-LAST 90 DAYS,oyc_109,False,619.88,15,0,0,0,0,7
-LAST 90 DAYS,Diana,False,592.63,13,0,0,0,0,7
-LAST 90 DAYS,0xDecorativePineapple,False,589.29,6,2,0,4,0,0
+LAST 90 DAYS,Diana,False,607.46,14,0,0,0,0,8
+LAST 90 DAYS,UUdarTeam,True,598.45,4,0,0,1,0,2
+LAST 90 DAYS,0xDecorativePineapple,False,596.28,7,3,0,4,0,0
 LAST 90 DAYS,TomJ,False,587.68,10,0,0,3,0,5
-LAST 90 DAYS,UUdarTeam,True,583.62,3,0,0,1,0,1
 LAST 90 DAYS,0xTraub,False,583.62,3,0,0,1,0,1
-LAST 90 DAYS,ak1,False,573.99,2,0,0,1,0,0
 LAST 90 DAYS,simon135,False,552.37,7,0,0,4,0,0
+LAST 90 DAYS,helios,False,530.47,2,0,0,0,0,0
+LAST 90 DAYS,minhtrng,False,526.29,12,2,0,9,0,0
 LAST 90 DAYS,gogo,False,506.08,9,1,0,0,0,5
 LAST 90 DAYS,fatherOfBlocks,False,501.37,6,0,0,1,0,1
 LAST 90 DAYS,0xDjango,False,494.96,2,0,0,1,0,0
 LAST 90 DAYS,codexploder,False,493.89,10,0,0,9,0,0
-LAST 90 DAYS,ElKu,False,485.39,3,0,0,1,0,1
-LAST 90 DAYS,helios,False,480.31,1,0,0,0,0,0
 LAST 90 DAYS,shark,False,479.63,14,0,0,2,0,4
-LAST 90 DAYS,obront,False,477.56,8,1,0,5,0,0
 LAST 90 DAYS,Awesome,False,463.57,14,0,0,2,0,6
-LAST 90 DAYS,cryptostellar5,False,449.11,10,0,0,1,0,5
 LAST 90 DAYS,idkwhatimdoing,False,447.9,4,0,0,3,0,0
 LAST 90 DAYS,d3e4,False,446.25,5,0,0,4,0,0
-LAST 90 DAYS,minhtrng,False,440.09,10,1,0,8,0,0
 LAST 90 DAYS,B2,False,408.07,11,0,0,0,0,5
 LAST 90 DAYS,martin,False,404.84,13,0,0,3,0,5
+LAST 90 DAYS,CRYP70,False,402.89,5,1,0,4,0,0
 LAST 90 DAYS,chrisdior4,False,386.9,9,0,0,0,0,3
+LAST 90 DAYS,dic0de,False,377.84,4,0,0,3,0,0
 LAST 90 DAYS,catchup,False,376.98,3,0,0,3,0,0
+LAST 90 DAYS,Breeje,False,368.68,2,0,0,0,0,1
 LAST 90 DAYS,M4TZ1P,True,366.88,3,1,0,2,0,0
 LAST 90 DAYS,ch0bu,False,361.56,10,0,0,0,0,4
 LAST 90 DAYS,RedOneN,False,359.34,8,0,0,3,0,2
-LAST 90 DAYS,Breeje,False,353.85,1,0,0,0,0,0
+LAST 90 DAYS,pavankv,False,352.53,5,0,0,1,0,3
 LAST 90 DAYS,bearonbike,False,340.13,2,0,0,1,0,0
-LAST 90 DAYS,pavankv,False,337.7,4,0,0,1,0,2
 LAST 90 DAYS,mcwildy,False,331.25,4,0,0,0,0,3
-LAST 90 DAYS,HardlyCodeMan,False,310.12,3,0,0,0,0,2
+LAST 90 DAYS,HardlyCodeMan,False,324.95,4,0,0,0,0,3
+LAST 90 DAYS,UNCHAIN,True,317.19,5,2,0,2,0,0
 LAST 90 DAYS,0xRobocop,False,303.07,6,1,0,4,0,0
 LAST 90 DAYS,robee,False,290.57,3,0,0,0,0,1
 LAST 90 DAYS,Rahoz,False,286.78,9,0,0,1,0,5
+LAST 90 DAYS,nicobevi,False,282.93,3,1,0,0,0,2
 LAST 90 DAYS,peanuts,False,271.57,8,1,0,3,0,1
 LAST 90 DAYS,Vadis,False,264.89,3,0,0,2,0,0
 LAST 90 DAYS,gs8nrv,False,257.96,1,0,0,1,0,0
 LAST 90 DAYS,jayjonah8,False,250.77,1,0,0,0,0,0
 LAST 90 DAYS,btk,False,245.21,6,1,0,2,0,1
 LAST 90 DAYS,Dinesh11G,False,244.56,7,0,0,1,0,4
-LAST 90 DAYS,nicobevi,False,242.67,2,0,0,0,0,2
 LAST 90 DAYS,Parth,False,241.69,5,2,0,2,0,0
 LAST 90 DAYS,0xc0ffEE,False,240.88,5,0,0,3,0,0
 LAST 90 DAYS,0Kage,False,238.9,2,1,0,0,0,0
+LAST 90 DAYS,0xmuxyz,False,236.36,2,0,0,1,0,0
 LAST 90 DAYS,erictee,False,234.15,6,0,0,0,0,3
+LAST 90 DAYS,seyni,False,233.02,7,2,0,2,0,1
 LAST 90 DAYS,bitbopper,False,232.65,2,2,0,0,0,0
+LAST 90 DAYS,saneryee,False,231.43,7,0,0,1,0,5
 LAST 90 DAYS,cylzxje,False,228.89,3,0,0,0,0,1
 LAST 90 DAYS,DDecurity,True,228.55,2,0,0,2,0,0
-LAST 90 DAYS,seyni,False,226.03,6,1,0,2,0,1
+LAST 90 DAYS,haku,False,227.96,2,1,0,1,0,0
 LAST 90 DAYS,Sathish9098,False,223.95,7,0,0,0,0,4
 LAST 90 DAYS,Englave,False,222.67,6,0,0,3,0,2
-LAST 90 DAYS,haku,False,220.97,1,0,0,1,0,0
-LAST 90 DAYS,saneryee,False,216.6,6,0,0,1,0,4
 LAST 90 DAYS,sakshamguruji,False,215.06,6,0,0,0,0,3
 LAST 90 DAYS,zapaz,False,214.85,3,1,0,2,0,0
 LAST 90 DAYS,Saintcode_,False,212.12,4,0,0,1,0,2
 LAST 90 DAYS,mert_eren,False,210.78,1,1,0,0,0,0
 LAST 90 DAYS,Beepidibop,False,207.65,1,0,0,0,0,1
+LAST 90 DAYS,JC,False,205.39,8,0,0,1,0,5
 LAST 90 DAYS,pedr02b2,False,203.6,4,0,0,0,0,0
+LAST 90 DAYS,Janio,False,201.96,2,0,0,1,0,0
 LAST 90 DAYS,yamapyblack,False,198.43,1,0,0,1,0,0
 LAST 90 DAYS,Matin,False,195.91,2,0,0,2,0,0
 LAST 90 DAYS,SinceJuly,False,187.67,2,0,0,1,0,0
 LAST 90 DAYS,evan,False,183.63,4,2,0,2,0,0
+LAST 90 DAYS,NoamYakov,False,179.23,1,0,0,0,0,1
+LAST 90 DAYS,BBPZ,True,173.84,1,0,0,1,0,0
 LAST 90 DAYS,FForkEth,True,171.27,1,0,0,1,0,0
 LAST 90 DAYS,jonatascm,False,170.74,5,1,0,3,0,1
 LAST 90 DAYS,saian,False,169.8,4,1,0,1,0,1
@@ -410,20 +447,20 @@ LAST 90 DAYS,TwelveSec,True,146.82,2,0,0,2,0,0
 LAST 90 DAYS,danyams,False,144.46,5,1,0,2,0,0
 LAST 90 DAYS,sakman,False,143.91,4,0,0,0,0,2
 LAST 90 DAYS,durianSausage,False,141.11,4,0,0,0,0,3
-LAST 90 DAYS,JC,False,140.4,6,0,0,1,0,4
+LAST 90 DAYS,0xAgro,False,139.98,4,0,0,0,0,1
 LAST 90 DAYS,Secureverse,True,135.22,3,0,0,0,0,1
 LAST 90 DAYS,slowmoses,False,132.37,4,0,0,1,0,1
-LAST 90 DAYS,CRYP70,False,132.36,2,0,0,2,0,0
 LAST 90 DAYS,cryptoDave,False,131.6,1,0,0,1,0,0
-LAST 90 DAYS,0xAgro,False,125.15,3,0,0,0,0,0
 LAST 90 DAYS,skyle,False,125.4,5,0,0,1,0,4
+LAST 90 DAYS,rjs,False,123.14,4,1,0,0,0,2
+LAST 90 DAYS,Madalad,False,123.27,5,1,0,2,0,2
+LAST 90 DAYS,caventa,False,118.54,3,1,0,0,0,0
 LAST 90 DAYS,JohnSmith,False,118.46,3,1,0,0,0,1
 LAST 90 DAYS,Nyx,False,118.35,5,0,0,3,0,0
 LAST 90 DAYS,arcoun,False,118.49,3,2,0,1,0,0
 LAST 90 DAYS,Funen,False,114.84,2,0,0,0,0,0
 LAST 90 DAYS,bulej93,False,113.38,2,0,0,0,0,0
 LAST 90 DAYS,teawaterwire,False,110.62,2,0,0,2,0,0
-LAST 90 DAYS,Madalad,False,108.44,4,1,0,2,0,1
 LAST 90 DAYS,leosathya,False,108.41,6,0,0,1,0,3
 LAST 90 DAYS,peritoflores,False,103.13,4,0,0,1,0,1
 LAST 90 DAYS,gianganhnguyen,False,101.96,2,0,0,0,0,2
@@ -431,6 +468,9 @@ LAST 90 DAYS,0xPanda,False,96.27,3,0,0,1,0,1
 LAST 90 DAYS,sahar,False,96.32,2,0,0,1,0,0
 LAST 90 DAYS,Mukund,False,94.11,3,0,0,0,0,2
 LAST 90 DAYS,ahmedov,False,93.26,3,0,0,2,0,1
+LAST 90 DAYS,bytehat,False,93.19,3,2,0,1,0,0
+LAST 90 DAYS,ret2basic,False,91.31,4,0,0,0,0,3
+LAST 90 DAYS,Zarf,False,87.84,2,0,0,1,0,0
 LAST 90 DAYS,nameruse,False,86.83,4,1,0,1,0,0
 LAST 90 DAYS,exolorkistis,False,81.93,3,0,0,0,0,3
 LAST 90 DAYS,Udsen,False,80.15,2,0,0,0,0,0
@@ -440,15 +480,14 @@ LAST 90 DAYS,vv7,False,77.22,1,0,0,1,0,0
 LAST 90 DAYS,M0ndoHEHE,False,77.22,1,0,0,1,0,0
 LAST 90 DAYS,hanxin,False,77.22,1,0,0,1,0,0
 LAST 90 DAYS,wagmi,False,76.71,5,0,0,4,0,0
-LAST 90 DAYS,ret2basic,False,76.48,3,0,0,0,0,2
 LAST 90 DAYS,ppoirots,True,75.87,3,2,0,1,0,0
 LAST 90 DAYS,halden,False,72.3,3,0,0,0,0,3
 LAST 90 DAYS,ignacio,False,68.14,1,0,0,0,0,1
 LAST 90 DAYS,bharg4v,False,68.14,1,0,0,0,0,1
 LAST 90 DAYS,s3cunda,False,66.81,1,0,0,1,0,0
 LAST 90 DAYS,merlin,False,66.69,2,0,0,1,0,0
-LAST 90 DAYS,rjs,False,65.99,2,0,0,0,0,2
 LAST 90 DAYS,subtle77,False,65.01,2,0,0,0,0,1
+LAST 90 DAYS,SleepingBugs,True,64.99,2,0,0,0,0,1
 LAST 90 DAYS,Tomio,False,64.7,2,0,0,0,0,2
 LAST 90 DAYS,dharma09,False,64.7,2,0,0,0,0,2
 LAST 90 DAYS,jumpdest7d,False,61.35,1,0,0,0,0,0
@@ -468,51 +507,58 @@ LAST 90 DAYS,UUniversalCrypto,True,57.63,1,0,0,1,0,0
 LAST 90 DAYS,jadezti,False,55.67,3,1,0,1,0,0
 LAST 90 DAYS,yongskiws,False,53.44,2,1,0,0,0,0
 LAST 90 DAYS,jwood,False,53.27,2,0,0,1,0,0
+LAST 90 DAYS,AApocalypto,True,52.93,2,1,0,1,0,0
+LAST 90 DAYS,rajatbeladiya,False,52.93,2,1,0,1,0,0
 LAST 90 DAYS,nogo,False,52.03,1,0,0,0,0,0
-LAST 90 DAYS,0xmuxyz,False,52.03,1,0,0,0,0,0
 LAST 90 DAYS,reassor,False,51.79,3,2,0,1,0,0
 LAST 90 DAYS,Mathieu,False,50.17,3,0,0,0,0,2
+LAST 90 DAYS,0xGusMcCrae,False,50.16,1,0,0,0,0,0
+LAST 90 DAYS,h0wl,False,50.16,1,0,0,0,0,0
+LAST 90 DAYS,ahayashi,False,50.16,1,0,0,0,0,0
 LAST 90 DAYS,pedroais,False,49.94,3,0,0,3,0,0
 LAST 90 DAYS,ey88,False,49.61,1,1,0,0,0,0
+LAST 90 DAYS,eyexploit,False,49.27,3,1,0,1,0,1
 LAST 90 DAYS,me_na0mi,False,49.23,1,0,0,0,0,1
 LAST 90 DAYS,Metatron,False,49.23,1,0,0,0,0,1
 LAST 90 DAYS,0xRajkumar,False,49.23,1,0,0,0,0,1
+LAST 90 DAYS,kiki_dev,False,48.12,3,1,0,2,0,0
+LAST 90 DAYS,BAHOZ,False,47.25,2,2,0,0,0,0
+LAST 90 DAYS,0xDave,False,46.78,2,1,0,1,0,0
+LAST 90 DAYS,SamGMK,False,43.33,2,1,0,0,0,0
 LAST 90 DAYS,SaharDevep,False,43.54,1,0,0,0,0,0
-LAST 90 DAYS,eyexploit,False,42.28,2,0,0,1,0,1
 LAST 90 DAYS,0xLad,False,41.25,2,1,0,1,0,0
 LAST 90 DAYS,Dravee,False,41.07,3,0,0,1,0,1
 LAST 90 DAYS,rbitbytes,False,40.94,1,0,0,0,0,1
+LAST 90 DAYS,0xxm,False,40.26,1,1,0,0,0,0
+LAST 90 DAYS,Junnon,False,40.26,1,1,0,0,0,0
+LAST 90 DAYS,mauricio1802,False,40.26,1,1,0,0,0,0
 LAST 90 DAYS,Schlagatron,False,39.65,1,0,0,0,0,1
+LAST 90 DAYS,lumoswiz,False,38.14,5,2,0,3,0,0
+LAST 90 DAYS,0xab00,False,37.05,2,0,0,0,0,2
 LAST 90 DAYS,cducrest,False,36.73,1,0,0,0,0,0
 LAST 90 DAYS,evmwanderer,False,36.73,1,0,0,0,0,0
 LAST 90 DAYS,Hashlock,False,36.34,1,0,0,0,0,0
-LAST 90 DAYS,SamGMK,False,36.34,1,0,0,0,0,0
 LAST 90 DAYS,bin,False,36.34,1,0,0,0,0,0
 LAST 90 DAYS,Amithuddar,False,35.87,3,0,0,1,0,2
+LAST 90 DAYS,izhelyazkov,False,35.11,2,1,0,0,0,0
+LAST 90 DAYS,Tointer,False,35.11,2,1,0,0,0,0
 LAST 90 DAYS,Jujic,False,34.01,2,0,0,2,0,0
+LAST 90 DAYS,JrNet,False,33.84,2,0,0,0,0,2
 LAST 90 DAYS,_Adam,False,32.5,2,0,0,1,0,0
-LAST 90 DAYS,lumoswiz,False,31.15,4,1,0,3,0,0
 LAST 90 DAYS,KoKo,False,30.53,2,0,0,0,0,2
 LAST 90 DAYS,ballx,False,30.53,2,0,0,0,0,2
-LAST 90 DAYS,dic0de,False,30.16,3,0,0,2,0,0
 LAST 90 DAYS,yellowBirdy,False,29.42,2,0,0,2,0,0
-LAST 90 DAYS,Zarf,False,28.12,1,0,0,0,0,0
-LAST 90 DAYS,caventa,False,28.12,1,0,0,0,0,0
-LAST 90 DAYS,izhelyazkov,False,28.12,1,0,0,0,0,0
-LAST 90 DAYS,Janio,False,28.12,1,0,0,0,0,0
-LAST 90 DAYS,Tointer,False,28.12,1,0,0,0,0,0
 LAST 90 DAYS,RHaO-sec,False,25.05,1,0,0,0,0,1
 LAST 90 DAYS,nadin,False,25.05,1,0,0,0,0,1
 LAST 90 DAYS,CertoraInc,True,24.22,1,0,0,1,0,0
-LAST 90 DAYS,0xab00,False,22.22,1,0,0,0,0,1
 LAST 90 DAYS,0xdeadbeef,False,21.13,1,0,0,0,0,1
 LAST 90 DAYS,Sm4rty,False,19.64,1,0,0,0,0,0
 LAST 90 DAYS,hxzy,False,19.64,1,0,0,0,0,0
 LAST 90 DAYS,0x007,False,19.64,1,0,0,0,0,0
-LAST 90 DAYS,JrNet,False,19.01,1,0,0,0,0,1
 LAST 90 DAYS,Chandr,False,19.01,1,0,0,0,0,1
 LAST 90 DAYS,Shinchan,True,19.01,1,0,0,0,0,1
 LAST 90 DAYS,Ozy42,False,19.01,1,0,0,0,0,1
+LAST 90 DAYS,millersplanet,False,14.83,1,0,0,0,0,1
 LAST 90 DAYS,abiih,False,13.69,1,0,0,0,0,1
 LAST 90 DAYS,DijkstraDev,False,13.69,1,0,0,0,0,1
 LAST 90 DAYS,everyanykey,False,12.2,1,0,0,1,0,0
@@ -525,22 +571,20 @@ LAST 90 DAYS,0xhunter,False,9.91,1,0,0,1,0,0
 LAST 90 DAYS,tonisives,False,8.92,2,0,0,2,0,0
 LAST 90 DAYS,sashik_eth,False,8.54,1,0,0,1,0,0
 LAST 90 DAYS,eighty,False,8.08,1,0,0,1,0,0
+LAST 90 DAYS,supernova,False,7.6,2,1,0,1,0,0
+LAST 90 DAYS,dipp,False,7.37,2,1,0,1,0,0
 LAST 90 DAYS,bbananasboys,True,5.34,1,0,0,1,0,0
 LAST 90 DAYS,satoshipotato,False,5.6,1,1,0,0,0,0
 LAST 90 DAYS,0xdapper,False,5.6,1,0,0,1,0,0
 LAST 90 DAYS,lotux,False,4.04,1,0,0,1,0,0
 LAST 90 DAYS,Satyam_Sharma,False,2.67,1,0,0,1,0,0
-LAST 90 DAYS,kiki_dev,False,2.18,2,1,0,1,0,0
 LAST 90 DAYS,kree-dotcom,False,2.18,2,1,0,1,0,0
 LAST 90 DAYS,mahdikarimi,False,1.76,2,1,0,1,0,0
 LAST 90 DAYS,kaliberpoziomka8552,False,0.84,1,1,0,0,0,0
-LAST 90 DAYS,0xDave,False,0.84,1,1,0,0,0,0
 LAST 90 DAYS,0x446576,False,0.84,1,1,0,0,0,0
 LAST 90 DAYS,asgeir,False,0.61,1,0,0,1,0,0
 LAST 90 DAYS,Tutturu,False,0.61,1,0,0,1,0,0
-LAST 90 DAYS,supernova,False,0.61,1,0,0,1,0,0
 LAST 90 DAYS,tourist,False,0.61,1,0,0,1,0,0
-LAST 90 DAYS,dipp,False,0.38,1,0,0,1,0,0
 LAST 90 DAYS,Olivierdem,False,0.38,1,0,0,1,0,0
 LAST 90 DAYS,elprofesor,False,0.38,1,0,0,1,0,0
 LAST 90 DAYS,Wawrdog,False,0.38,1,0,0,1,0,0
@@ -695,39 +739,39 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,WatchPug,True,427652.02,462,99,28,132,47,156
 2022,cmichel,False,402556.26,148,32,5,67,23,4
 2022,Spearbit,True,292640.04,5,2,0,1,0,1
-2022,cccz,False,249922.65,322,73,3,158,22,2
+2022,cccz,False,250720.88,325,76,3,158,22,2
 2022,Saw-mon_and_Natalie,False,246448.61,5,2,0,0,0,1
 2022,hyh,False,243248.23,283,48,2,97,25,29
-2022,IllIllI,False,228414.72,289,23,2,104,17,85
-2022,0x52,False,179508.82,173,55,7,86,21,0
+2022,IllIllI,False,228644.11,291,23,2,104,17,86
+2022,0x52,False,179515.81,174,56,7,86,21,0
 2022,csanuragjain,False,168925.87,236,30,2,102,21,38
 2022,leastwood,False,163097.64,109,37,9,53,25,1
-2022,Lambda,False,144396.41,192,56,2,82,14,20
+2022,Lambda,False,145147.39,193,57,2,82,14,20
 2022,Trust,False,133679.62,89,25,4,53,10,0
-2022,unforgiven,False,118885.42,124,37,6,64,11,3
+2022,unforgiven,False,121069.91,129,39,6,66,11,3
 2022,rayn,False,108959.86,67,13,4,25,6,14
 2022,0xDjango,False,107627.36,137,23,2,39,6,27
 2022,xiaoming90,False,107020.02,71,20,6,40,8,0
-2022,0x1f8b,False,100867.72,323,20,2,79,12,110
+2022,0x1f8b,False,100882.55,324,20,2,79,12,111
 2022,0xsanson,False,97787.13,47,18,0,15,0,7
 2022,kirk-baird,False,94824.73,87,22,2,44,12,5
-2022,gzeon,False,93726.86,193,13,0,52,11,83
+2022,gzeon,False,94477.84,194,14,0,52,11,83
 2022,berndartmueller,False,88302.33,157,32,1,80,12,9
 2022,Dravee,False,83392.41,453,6,2,48,3,276
 2022,Ruhum,False,80938.36,213,41,1,76,9,45
 2022,CertoraInc,True,80181.65,145,15,0,46,9,44
 2022,Soosh,False,78182.73,26,12,0,7,1,1
-2022,hansfriese,False,71290.81,165,37,0,67,7,22
+2022,hansfriese,False,71731.68,169,39,0,69,7,22
 2022,hickuphh3,False,68589.38,84,19,2,34,4,13
 2022,defsec,False,66048.56,262,4,0,42,6,129
-2022,Jeiwan,False,60048.14,76,18,1,41,4,3
-2022,Chom,False,58851.71,127,17,0,42,8,29
+2022,Jeiwan,False,60605.38,80,20,1,43,4,3
+2022,Chom,False,58891.97,128,18,0,42,8,29
 2022,Picodes,False,57671.62,104,18,3,25,6,25
 2022,danb,False,54851.7,75,17,3,28,4,3
-2022,rvierdiiev,False,50678.25,82,12,0,40,4,7
+2022,rvierdiiev,False,51486.38,85,14,0,40,4,7
 2022,hhubble,True,48264.17,62,5,0,25,7,0
 2022,kenzo,False,48229.53,101,42,2,36,2,3
-2022,HE1M,False,47748.49,27,9,0,14,2,0
+2022,HE1M,False,47795.74,29,11,0,14,2,0
 2022,rbserver,False,46306.43,123,11,0,60,6,18
 2022,zzzitron,False,45979.59,85,29,0,32,6,0
 2022,jayjonah8,False,45531.27,76,6,4,17,5,4
@@ -740,17 +784,17 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,zzykxx,False,38298.37,16,6,0,5,0,0
 2022,frangio,False,38226.88,1,0,0,1,0,0
 2022,shenwilly,False,37961.61,85,19,1,41,3,1
-2022,minhquanym,False,36894.53,96,19,0,37,1,19
-2022,__141345__,False,36334.16,104,7,1,36,3,32
+2022,minhquanym,False,37745.01,100,22,0,37,1,19
+2022,__141345__,False,36381.41,106,9,1,36,3,32
 2022,sirhashalot,False,35386.25,96,3,3,14,6,36
+2022,0xSmartContract,False,34193.96,83,2,0,17,1,28
 2022,bbroccoli,True,34168.81,5,1,0,2,1,0
-2022,0xSmartContract,False,32971.16,81,2,0,17,1,27
 2022,GGimelSec,True,32294.97,102,14,0,45,5,17
 2022,PPwnedNoMore,True,31586.88,29,12,2,9,2,4
 2022,Respx,False,31470.15,25,3,1,10,3,6
 2022,AuditsAreUS,False,31082.71,25,3,1,17,4,0
+2022,ladboy233,False,30660.53,103,17,1,43,1,15
 2022,joestakey,False,30653.63,131,5,0,46,1,36
-2022,ladboy233,False,30071.37,99,16,1,41,1,15
 2022,scaraven,False,27876.7,58,17,0,27,3,3
 2022,ronnyx2017,False,27449.49,18,7,0,8,2,1
 2022,smiling_heretic,False,26618.75,21,11,1,8,1,0
@@ -761,34 +805,34 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,ming,False,23032.04,2,1,0,0,0,1
 2022,0xliumin,False,22619.33,19,5,0,6,3,2
 2022,Yarpo,False,22572.59,1,1,0,0,0,0
-2022,oyc_109,False,22075.62,154,11,0,22,3,60
+2022,oyc_109,False,22090.45,155,11,0,22,3,61
 2022,hake,False,21979.32,96,9,0,26,6,28
 2022,catchup,False,21535.72,77,5,0,17,2,27
 2022,shw,False,21414.32,15,4,2,8,1,0
 2022,BBowTiedWardens,True,21396.54,51,5,0,18,0,13
 2022,VAD37,False,21344.14,35,4,0,20,2,3
+2022,KingNFT,False,20269.81,23,7,0,11,1,1
 2022,KIntern_NA,True,20147.0,27,9,0,9,0,3
 2022,cryptphi,False,19841.01,86,12,0,23,4,5
-2022,KingNFT,False,19511.84,21,5,0,11,1,1
 2022,pedroais,False,18835.27,67,11,0,35,1,9
 2022,reassor,False,18441.96,79,6,0,33,3,15
 2022,jmak,False,18202.54,1,1,1,0,0,0
 2022,TTrustTeldKeng,True,17792.9,8,3,3,3,3,1
 2022,jonah1005,False,17662.21,8,2,0,4,2,0
 2022,TrungOre,False,17410.16,46,11,0,18,4,7
-2022,minhtrng,False,16644.38,28,3,0,19,2,0
+2022,minhtrng,False,16730.58,30,4,0,20,2,0
 2022,harleythedog,False,16630.82,24,7,0,12,2,0
 2022,0xNazgul,False,16499.59,139,1,0,17,2,64
 2022,Czar102,False,16098.07,48,2,0,21,2,15
 2022,panprog,False,15988.12,19,15,0,4,2,0
 2022,rotcivegaf,False,15780.24,73,11,0,20,1,19
+2022,RaymondFam,False,15683.03,64,1,0,9,0,25
 2022,rfa,False,15677.66,106,4,0,5,0,74
-2022,RaymondFam,False,15577.78,61,0,0,9,0,24
 2022,GalloDaSballo,False,15572.95,56,9,0,25,4,10
 2022,datapunk,False,15043.55,52,13,1,23,1,4
 2022,peritoflores,False,14884.84,70,6,1,30,0,11
 2022,dirk_y,False,14775.43,21,0,0,11,1,2
-2022,adriro,False,14441.81,41,9,0,16,0,8
+2022,adriro,False,14487.75,42,9,0,17,0,8
 2022,wuwe1,False,14427.68,39,6,0,15,1,6
 2022,horsefacts,False,14362.87,83,9,0,34,1,15
 2022,fatherOfBlocks,False,14227.26,117,1,0,14,2,51
@@ -801,28 +845,28 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,BBondiPestControl,True,11967.85,10,1,0,7,1,0
 2022,brgltd,False,11467.71,71,1,0,16,0,20
 2022,codexploder,False,11335.02,50,6,0,25,4,5
-2022,hihen,False,11198.93,23,8,0,14,1,0
+2022,hihen,False,11292.12,26,10,0,15,1,0
+2022,shung,False,11285.61,23,2,0,9,0,5
 2022,Ch_301,False,11159.08,37,7,0,18,1,3
 2022,pp4st13r4,True,10934.25,88,12,0,12,3,36
 2022,00x29A,True,10919.41,53,11,0,10,1,16
 2022,georgypetrov,False,10734.2,8,1,0,3,1,1
+2022,c3phas,False,10601.71,92,0,0,3,0,51
 2022,camden,False,10557.12,25,6,0,9,2,1
 2022,ayeslick,False,10531.48,26,4,0,15,0,0
 2022,Omik,False,10521.79,14,1,0,4,0,5
-2022,shung,False,10442.6,21,1,0,9,0,5
-2022,c3phas,False,10422.48,91,0,0,3,0,50
 2022,throttle,False,10239.28,57,3,0,19,2,22
 2022,Jujic,False,10152.9,116,0,0,17,1,81
 2022,PwnPatrol,True,10092.56,20,8,1,9,0,0
+2022,ktg,False,10017.03,7,1,0,4,0,0
 2022,vlad_bochok,False,9910.87,5,3,1,2,0,0
 2022,kenta,False,9893.86,69,1,0,9,0,30
-2022,ktg,False,9832.7,6,1,0,3,0,0
 2022,0x1337,False,9810.45,15,1,0,6,1,0
+2022,Rolezn,False,9716.45,74,0,0,8,0,31
 2022,MaratCerby,False,9694.6,49,2,0,16,0,16
 2022,Krow10,False,9666.64,6,3,1,1,0,1
+2022,immeas,False,9639.92,24,5,0,13,2,0
 2022,kankodu,False,9589.22,2,2,1,0,0,0
-2022,immeas,False,9582.77,22,4,0,13,2,0
-2022,Rolezn,False,9433.29,72,0,0,8,0,30
 2022,antonttc,False,9430.49,32,4,0,10,0,11
 2022,GeekyLumberjack,False,9372.94,10,2,0,2,0,0
 2022,TomFrenchBlockchain,False,9311.09,67,2,0,11,1,46
@@ -844,69 +888,70 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,0x4non,False,7757.26,60,7,0,10,0,22
 2022,clems4ever,False,7681.38,7,6,2,0,0,0
 2022,p_crypt0,False,7644.05,16,0,0,3,0,0
+2022,Bobface,False,7600.88,5,2,0,2,1,0
 2022,parashar,False,7580.35,6,3,1,1,0,0
 2022,Tomio,False,7579.45,113,0,0,2,0,102
 2022,VV_B,True,7560.9,36,4,0,17,1,5
 2022,0xjuicer,False,7523.7,2,0,0,2,1,0
+2022,Bnke0x0,False,7419.4,83,1,0,11,0,34
 2022,mics,False,7374.05,66,0,0,0,0,32
-2022,Bnke0x0,False,7354.41,81,1,0,11,0,33
 2022,0xmint,False,7208.53,22,2,0,2,2,8
 2022,auditor0517,False,7176.16,24,11,0,7,1,0
 2022,MiloTruck,False,7117.64,67,2,0,15,0,30
+2022,8olidity,False,7071.12,52,7,0,21,0,7
 2022,saian,False,7006.69,66,10,0,5,0,35
+2022,Aymen0909,False,6977.03,74,2,0,13,0,33
 2022,TomJ,False,6969.61,88,2,0,15,0,40
-2022,Aymen0909,False,6962.2,73,2,0,13,0,32
-2022,8olidity,False,6836.63,50,7,0,20,0,7
 2022,pmerkleplant,False,6803.27,12,2,0,5,0,2
 2022,simon135,False,6787.55,109,6,0,10,0,46
+2022,imare,False,6719.67,34,4,0,18,0,7
 2022,itsmeSTYJ,False,6555.08,15,2,0,9,1,0
+2022,ReyAdmirado,False,6515.61,70,0,0,2,0,39
 2022,eierina,False,6496.44,16,2,1,8,0,2
 2022,AlleyCat,False,6468.81,16,0,0,4,1,3
 2022,kkebabsec,True,6439.43,41,2,0,7,0,11
 2022,ye0lde,False,6396.69,46,3,0,2,0,28
-2022,dipp,False,6377.52,54,13,0,19,0,0
+2022,dipp,False,6384.51,55,14,0,19,0,0
 2022,Kenshin,False,6370.26,33,3,0,9,1,10
 2022,m9800,False,6344.27,23,5,0,10,0,1
-2022,ReyAdmirado,False,6336.38,69,0,0,2,0,38
 2022,securerodd,False,6160.26,15,1,0,2,2,7
 2022,static,False,6042.9,3,1,0,2,0,0
 2022,ch13fd357r0y3r,False,5832.39,9,0,0,3,1,0
+2022,ElKu,False,5830.06,63,7,0,4,0,27
 2022,wastewa,False,5696.73,10,6,0,2,0,0
 2022,Tomo,False,5650.48,23,0,0,7,1,7
+2022,JC,False,5523.94,80,0,0,5,0,41
 2022,sashik_eth,False,5504.68,46,4,0,10,1,19
-2022,JC,False,5458.95,78,0,0,5,0,40
 2022,Bahurum,False,5452.28,27,10,0,8,0,0
 2022,QQuantumBrief,True,5423.98,3,0,0,1,1,1
 2022,tintin,False,5327.25,17,2,0,7,0,0
 2022,byndooa,False,5220.09,10,3,0,5,0,0
 2022,samruna,False,5180.17,59,0,0,0,0,30
 2022,djxploit,False,5151.02,54,0,0,9,0,24
-2022,imare,False,5149.56,33,4,0,17,0,7
 2022,0xalpharush,False,5112.05,5,1,0,2,2,2
+2022,yixxas,False,5090.88,33,4,0,18,1,0
 2022,0v3rf10w,False,5046.96,71,0,0,1,0,42
+2022,Franfran,False,5046.1,20,4,0,9,1,2
 2022,0xSky,False,5016.77,23,6,0,12,1,0
-2022,Franfran,False,4993.17,18,3,0,8,1,2
-2022,yixxas,False,4803.46,29,3,0,16,1,0
 2022,Waze,False,4761.66,89,1,0,2,0,43
 2022,HollaDieWaldfee,False,4752.64,12,3,0,7,0,0
 2022,Meera,False,4751.1,18,1,0,3,0,7
 2022,hack3r-0m,False,4718.33,7,0,0,4,0,0
 2022,ych18,False,4715.33,21,2,0,7,0,6
-2022,carrotsmuggler,False,4671.12,17,4,0,6,0,1
+2022,carrotsmuggler,False,4678.11,18,5,0,6,0,1
 2022,zzkhorse,True,4618.48,13,1,0,5,0,2
 2022,ilan,False,4550.39,23,0,0,3,0,9
 2022,gellej,False,4508.27,6,0,0,4,0,0
 2022,asutorufos,False,4484.23,57,0,0,3,1,25
+2022,0xDecorativePineapple,False,4381.25,18,6,0,9,0,0
 2022,enckrish,False,4380.46,9,1,0,3,1,2
-2022,0xDecorativePineapple,False,4374.26,17,5,0,9,0,0
-2022,ElKu,False,4252.96,61,6,0,3,0,27
+2022,carlitox477,False,4330.1,35,3,0,10,0,13
 2022,indijanc,False,4226.17,14,1,0,5,1,2
 2022,bardamu,False,4171.57,14,4,0,4,1,2
-2022,Bobface,False,4158.72,3,1,0,1,1,0
+2022,chaduke,False,4127.04,32,4,0,12,0,7
 2022,Fitraldys,False,4081.05,62,2,0,3,0,49
 2022,sha256yan,False,4066.59,1,0,0,1,0,0
 2022,jah,False,4059.97,16,1,0,7,1,1
-2022,chaduke,False,4056.82,29,2,0,11,0,7
 2022,Treasure-Seeker,False,4012.06,23,7,0,10,0,0
 2022,Meta0xNull,False,3869.1,29,2,0,1,0,15
 2022,R2,False,3812.39,27,5,0,11,0,3
@@ -916,16 +961,18 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,JMukesh,False,3763.93,19,3,0,8,1,1
 2022,jonatascm,False,3749.0,27,5,0,8,0,7
 2022,_Adam,False,3675.04,60,0,0,7,0,27
+2022,koxuan,False,3621.05,12,7,0,5,1,0
+2022,cozzetti,False,3609.31,5,2,0,2,0,0
 2022,Holmgren,False,3596.28,2,0,0,2,1,0
+2022,ak1,False,3584.29,43,3,0,9,0,13
 2022,2997ms,False,3478.6,8,0,0,2,1,5
+2022,9svR6w,False,3456.44,11,8,0,2,0,0
 2022,zaskoh,False,3437.63,15,1,0,6,0,4
-2022,ak1,False,3403.46,41,2,0,8,0,13
 2022,Josiah,False,3374.38,18,0,0,5,0,0
-2022,carlitox477,False,3298.74,32,1,0,10,0,12
 2022,cloudjunky,False,3274.79,15,0,0,6,1,0
 2022,sces60107,False,3234.56,1,0,0,0,0,0
 2022,kaden,False,3213.44,18,3,0,3,0,9
-2022,lukris02,False,3193.69,42,1,0,6,0,15
+2022,lukris02,False,3208.52,43,1,0,6,0,16
 2022,RustyRabbit,False,3189.71,12,3,0,5,0,0
 2022,davidbrai,False,3160.53,10,3,0,6,0,0
 2022,0xwags,False,3137.81,11,0,0,0,0,3
@@ -941,16 +988,15 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,jayphbee,False,2746.42,13,4,0,5,0,1
 2022,Metatron,False,2744.64,28,4,0,6,0,14
 2022,sakshamguruji,False,2741.19,10,0,0,1,0,5
-2022,9svR6w,False,2665.2,9,6,0,2,0,0
-2022,koxuan,False,2592.55,7,4,0,3,1,0
 2022,alan724,False,2588.3,4,0,0,3,0,0
 2022,PaludoX0,False,2572.59,22,3,0,3,0,8
 2022,Tutturu,False,2563.57,14,5,0,4,0,2
 2022,AkshaySrivastav,False,2539.42,10,1,0,5,0,3
+2022,obront,False,2529.88,32,8,0,13,0,2
 2022,StErMi,False,2523.1,25,2,0,8,0,5
 2022,rokinot,False,2520.79,43,4,0,9,0,14
-2022,Koolex,False,2472.32,7,3,0,4,0,0
-2022,cryptonue,False,2470.19,39,3,0,14,0,7
+2022,cryptonue,False,2485.02,40,3,0,14,0,8
+2022,Koolex,False,2479.31,8,4,0,4,0,0
 2022,gogo,False,2427.87,55,1,0,0,0,29
 2022,tqts,False,2413.63,22,1,0,1,0,16
 2022,foobar,False,2410.19,3,0,0,0,0,1
@@ -960,9 +1006,9 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,twojoy,False,2339.78,2,0,0,0,0,1
 2022,mayo,False,2326.75,2,0,0,0,0,1
 2022,DimitarDimitrov,False,2293.94,8,1,0,2,0,2
+2022,Tricko,False,2237.96,8,3,0,1,0,2
 2022,PPP1004,True,2233.61,12,4,0,7,0,0
 2022,Sm4rty,False,2202.34,54,0,0,8,0,22
-2022,obront,False,2199.83,29,7,0,12,0,2
 2022,nnascent,True,2185.23,3,0,0,0,0,2
 2022,trustindistrust,False,2178.57,15,1,0,4,0,3
 2022,perseverancesuccess,False,2166.28,7,2,0,3,0,0
@@ -971,15 +1017,15 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,Randyyy,False,2074.02,26,2,0,2,0,18
 2022,broccolirob,False,2063.4,10,0,0,6,0,0
 2022,palina,False,2050.02,14,1,0,2,0,0
-2022,Tricko,False,2046.64,6,2,0,0,0,2
 2022,tonisives,False,2032.55,12,0,0,8,0,0
 2022,bobirichman,False,2011.82,34,0,0,0,0,15
 2022,sikorico,False,1959.69,34,0,0,0,0,13
 2022,deliriusz,False,1933.85,6,1,0,3,0,0
 2022,ignacio,False,1930.81,38,0,0,2,0,23
 2022,tabish,False,1929.01,7,3,0,2,0,1
+2022,tnevler,False,1924.23,38,0,0,2,0,16
 2022,0xbepresent,False,1911.9,24,2,0,8,0,7
-2022,tnevler,False,1909.4,37,0,0,2,0,15
+2022,NoamYakov,False,1908.36,20,0,0,1,0,14
 2022,StyxRave,False,1896.37,10,0,0,4,0,3
 2022,CodingNameKiki,False,1856.42,34,1,0,2,0,15
 2022,BouSalman,False,1850.82,26,0,0,1,0,8
@@ -989,7 +1035,6 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,PumpkingWok,False,1776.73,2,1,0,0,0,0
 2022,neumo,False,1761.21,21,5,0,9,0,0
 2022,slywaters,False,1745.39,28,0,0,3,0,19
-2022,NoamYakov,False,1729.13,19,0,0,1,0,13
 2022,IEatBabyCarrots,False,1683.29,1,1,0,0,0,0
 2022,gs8nrv,False,1663.09,6,1,0,2,0,1
 2022,teddav,False,1654.1,11,1,0,5,0,2
@@ -1003,42 +1048,44 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,durianSausage,False,1514.51,48,1,0,4,0,25
 2022,ACai,False,1500.41,18,0,0,6,0,8
 2022,Sleepy,False,1487.13,6,0,0,2,0,2
+2022,rajatbeladiya,False,1444.83,31,5,0,7,0,6
 2022,exd0tpy,False,1439.35,24,2,0,1,0,6
 2022,Kaiziron,False,1408.43,26,0,0,2,0,14
 2022,erictee,False,1398.24,41,0,0,2,0,18
-2022,rajatbeladiya,False,1391.9,29,4,0,6,0,6
+2022,wait,False,1389.79,13,5,1,6,0,0
 2022,thebensams,False,1386.68,2,2,0,0,0,0
 2022,ch0bu,False,1385.0,28,0,0,0,0,16
-2022,fs0c,False,1343.61,14,4,0,8,0,0
+2022,fs0c,False,1350.6,15,5,0,8,0,0
 2022,0xHarry,False,1342.54,6,0,0,3,0,3
 2022,pedr02b2,False,1332.2,19,1,0,1,0,3
 2022,CloudX,True,1330.34,5,0,0,1,0,3
 2022,RedOneN,False,1320.15,31,0,0,8,0,14
 2022,0xw4rd3n,False,1312.91,3,0,0,2,1,0
 2022,Noah3o6,False,1310.97,31,1,0,2,0,17
-2022,wait,False,1303.59,11,4,1,5,0,0
 2022,KKIntern,True,1293.2,4,2,0,1,0,0
 2022,bobi,False,1288.22,16,1,0,1,0,7
 2022,Limbooo,False,1268.64,20,1,0,4,0,8
 2022,Aussie_Battlers,True,1263.53,4,1,0,1,0,1
 2022,Rohan16,False,1256.61,33,0,0,2,0,17
 2022,0xngndev,False,1255.87,22,0,0,0,0,13
-2022,gz627,False,1224.64,11,1,0,5,0,1
+2022,gz627,False,1239.47,12,1,0,5,0,2
 2022,async,False,1211.32,13,1,0,3,0,3
 2022,skoorch,False,1211.7,1,0,0,1,1,0
 2022,Solimander,False,1208.13,3,1,0,2,0,0
 2022,Kthere,False,1192.53,7,1,0,1,0,1
 2022,Cityscape,False,1187.07,17,0,0,1,0,10
 2022,SooYa,False,1183.1,26,0,0,2,0,12
+2022,Diana,False,1169.34,26,0,0,0,0,13
 2022,ylv,False,1157.78,1,0,0,1,0,0
 2022,SecureZeroX,False,1156.63,5,0,0,1,0,2
-2022,Diana,False,1154.51,25,0,0,0,0,12
 2022,0xPanas,True,1140.17,3,2,0,0,0,0
 2022,CCantor_Dust,True,1113.64,3,0,0,1,0,1
+2022,aviggiano,False,1107.55,17,4,0,4,0,5
 2022,eighty,False,1106.74,5,1,0,1,0,1
 2022,FSchmoede,False,1104.17,18,0,0,3,0,9
 2022,martin,False,1057.61,31,0,0,4,0,14
-2022,aviggiano,False,1050.4,15,3,0,4,0,5
+2022,cryptostellar5,False,1043.89,25,0,0,4,0,11
+2022,CRYP70,False,1036.27,16,2,0,5,0,5
 2022,bulej93,False,1016.34,28,0,0,1,0,12
 2022,blackscale,False,1009.01,6,2,0,2,0,1
 2022,ctf_sec,False,1009.79,10,0,0,6,0,0
@@ -1049,16 +1096,15 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,tthankthedark,True,949.97,2,0,0,1,0,1
 2022,UnusualTurtle,False,932.22,17,0,0,1,0,13
 2022,RoiEvenHaim,False,925.13,13,0,0,0,0,9
+2022,nicobevi,False,920.52,8,2,0,0,0,3
 2022,Saintcode_,False,918.35,22,0,0,3,0,16
-2022,seyni,False,903.83,20,1,0,4,0,6
+2022,seyni,False,910.82,21,2,0,4,0,6
 2022,B2,False,902.87,25,0,0,0,0,12
 2022,cRat1st0s,False,892.15,22,0,0,3,0,12
 2022,karanctf,False,887.86,26,0,0,2,0,16
 2022,MadWookie,False,884.13,16,0,0,1,0,9
 2022,pants,False,881.09,1,0,0,0,0,0
-2022,nicobevi,False,880.26,7,1,0,0,0,3
 2022,zer0dot,False,870.96,10,3,0,1,0,4
-2022,cryptostellar5,False,859.56,24,0,0,3,0,11
 2022,zishansami,False,851.44,11,1,0,0,0,10
 2022,thank_you,False,850.77,3,0,0,2,0,0
 2022,elprofesor,False,835.87,4,1,0,2,0,0
@@ -1067,27 +1113,26 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,c7e7eff,False,802.35,9,2,0,5,0,0
 2022,0xmatt,False,799.69,14,0,0,2,0,4
 2022,BBClabs,True,796.6,5,0,0,2,0,0
+2022,ret2basic,False,781.41,27,0,0,0,0,15
 2022,apostle0x01,False,777.3,22,0,0,2,0,11
 2022,benk10,False,771.16,3,0,0,1,0,1
 2022,0xpiglet,False,766.68,3,3,0,0,0,0
-2022,ret2basic,False,766.58,26,0,0,0,0,14
-2022,CRYP70,False,765.74,13,1,0,3,0,5
 2022,0xfuje,False,763.19,2,0,0,0,0,0
 2022,AmitN,False,761.53,5,0,0,2,0,0
 2022,peanuts,False,751.79,22,1,0,7,0,7
 2022,giovannidisiena,False,748.87,6,0,0,3,0,1
 2022,pcarranzav,False,739.2,9,2,0,4,0,0
+2022,0xhacksmithh,False,726.23,9,0,0,2,0,3
 2022,FFoundation,True,720.05,3,1,0,0,0,1
 2022,Afanasyevich,False,717.29,5,0,0,1,0,3
-2022,0xhacksmithh,False,711.4,8,0,0,2,0,2
 2022,bitbopper,False,711.3,11,4,0,0,0,5
 2022,eccentricexit,False,711.14,10,1,0,3,0,2
 2022,00x,True,693.37,3,1,0,1,0,0
 2022,mtz,False,692.3,9,2,0,2,0,3
+2022,saneryee,False,683.57,16,0,0,2,0,7
 2022,leosathya,False,679.83,22,0,0,3,0,9
 2022,nahnah,False,668.84,7,0,0,0,0,7
 2022,Kulk0,False,668.95,7,0,0,2,0,2
-2022,saneryee,False,668.74,15,0,0,2,0,6
 2022,0xBug,False,667.43,3,1,0,1,0,1
 2022,codeislight,False,658.15,2,0,0,0,0,1
 2022,izhuer,False,650.6,6,2,0,2,0,0
@@ -1098,21 +1143,23 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,JTJabba,False,621.61,6,3,0,2,0,0
 2022,certora,False,620.76,5,0,0,0,0,0
 2022,242,False,619.28,7,1,0,1,0,1
+2022,Tointer,False,618.74,11,3,0,2,0,1
 2022,mcwildy,False,615.81,12,0,0,0,0,7
-2022,Tointer,False,611.75,10,2,0,2,0,1
 2022,Yiko,False,605.78,19,0,0,0,0,7
+2022,UUdarTeam,True,598.45,4,0,0,1,0,2
 2022,chrisdior4,False,593.4,17,0,0,0,0,7
 2022,sahar,False,583.83,7,0,0,1,0,1
 2022,okkothejawa,False,583.63,4,0,0,1,0,1
-2022,UUdarTeam,True,583.62,3,0,0,1,0,1
 2022,0xTraub,False,583.62,3,0,0,1,0,1
 2022,infosec_us_team,False,575.14,5,2,0,3,0,0
 2022,Haipls,False,571.4,2,0,0,2,0,0
+2022,bytehat,False,563.55,4,2,0,2,0,0
 2022,slowmoses,False,548.8,16,0,0,1,0,6
 2022,SinceJuly,False,544.75,5,0,0,3,0,0
 2022,d4rk,False,543.08,5,0,0,0,0,5
 2022,Awesome,False,542.03,17,0,0,2,0,9
 2022,GiveMeTestEther,False,533.32,7,2,0,2,0,2
+2022,helios,False,530.47,2,0,0,0,0,0
 2022,shark,False,520.31,16,0,0,2,0,6
 2022,Amithuddar,False,513.16,19,0,0,4,0,12
 2022,PierrickGT,False,512.26,6,0,0,0,0,4
@@ -1121,15 +1168,15 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,DecorativePineapple,False,486.06,3,1,0,1,0,0
 2022,M4TZ1P,True,483.42,7,2,0,5,0,0
 2022,idkwhatimdoing,False,483.07,5,0,0,3,0,0
-2022,helios,False,480.31,1,0,0,0,0,0
 2022,0xkowloon,False,475.99,8,1,0,1,0,3
 2022,0xRobocop,False,473.09,8,2,0,4,0,0
 2022,zdhu,False,470.36,1,0,0,1,0,0
-2022,bytehat,False,470.36,1,0,0,1,0,0
 2022,0x040,False,459.03,18,0,0,0,0,12
 2022,bugwriter001,False,457.87,6,1,0,1,0,0
+2022,dic0de,False,457.47,7,0,0,4,0,0
 2022,natzuu,False,452.92,15,0,0,0,0,8
 2022,Cr4ckM3,False,430.28,6,0,0,2,0,3
+2022,Junnon,False,430.01,13,2,0,1,0,5
 2022,bharg4v,False,418.67,10,0,0,0,0,4
 2022,Nethermind,True,418.3,5,0,0,0,0,0
 2022,0xhunter,False,413.7,4,0,0,3,0,0
@@ -1137,7 +1184,6 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,lucacez,False,405.29,13,0,0,0,0,9
 2022,hxzy,False,404.47,5,2,0,0,0,2
 2022,t11s,False,399.31,3,1,0,0,0,1
-2022,Junnon,False,389.75,12,1,0,1,0,5
 2022,0xYamiDancho,False,388.69,5,1,0,2,0,1
 2022,svskaushik,False,388.37,8,0,0,1,0,1
 2022,medikko,False,386.32,15,0,0,0,0,11
@@ -1148,24 +1194,25 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,nxrblsrpr,False,375.49,6,0,0,0,0,1
 2022,Rahoz,False,373.01,13,0,0,2,0,5
 2022,tchkvsky,False,373.0,5,0,0,0,0,2
+2022,Breeje,False,368.68,2,0,0,0,0,1
 2022,azephiar,False,357.26,4,0,0,3,0,0
 2022,ynnad,False,356.38,8,0,0,1,0,6
-2022,Breeje,False,353.85,1,0,0,0,0,0
+2022,pavankv,False,352.53,5,0,0,1,0,3
 2022,Wayne,False,352.37,5,1,0,1,0,1
 2022,m_smirnova2020,False,351.13,3,0,0,0,0,3
+2022,HardlyCodeMan,False,349.0,5,0,0,0,0,4
 2022,0x5rings,False,347.53,13,0,0,2,0,6
 2022,chatch,False,345.84,6,0,0,3,0,0
 2022,fatima_naz,False,344.04,6,0,0,1,0,3
 2022,Bronicle,False,341.4,4,0,0,0,0,0
 2022,Matin,False,338.01,6,0,0,2,0,3
-2022,pavankv,False,337.7,4,0,0,1,0,2
 2022,s3cunda,False,334.27,6,1,0,3,0,1
-2022,HardlyCodeMan,False,334.17,4,0,0,0,0,3
 2022,RRockingMiles,True,333.18,9,0,0,0,0,5
+2022,haku,False,329.14,4,1,0,1,0,2
 2022,halden,False,327.2,5,0,0,0,0,5
 2022,Guardian,True,325.6,8,0,0,2,0,3
 2022,rishabh,False,322.47,3,0,0,0,0,0
-2022,haku,False,322.15,3,0,0,1,0,2
+2022,UNCHAIN,True,317.19,5,2,0,2,0,0
 2022,gianganhnguyen,False,316.09,10,0,0,0,0,9
 2022,jag,False,316.71,13,0,0,1,0,11
 2022,sakman,False,312.67,11,0,0,0,0,7
@@ -1180,10 +1227,11 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,ppoirots,True,288.71,7,2,0,2,0,1
 2022,peiw,False,286.13,11,0,0,0,0,9
 2022,Diraco,False,285.03,12,0,0,1,0,7
+2022,supernova,False,279.59,12,1,0,4,0,4
 2022,byterocket,True,279.8,22,2,0,2,0,15
 2022,hagrid,False,277.69,3,0,0,1,0,1
 2022,bw,False,274.14,1,0,0,1,0,0
-2022,supernova,False,272.6,11,0,0,4,0,4
+2022,0xmuxyz,False,272.98,3,0,0,1,0,0
 2022,Dinesh11G,False,270.93,9,0,0,2,0,5
 2022,malinariy,False,269.83,7,0,0,0,0,3
 2022,tofunmi,False,267.28,9,0,0,2,0,5
@@ -1230,6 +1278,7 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,jayfromthe13th,False,205.1,5,0,0,0,0,3
 2022,JDeryl,False,204.76,2,0,0,0,0,0
 2022,mektigboy,False,204.69,5,0,0,0,0,3
+2022,Janio,False,201.96,2,0,0,1,0,0
 2022,aga7hokakological,False,198.94,5,0,0,0,0,3
 2022,0xSolus,False,198.78,5,0,0,0,0,2
 2022,yamapyblack,False,198.43,1,0,0,1,0,0
@@ -1245,6 +1294,8 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,Mathieu,False,178.76,6,0,0,0,0,5
 2022,BipinSah,False,178.37,3,0,0,1,0,1
 2022,dimitri,False,177.72,2,0,0,0,0,1
+2022,caventa,False,176.18,7,1,0,2,0,1
+2022,BBPZ,True,173.84,1,0,0,1,0,0
 2022,FForkEth,True,171.27,1,0,0,1,0,0
 2022,CalabashSquash,False,171.04,1,0,0,0,0,0
 2022,sryysryy,False,170.77,6,0,0,0,0,4
@@ -1275,6 +1326,7 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,0xdanial,False,142.37,3,1,0,0,0,1
 2022,0xNoah,False,142.29,1,1,0,0,0,0
 2022,MaCree,False,140.14,1,0,0,1,0,0
+2022,0xAgro,False,139.98,4,0,0,0,0,1
 2022,Nikolay,False,139.18,1,0,0,0,0,0
 2022,got_targ,False,137.71,6,0,0,0,0,3
 2022,yyac,True,136.19,1,0,0,0,0,0
@@ -1285,10 +1337,11 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,cryptoDave,False,131.6,1,0,0,1,0,0
 2022,Satyam_Sharma,False,130.99,6,0,0,1,0,4
 2022,IgnacioB,False,129.62,5,0,0,0,0,4
-2022,0xAgro,False,125.15,3,0,0,0,0,0
 2022,skyle,False,125.4,6,0,0,1,0,5
 2022,w0Lfrum,False,124.75,5,0,0,0,0,2
 2022,bytera,False,124.69,2,0,0,0,0,1
+2022,rjs,False,123.14,4,1,0,0,0,2
+2022,Madalad,False,123.27,5,1,0,2,0,2
 2022,SaharAP,False,121.54,4,0,0,0,0,2
 2022,bitsurfer,False,119.14,1,0,0,1,0,0
 2022,Twpony,False,119.3,6,2,0,3,0,0
@@ -1304,9 +1357,7 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,0xackermann,False,112.49,4,0,0,0,0,2
 2022,Bludya,False,110.74,3,0,0,1,0,1
 2022,miguelmtzinf,False,110.78,1,0,0,0,0,1
-2022,dic0de,False,109.79,6,0,0,3,0,0
 2022,Avci,True,108.85,4,0,0,1,0,2
-2022,Madalad,False,108.44,4,1,0,2,0,1
 2022,Trabajo_de_mates,True,108.16,3,0,0,0,0,1
 2022,francoHacker,False,106.29,6,0,0,0,0,5
 2022,newfork01,False,106.08,5,0,0,0,0,5
@@ -1327,13 +1378,14 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,0xDanielC,False,91.43,2,0,0,0,0,1
 2022,augustg,False,89.18,1,0,0,0,0,1
 2022,luduvigo,False,89.04,1,0,0,0,0,0
-2022,0xmuxyz,False,88.65,2,0,0,0,0,0
 2022,yash90,False,88.13,2,0,0,0,0,0
+2022,Zarf,False,87.84,2,0,0,1,0,0
 2022,i_got_hacked,False,87.7,3,0,0,0,0,1
 2022,nameruse,False,86.83,4,1,0,1,0,0
-2022,caventa,False,85.76,5,0,0,2,0,1
+2022,JrNet,False,86.15,5,0,0,0,0,4
 2022,0xAsm0d3us,False,85.55,2,0,0,0,0,2
 2022,tin537,False,84.96,1,0,0,0,0,1
+2022,millersplanet,False,83.62,5,0,0,0,0,3
 2022,marcopaladin,False,83.25,1,0,0,0,0,1
 2022,Anth3m,False,82.34,1,0,0,0,0,0
 2022,FudgyDRS,False,81.48,2,0,0,0,0,1
@@ -1349,15 +1401,13 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,Bruhhh,False,74.55,1,0,0,0,0,0
 2022,subtle77,False,74.1,3,0,0,0,0,2
 2022,Margaret,False,73.17,3,0,0,0,0,0
-2022,JrNet,False,71.32,4,0,0,0,0,3
 2022,Vexjon,False,71.09,2,0,0,0,0,0
 2022,xpriment626,False,69.53,1,0,0,0,0,0
-2022,millersplanet,False,68.79,4,0,0,0,0,2
 2022,Deathstore,False,68.66,1,0,0,0,0,1
 2022,merlin,False,66.69,2,0,0,1,0,0
 2022,floppydisk,False,66.07,1,0,0,0,0,0
-2022,rjs,False,65.99,2,0,0,0,0,2
 2022,0xNot0rious,False,65.64,1,0,0,0,0,1
+2022,SleepingBugs,True,64.99,2,0,0,0,0,1
 2022,0x510c,False,64.88,1,0,0,0,0,1
 2022,Extropy,True,62.41,2,0,0,0,0,1
 2022,Viksaa39,False,61.94,1,0,0,0,0,0
@@ -1391,40 +1441,51 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,jwood,False,53.27,2,0,0,1,0,0
 2022,innertia,False,53.2,3,0,0,1,0,0
 2022,Bjorn_bug,False,52.1,2,0,0,0,0,1
+2022,AApocalypto,True,52.93,2,1,0,1,0,0
 2022,UVvirus,False,52.04,1,0,0,0,0,0
 2022,nogo,False,52.03,1,0,0,0,0,0
 2022,bae11,False,52.02,1,0,0,0,0,1
 2022,easy_peasy,False,51.02,2,0,0,1,0,1
 2022,RagePit,False,50.21,2,0,0,1,0,1
+2022,0xGusMcCrae,False,50.16,1,0,0,0,0,0
+2022,h0wl,False,50.16,1,0,0,0,0,0
+2022,ahayashi,False,50.16,1,0,0,0,0,0
 2022,ControlCplusControlV,False,49.95,1,0,0,0,0,1
 2022,ey88,False,49.61,1,1,0,0,0,0
+2022,eyexploit,False,49.27,3,1,0,1,0,1
 2022,me_na0mi,False,49.23,1,0,0,0,0,1
 2022,0xRajkumar,False,49.23,1,0,0,0,0,1
+2022,kiki_dev,False,48.12,3,1,0,2,0,0
 2022,nine9,False,47.79,2,0,0,2,0,0
+2022,BAHOZ,False,47.25,2,2,0,0,0,0
 2022,Sneakyninja0129,False,47.13,1,0,0,0,0,0
 2022,doddle0x,False,47.13,1,0,0,0,0,0
+2022,0xDave,False,46.78,2,1,0,1,0,0
 2022,WatchDogs,False,46.69,1,0,0,0,0,1
 2022,beardofginger,False,46.28,4,0,0,0,0,4
 2022,marximimus,False,46.8,2,0,0,0,0,1
 2022,beelzebufo,False,46.01,1,0,0,0,0,0
 2022,paribus,False,45.06,2,0,0,0,0,1
+2022,SamGMK,False,43.33,2,1,0,0,0,0
 2022,SaharDevep,False,43.54,1,0,0,0,0,0
-2022,eyexploit,False,42.28,2,0,0,1,0,1
 2022,hakerbaya,False,41.77,2,0,0,0,0,2
 2022,0xLad,False,41.25,2,1,0,1,0,0
 2022,iamwhitelights,False,41.2,1,0,0,0,0,0
 2022,rbitbytes,False,40.94,1,0,0,0,0,1
 2022,Triangle,True,40.84,2,0,0,0,0,1
 2022,Throne6g,False,40.62,1,0,0,0,0,0
+2022,0xxm,False,40.26,1,1,0,0,0,0
+2022,mauricio1802,False,40.26,1,1,0,0,0,0
 2022,Schlagatron,False,39.65,1,0,0,0,0,1
 2022,ontofractal,False,39.22,1,0,0,0,0,0
 2022,0x09GTO,False,38.23,1,0,0,0,0,1
+2022,lumoswiz,False,38.14,5,2,0,3,0,0
 2022,jocxyen,False,37.47,1,0,0,0,0,1
+2022,0xab00,False,37.05,2,0,0,0,0,2
 2022,cducrest,False,36.73,1,0,0,0,0,0
 2022,evmwanderer,False,36.73,1,0,0,0,0,0
 2022,kv,False,36.62,2,0,0,0,0,0
 2022,Hashlock,False,36.34,1,0,0,0,0,0
-2022,SamGMK,False,36.34,1,0,0,0,0,0
 2022,bin,False,36.34,1,0,0,0,0,0
 2022,SpaceCake,False,35.55,2,0,0,0,0,2
 2022,android69,False,35.44,1,0,0,0,0,0
@@ -1432,6 +1493,7 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,0bi,False,35.44,1,0,0,0,0,0
 2022,CryptoMartian,False,35.17,1,0,0,0,0,0
 2022,luckypanda,False,35.17,1,0,0,0,0,0
+2022,izhelyazkov,False,35.11,2,1,0,0,0,0
 2022,blackswordsman,False,34.31,1,0,0,0,0,1
 2022,Mohandes,False,33.58,2,0,0,0,0,0
 2022,PostMan56,False,33.8,1,0,0,0,0,1
@@ -1439,16 +1501,12 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,kris,False,32.58,1,0,0,0,0,1
 2022,Dionysus,False,32.6,1,0,0,0,0,1
 2022,owenthurm,False,31.22,1,0,0,0,0,1
-2022,lumoswiz,False,31.15,4,1,0,3,0,0
 2022,gpersoon,False,30.27,1,0,0,0,0,0
 2022,yellowBirdy,False,29.42,2,0,0,2,0,0
 2022,windhustler,False,29.76,1,0,0,0,0,1
 2022,Ben,False,29.47,2,0,0,0,0,2
 2022,naps62,False,28.28,1,0,0,0,0,0
 2022,Varun_Verma,False,28.28,1,0,0,0,0,0
-2022,Zarf,False,28.12,1,0,0,0,0,0
-2022,izhelyazkov,False,28.12,1,0,0,0,0,0
-2022,Janio,False,28.12,1,0,0,0,0,0
 2022,yasir,False,28.01,1,0,0,0,0,0
 2022,bbuddha,False,28.01,1,0,0,0,0,0
 2022,tibthecat,False,27.95,2,0,0,0,0,1
@@ -1459,7 +1517,6 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,WilliamAmbrozic,False,25.27,2,0,0,0,0,2
 2022,RHaO-sec,False,25.05,1,0,0,0,0,1
 2022,grrwahrr,False,23.06,1,0,0,0,0,1
-2022,0xab00,False,22.22,1,0,0,0,0,1
 2022,ltyu,False,21.17,1,0,0,0,0,1
 2022,flyx,False,21.17,1,0,0,0,0,1
 2022,find_a_bug,False,21.17,1,0,0,0,0,1
@@ -1495,12 +1552,10 @@ LAST 90 DAYS,rokinot,False,0.38,1,0,0,1,0,0
 2022,satoshipotato,False,5.6,1,1,0,0,0,0
 2022,BradMoon,False,4.96,1,0,0,1,0,0
 2022,lotux,False,4.04,1,0,0,1,0,0
-2022,kiki_dev,False,2.18,2,1,0,1,0,0
 2022,kree-dotcom,False,2.18,2,1,0,1,0,0
 2022,phaze,False,1.3,2,1,0,1,0,0
 2022,bctester,False,0.97,1,0,0,1,0,0
 2022,kaliberpoziomka8552,False,0.84,1,1,0,0,0,0
-2022,0xDave,False,0.84,1,1,0,0,0,0
 2022,0x446576,False,0.84,1,1,0,0,0,0
 2022,JGcarv,False,0.74,1,0,0,1,0,0
 2022,tourist,False,0.61,1,0,0,1,0,0
@@ -1522,21 +1577,21 @@ ALL TIME,hyh,False,295267.56,395,61,6,115,32,63
 ALL TIME,pauliax,False,293710.44,931,57,4,85,17,368
 ALL TIME,Spearbit,True,292640.04,5,2,0,1,0,1
 ALL TIME,0xRajeev,False,290732.14,629,52,19,72,31,163
-ALL TIME,cccz,False,260753.83,331,76,4,159,23,4
+ALL TIME,cccz,False,261552.06,334,79,4,159,23,4
 ALL TIME,Saw-mon_and_Natalie,False,246448.61,5,2,0,0,0,1
-ALL TIME,IllIllI,False,228414.72,289,23,2,104,17,85
+ALL TIME,IllIllI,False,228644.11,291,23,2,104,17,86
 ALL TIME,shw,False,206444.05,199,33,9,46,15,26
 ALL TIME,csanuragjain,False,187670.44,274,34,2,110,25,52
-ALL TIME,0x52,False,179508.82,173,55,7,86,21,0
-ALL TIME,gzeon,False,145122.43,313,28,4,72,20,139
-ALL TIME,Lambda,False,144396.41,192,56,2,82,14,20
+ALL TIME,0x52,False,179515.81,174,56,7,86,21,0
+ALL TIME,gzeon,False,145873.41,314,29,4,72,20,139
+ALL TIME,Lambda,False,145147.39,193,57,2,82,14,20
 ALL TIME,hickuphh3,False,140441.4,265,32,7,50,8,80
 ALL TIME,0xsanson,False,138043.06,134,28,1,29,2,23
 ALL TIME,Trust,False,133679.62,89,25,4,53,10,0
 ALL TIME,bbroccoli,True,132585.21,43,19,8,8,4,0
 ALL TIME,kenzo,False,125123.87,200,58,6,62,14,29
-ALL TIME,unforgiven,False,118885.42,124,37,6,64,11,3
-ALL TIME,0x1f8b,False,115014.24,381,22,2,83,13,133
+ALL TIME,unforgiven,False,121069.91,129,39,6,66,11,3
+ALL TIME,0x1f8b,False,115029.07,382,22,2,83,13,134
 ALL TIME,rayn,False,108959.86,67,13,4,25,6,14
 ALL TIME,0xDjango,False,107627.36,137,23,2,39,6,27
 ALL TIME,xiaoming90,False,107020.02,71,20,6,40,8,0
@@ -1549,19 +1604,19 @@ ALL TIME,Dravee,False,84526.08,491,6,2,48,3,308
 ALL TIME,jayjonah8,False,80597.45,123,13,8,20,5,11
 ALL TIME,CertoraInc,True,80181.65,145,15,0,46,9,44
 ALL TIME,Soosh,False,78182.73,26,12,0,7,1,1
-ALL TIME,hansfriese,False,71290.81,165,37,0,67,7,22
+ALL TIME,hansfriese,False,71731.68,169,39,0,69,7,22
 ALL TIME,tensors,False,69700.84,119,5,3,16,7,17
 ALL TIME,danb,False,64297.84,91,20,4,29,4,8
 ALL TIME,nnascent,True,62111.22,16,3,3,2,2,2
-ALL TIME,Jeiwan,False,60048.14,76,18,1,41,4,3
-ALL TIME,Chom,False,58851.71,127,17,0,42,8,29
+ALL TIME,Jeiwan,False,60605.38,80,20,1,43,4,3
+ALL TIME,Chom,False,58891.97,128,18,0,42,8,29
 ALL TIME,robee,False,58767.87,431,1,0,21,4,233
 ALL TIME,Picodes,False,57671.62,104,18,3,25,6,25
 ALL TIME,harleythedog,False,54375.38,77,18,3,23,9,17
 ALL TIME,hhubble,True,53714.44,74,7,0,27,7,0
 ALL TIME,GGreyArt,True,52311.47,74,7,1,15,4,22
-ALL TIME,rvierdiiev,False,50678.25,82,12,0,40,4,7
-ALL TIME,HE1M,False,47748.49,27,9,0,14,2,0
+ALL TIME,rvierdiiev,False,51486.38,85,14,0,40,4,7
+ALL TIME,HE1M,False,47795.74,29,11,0,14,2,0
 ALL TIME,0xsomeone,False,46445.93,21,5,1,11,5,2
 ALL TIME,rbserver,False,46306.43,123,11,0,60,6,18
 ALL TIME,zzzitron,False,45979.59,85,29,0,32,6,0
@@ -1575,20 +1630,20 @@ ALL TIME,shenwilly,False,38844.88,93,20,1,42,3,3
 ALL TIME,OriDabush,False,38558.31,32,2,0,0,0,26
 ALL TIME,zzykxx,False,38298.37,16,6,0,5,0,0
 ALL TIME,frangio,False,38226.88,1,0,0,1,0,0
-ALL TIME,minhquanym,False,36894.53,96,19,0,37,1,19
-ALL TIME,__141345__,False,36334.16,104,7,1,36,3,32
+ALL TIME,minhquanym,False,37745.01,100,22,0,37,1,19
+ALL TIME,__141345__,False,36381.41,106,9,1,36,3,32
 ALL TIME,0x0x0x,False,35020.6,169,7,2,12,4,118
+ALL TIME,0xSmartContract,False,34193.96,83,2,0,17,1,28
 ALL TIME,jmak,False,33861.28,2,2,2,0,0,0
 ALL TIME,itsmeSTYJ,False,33130.96,83,5,0,21,6,29
-ALL TIME,0xSmartContract,False,32971.16,81,2,0,17,1,27
 ALL TIME,GGimelSec,True,32294.97,102,14,0,45,5,17
 ALL TIME,PPwnedNoMore,True,31586.88,29,12,2,9,2,4
 ALL TIME,Respx,False,31470.15,25,3,1,10,3,6
 ALL TIME,a_delamo,False,31467.92,86,7,1,12,5,39
 ALL TIME,AuditsAreUS,False,31082.71,25,3,1,17,4,0
+ALL TIME,ladboy233,False,30660.53,103,17,1,43,1,15
 ALL TIME,joestakey,False,30653.63,131,5,0,46,1,36
 ALL TIME,pants,False,30222.57,219,1,0,8,6,108
-ALL TIME,ladboy233,False,30071.37,99,16,1,41,1,15
 ALL TIME,hack3r-0m,False,29276.09,51,6,1,10,0,11
 ALL TIME,scaraven,False,27876.7,58,17,0,27,3,3
 ALL TIME,Czar102,False,27494.65,73,3,0,24,4,28
@@ -1604,7 +1659,7 @@ ALL TIME,TerrierLover,False,23072.38,74,7,0,4,3,32
 ALL TIME,ming,False,23032.04,2,1,0,0,0,1
 ALL TIME,0xliumin,False,22619.33,19,5,0,6,3,2
 ALL TIME,Yarpo,False,22572.59,1,1,0,0,0,0
-ALL TIME,oyc_109,False,22075.62,154,11,0,22,3,60
+ALL TIME,oyc_109,False,22090.45,155,11,0,22,3,61
 ALL TIME,hake,False,21979.32,96,9,0,26,6,28
 ALL TIME,hrkrshnn,False,21688.35,82,2,0,2,0,57
 ALL TIME,ye0lde,False,21641.94,204,3,0,3,0,129
@@ -1612,29 +1667,29 @@ ALL TIME,catchup,False,21535.72,77,5,0,17,2,27
 ALL TIME,BBowTiedWardens,True,21396.54,51,5,0,18,0,13
 ALL TIME,VAD37,False,21344.14,35,4,0,20,2,3
 ALL TIME,s1m0,False,21177.24,66,11,2,9,1,23
+ALL TIME,KingNFT,False,20269.81,23,7,0,11,1,1
 ALL TIME,KIntern_NA,True,20147.0,27,9,0,9,0,3
 ALL TIME,cryptphi,False,19841.01,86,12,0,23,4,5
-ALL TIME,KingNFT,False,19511.84,21,5,0,11,1,1
 ALL TIME,Omik,False,18871.92,25,4,0,4,0,8
 ALL TIME,reassor,False,18441.96,79,6,0,33,3,15
 ALL TIME,TTrustTeldKeng,True,17792.9,8,3,3,3,3,1
 ALL TIME,rfa,False,17652.9,116,6,0,6,1,78
 ALL TIME,Jujic,False,17517.27,178,1,0,19,1,126
 ALL TIME,TrungOre,False,17410.16,46,11,0,18,4,7
-ALL TIME,minhtrng,False,16644.38,28,3,0,19,2,0
+ALL TIME,minhtrng,False,16730.58,30,4,0,20,2,0
 ALL TIME,0xNazgul,False,16499.59,139,1,0,17,2,64
 ALL TIME,panprog,False,15988.12,19,15,0,4,2,0
 ALL TIME,rotcivegaf,False,15780.24,73,11,0,20,1,19
 ALL TIME,wuwe1,False,15763.45,45,7,0,15,1,6
 ALL TIME,tabish,False,15723.52,25,6,0,3,0,2
 ALL TIME,jvaqa,False,15691.95,39,8,2,4,1,13
-ALL TIME,RaymondFam,False,15577.78,61,0,0,9,0,24
+ALL TIME,RaymondFam,False,15683.03,64,1,0,9,0,25
 ALL TIME,janbro,False,15334.56,14,3,0,5,3,1
 ALL TIME,certora,False,15248.86,47,4,1,4,1,6
 ALL TIME,datapunk,False,15043.55,52,13,1,23,1,4
 ALL TIME,peritoflores,False,14884.84,70,6,1,30,0,11
 ALL TIME,dirk_y,False,14775.43,21,0,0,11,1,2
-ALL TIME,adriro,False,14441.81,41,9,0,16,0,8
+ALL TIME,adriro,False,14487.75,42,9,0,17,0,8
 ALL TIME,loop,False,14399.74,80,4,0,3,0,33
 ALL TIME,horsefacts,False,14362.87,83,9,0,34,1,15
 ALL TIME,fatherOfBlocks,False,14227.26,117,1,0,14,2,51
@@ -1650,25 +1705,25 @@ ALL TIME,GeekyLumberjack,False,11474.14,18,3,0,2,0,6
 ALL TIME,brgltd,False,11467.71,71,1,0,16,0,20
 ALL TIME,codexploder,False,11335.02,50,6,0,25,4,5
 ALL TIME,GiveMeTestEther,False,11315.23,84,3,0,8,2,49
-ALL TIME,hihen,False,11198.93,23,8,0,14,1,0
+ALL TIME,hihen,False,11292.12,26,10,0,15,1,0
+ALL TIME,shung,False,11285.61,23,2,0,9,0,5
 ALL TIME,Ch_301,False,11159.08,37,7,0,18,1,3
 ALL TIME,00x29A,True,10919.41,53,11,0,10,1,16
 ALL TIME,georgypetrov,False,10734.2,8,1,0,3,1,1
+ALL TIME,c3phas,False,10601.71,92,0,0,3,0,51
 ALL TIME,camden,False,10557.12,25,6,0,9,2,1
 ALL TIME,ayeslick,False,10531.48,26,4,0,15,0,0
-ALL TIME,shung,False,10442.6,21,1,0,9,0,5
-ALL TIME,c3phas,False,10422.48,91,0,0,3,0,50
 ALL TIME,throttle,False,10239.28,57,3,0,19,2,22
 ALL TIME,PwnPatrol,True,10092.56,20,8,1,9,0,0
+ALL TIME,ktg,False,10017.03,7,1,0,4,0,0
 ALL TIME,vlad_bochok,False,9910.87,5,3,1,2,0,0
 ALL TIME,kenta,False,9893.86,69,1,0,9,0,30
-ALL TIME,ktg,False,9832.7,6,1,0,3,0,0
 ALL TIME,0x1337,False,9810.45,15,1,0,6,1,0
+ALL TIME,Rolezn,False,9716.45,74,0,0,8,0,31
 ALL TIME,MaratCerby,False,9694.6,49,2,0,16,0,16
 ALL TIME,Krow10,False,9666.64,6,3,1,1,0,1
+ALL TIME,immeas,False,9639.92,24,5,0,13,2,0
 ALL TIME,kankodu,False,9589.22,2,2,1,0,0,0
-ALL TIME,immeas,False,9582.77,22,4,0,13,2,0
-ALL TIME,Rolezn,False,9433.29,72,0,0,8,0,30
 ALL TIME,antonttc,False,9430.49,32,4,0,10,0,11
 ALL TIME,bitbopper,False,9344.49,15,6,1,0,0,6
 ALL TIME,00xf15ers,True,9290.28,73,9,0,11,0,24
@@ -1692,40 +1747,43 @@ ALL TIME,0x4non,False,7757.26,60,7,0,10,0,22
 ALL TIME,walker,False,7742.33,4,2,0,1,0,0
 ALL TIME,clems4ever,False,7681.38,7,6,2,0,0,0
 ALL TIME,p_crypt0,False,7644.05,16,0,0,3,0,0
+ALL TIME,Bobface,False,7600.88,5,2,0,2,1,0
 ALL TIME,parashar,False,7580.35,6,3,1,1,0,0
 ALL TIME,Tomio,False,7579.45,113,0,0,2,0,102
 ALL TIME,VV_B,True,7560.9,36,4,0,17,1,5
 ALL TIME,0xjuicer,False,7523.7,2,0,0,2,1,0
-ALL TIME,Bnke0x0,False,7354.41,81,1,0,11,0,33
+ALL TIME,Bnke0x0,False,7419.4,83,1,0,11,0,34
 ALL TIME,0xmint,False,7208.53,22,2,0,2,2,8
 ALL TIME,auditor0517,False,7176.16,24,11,0,7,1,0
 ALL TIME,MiloTruck,False,7117.64,67,2,0,15,0,30
 ALL TIME,saian,False,7109.55,71,10,0,5,0,37
+ALL TIME,8olidity,False,7071.12,52,7,0,21,0,7
+ALL TIME,Aymen0909,False,6977.03,74,2,0,13,0,33
 ALL TIME,TomJ,False,6969.61,88,2,0,15,0,40
-ALL TIME,Aymen0909,False,6962.2,73,2,0,13,0,32
-ALL TIME,8olidity,False,6836.63,50,7,0,20,0,7
 ALL TIME,simon135,False,6787.55,109,6,0,10,0,46
+ALL TIME,imare,False,6719.67,34,4,0,18,0,7
 ALL TIME,ych18,False,6646.93,24,2,0,8,1,7
+ALL TIME,ReyAdmirado,False,6515.61,70,0,0,2,0,39
 ALL TIME,eierina,False,6496.44,16,2,1,8,0,2
 ALL TIME,AlleyCat,False,6468.81,16,0,0,4,1,3
 ALL TIME,0v3rf10w,False,6444.17,77,0,0,4,0,42
 ALL TIME,kkebabsec,True,6439.43,41,2,0,7,0,11
-ALL TIME,dipp,False,6377.52,54,13,0,19,0,0
+ALL TIME,dipp,False,6384.51,55,14,0,19,0,0
 ALL TIME,Kenshin,False,6370.26,33,3,0,9,1,10
 ALL TIME,m9800,False,6344.27,23,5,0,10,0,1
-ALL TIME,ReyAdmirado,False,6336.38,69,0,0,2,0,38
 ALL TIME,toastedsteaksandwich,False,6174.7,16,2,0,5,4,1
 ALL TIME,securerodd,False,6160.26,15,1,0,2,2,7
 ALL TIME,SSherlock,True,6086.9,6,1,0,2,0,1
 ALL TIME,Reigada,False,6059.68,40,2,1,5,1,20
 ALL TIME,static,False,6042.9,3,1,0,2,0,0
 ALL TIME,ch13fd357r0y3r,False,5832.39,9,0,0,3,1,0
+ALL TIME,ElKu,False,5830.06,63,7,0,4,0,27
 ALL TIME,UncleGrandpa925,False,5788.35,9,2,0,4,0,1
 ALL TIME,wastewa,False,5696.73,10,6,0,2,0,0
 ALL TIME,Tomo,False,5650.48,23,0,0,7,1,7
 ALL TIME,palina,False,5538.8,26,1,0,3,1,4
+ALL TIME,JC,False,5523.94,80,0,0,5,0,41
 ALL TIME,sashik_eth,False,5504.68,46,4,0,10,1,19
-ALL TIME,JC,False,5458.95,78,0,0,5,0,40
 ALL TIME,Bahurum,False,5452.28,27,10,0,8,0,0
 ALL TIME,cyberboy,False,5427.18,8,1,0,0,0,2
 ALL TIME,QQuantumBrief,True,5423.98,3,0,0,1,1,1
@@ -1734,15 +1792,14 @@ ALL TIME,0xalpharush,False,5294.65,6,1,0,3,2,2
 ALL TIME,byndooa,False,5220.09,10,3,0,5,0,0
 ALL TIME,samruna,False,5180.17,59,0,0,0,0,30
 ALL TIME,djxploit,False,5151.02,54,0,0,9,0,24
-ALL TIME,imare,False,5149.56,33,4,0,17,0,7
+ALL TIME,yixxas,False,5090.88,33,4,0,18,1,0
+ALL TIME,Franfran,False,5046.1,20,4,0,9,1,2
 ALL TIME,0xSky,False,5016.77,23,6,0,12,1,0
 ALL TIME,jah,False,4999.17,30,1,0,7,1,11
-ALL TIME,Franfran,False,4993.17,18,3,0,8,1,2
-ALL TIME,yixxas,False,4803.46,29,3,0,16,1,0
 ALL TIME,Waze,False,4761.66,89,1,0,2,0,43
 ALL TIME,HollaDieWaldfee,False,4752.64,12,3,0,7,0,0
 ALL TIME,Meera,False,4751.1,18,1,0,3,0,7
-ALL TIME,carrotsmuggler,False,4671.12,17,4,0,6,0,1
+ALL TIME,carrotsmuggler,False,4678.11,18,5,0,6,0,1
 ALL TIME,zzkhorse,True,4618.48,13,1,0,5,0,2
 ALL TIME,ilan,False,4550.39,23,0,0,3,0,9
 ALL TIME,chenyu,False,4545.46,2,0,0,0,0,0
@@ -1750,16 +1807,15 @@ ALL TIME,gellej,False,4508.27,6,0,0,4,0,0
 ALL TIME,asutorufos,False,4484.23,57,0,0,3,1,25
 ALL TIME,broccolirob,False,4455.19,15,0,0,8,2,0
 ALL TIME,moose-code,False,4435.42,2,1,1,1,0,0
+ALL TIME,0xDecorativePineapple,False,4381.25,18,6,0,9,0,0
 ALL TIME,enckrish,False,4380.46,9,1,0,3,1,2
-ALL TIME,0xDecorativePineapple,False,4374.26,17,5,0,9,0,0
-ALL TIME,ElKu,False,4252.96,61,6,0,3,0,27
+ALL TIME,carlitox477,False,4330.1,35,3,0,10,0,13
 ALL TIME,indijanc,False,4226.17,14,1,0,5,1,2
 ALL TIME,bardamu,False,4171.57,14,4,0,4,1,2
-ALL TIME,Bobface,False,4158.72,3,1,0,1,1,0
+ALL TIME,chaduke,False,4127.04,32,4,0,12,0,7
 ALL TIME,ScopeLift,True,4094.84,13,2,0,4,1,5
 ALL TIME,Fitraldys,False,4081.05,62,2,0,3,0,49
 ALL TIME,sha256yan,False,4066.59,1,0,0,1,0,0
-ALL TIME,chaduke,False,4056.82,29,2,0,11,0,7
 ALL TIME,Treasure-Seeker,False,4012.06,23,7,0,10,0,0
 ALL TIME,0xngndev,False,3901.8,38,0,0,1,1,23
 ALL TIME,dalgarim,False,3851.68,3,2,0,0,0,1
@@ -1769,23 +1825,25 @@ ALL TIME,0xc0ffEE,False,3791.82,27,1,0,9,0,9
 ALL TIME,pfapostol,False,3767.37,26,1,0,0,0,17
 ALL TIME,jonatascm,False,3749.0,27,5,0,8,0,7
 ALL TIME,_Adam,False,3675.04,60,0,0,7,0,27
+ALL TIME,koxuan,False,3621.05,12,7,0,5,1,0
 ALL TIME,nikitastupin,False,3610.47,12,2,0,2,0,1
+ALL TIME,cozzetti,False,3609.31,5,2,0,2,0,0
 ALL TIME,0xwags,False,3605.07,13,0,0,0,0,3
 ALL TIME,Holmgren,False,3596.28,2,0,0,2,1,0
+ALL TIME,ak1,False,3584.29,43,3,0,9,0,13
 ALL TIME,greiart,False,3535.72,21,0,0,1,0,11
 ALL TIME,mmaplesyrup,True,3528.79,17,1,0,3,0,4
 ALL TIME,2997ms,False,3478.6,8,0,0,2,1,5
 ALL TIME,onewayfunction,False,3471.31,12,2,0,1,0,6
+ALL TIME,9svR6w,False,3456.44,11,8,0,2,0,0
 ALL TIME,zaskoh,False,3437.63,15,1,0,6,0,4
-ALL TIME,ak1,False,3403.46,41,2,0,8,0,13
 ALL TIME,Josiah,False,3374.38,18,0,0,5,0,0
-ALL TIME,carlitox477,False,3298.74,32,1,0,10,0,12
 ALL TIME,cloudjunky,False,3274.79,15,0,0,6,1,0
 ALL TIME,maurelian,False,3262.66,5,1,0,2,2,1
 ALL TIME,kemmio,False,3241.53,5,3,1,0,0,0
 ALL TIME,sces60107,False,3234.56,1,0,0,0,0,0
 ALL TIME,kaden,False,3213.44,18,3,0,3,0,9
-ALL TIME,lukris02,False,3193.69,42,1,0,6,0,15
+ALL TIME,lukris02,False,3208.52,43,1,0,6,0,16
 ALL TIME,RustyRabbit,False,3189.71,12,3,0,5,0,0
 ALL TIME,davidbrai,False,3160.53,10,3,0,6,0,0
 ALL TIME,heiho1,False,3124.05,23,1,0,2,0,5
@@ -1802,18 +1860,17 @@ ALL TIME,z3s,False,2763.61,46,1,0,6,0,22
 ALL TIME,jayphbee,False,2746.42,13,4,0,5,0,1
 ALL TIME,Metatron,False,2744.64,28,4,0,6,0,14
 ALL TIME,sakshamguruji,False,2741.19,10,0,0,1,0,5
-ALL TIME,9svR6w,False,2665.2,9,6,0,2,0,0
 ALL TIME,tqts,False,2639.95,29,1,0,1,0,22
-ALL TIME,koxuan,False,2592.55,7,4,0,3,1,0
 ALL TIME,alan724,False,2588.3,4,0,0,3,0,0
 ALL TIME,PaludoX0,False,2572.59,22,3,0,3,0,8
 ALL TIME,Tutturu,False,2563.57,14,5,0,4,0,2
 ALL TIME,fatima_naz,False,2544.99,21,1,0,1,0,3
 ALL TIME,AkshaySrivastav,False,2539.42,10,1,0,5,0,3
+ALL TIME,obront,False,2529.88,32,8,0,13,0,2
 ALL TIME,StErMi,False,2523.1,25,2,0,8,0,5
 ALL TIME,rokinot,False,2520.79,43,4,0,9,0,14
-ALL TIME,Koolex,False,2472.32,7,3,0,4,0,0
-ALL TIME,cryptonue,False,2470.19,39,3,0,14,0,7
+ALL TIME,cryptonue,False,2485.02,40,3,0,14,0,8
+ALL TIME,Koolex,False,2479.31,8,4,0,4,0,0
 ALL TIME,gogo,False,2427.87,55,1,0,0,0,29
 ALL TIME,foobar,False,2410.19,3,0,0,0,0,1
 ALL TIME,0xKitsune,False,2367.96,21,0,0,0,0,20
@@ -1822,23 +1879,23 @@ ALL TIME,twojoy,False,2339.78,2,0,0,0,0,1
 ALL TIME,BouSalman,False,2327.35,43,0,0,1,0,9
 ALL TIME,mayo,False,2326.75,2,0,0,0,0,1
 ALL TIME,DimitarDimitrov,False,2293.94,8,1,0,2,0,2
+ALL TIME,Tricko,False,2237.96,8,3,0,1,0,2
 ALL TIME,PPP1004,True,2233.61,12,4,0,7,0,0
 ALL TIME,Sm4rty,False,2202.34,54,0,0,8,0,22
-ALL TIME,obront,False,2199.83,29,7,0,12,0,2
 ALL TIME,trustindistrust,False,2178.57,15,1,0,4,0,3
 ALL TIME,perseverancesuccess,False,2166.28,7,2,0,3,0,0
 ALL TIME,Rhynorater,False,2147.63,10,2,0,1,0,4
 ALL TIME,nedodn,False,2098.93,3,0,0,2,1,1
 ALL TIME,JohnSmith,False,2090.28,28,3,0,6,0,10
 ALL TIME,Randyyy,False,2074.02,26,2,0,2,0,18
-ALL TIME,Tricko,False,2046.64,6,2,0,0,0,2
 ALL TIME,tonisives,False,2032.55,12,0,0,8,0,0
 ALL TIME,bobirichman,False,2011.82,34,0,0,0,0,15
 ALL TIME,sikorico,False,1959.69,34,0,0,0,0,13
 ALL TIME,deliriusz,False,1933.85,6,1,0,3,0,0
 ALL TIME,ignacio,False,1930.81,38,0,0,2,0,23
+ALL TIME,tnevler,False,1924.23,38,0,0,2,0,16
 ALL TIME,0xbepresent,False,1911.9,24,2,0,8,0,7
-ALL TIME,tnevler,False,1909.4,37,0,0,2,0,15
+ALL TIME,NoamYakov,False,1908.36,20,0,0,1,0,14
 ALL TIME,TimmyToes,False,1906.6,16,0,0,1,0,4
 ALL TIME,StyxRave,False,1896.37,10,0,0,4,0,3
 ALL TIME,CodingNameKiki,False,1856.42,34,1,0,2,0,15
@@ -1848,7 +1905,6 @@ ALL TIME,PumpkingWok,False,1776.73,2,1,0,0,0,0
 ALL TIME,neumo,False,1761.21,21,5,0,9,0,0
 ALL TIME,slywaters,False,1745.39,28,0,0,3,0,19
 ALL TIME,ncitron,False,1731.28,4,1,0,1,0,0
-ALL TIME,NoamYakov,False,1729.13,19,0,0,1,0,13
 ALL TIME,nathaniel,False,1711.34,19,1,0,2,0,12
 ALL TIME,k,False,1704.59,13,5,0,0,0,4
 ALL TIME,0xito,False,1694.66,4,0,0,0,0,0
@@ -1865,22 +1921,22 @@ ALL TIME,durianSausage,False,1514.51,48,1,0,4,0,25
 ALL TIME,ACai,False,1500.41,18,0,0,6,0,8
 ALL TIME,Sleepy,False,1487.13,6,0,0,2,0,2
 ALL TIME,daejunpark,False,1486.33,3,0,0,1,0,0
+ALL TIME,rajatbeladiya,False,1444.83,31,5,0,7,0,6
 ALL TIME,exd0tpy,False,1439.35,24,2,0,1,0,6
 ALL TIME,Kaiziron,False,1408.43,26,0,0,2,0,14
 ALL TIME,hagrid,False,1399.14,13,0,0,1,0,2
 ALL TIME,erictee,False,1398.24,41,0,0,2,0,18
-ALL TIME,rajatbeladiya,False,1391.9,29,4,0,6,0,6
+ALL TIME,wait,False,1389.79,13,5,1,6,0,0
 ALL TIME,thebensams,False,1386.68,2,2,0,0,0,0
 ALL TIME,ch0bu,False,1385.0,28,0,0,0,0,16
 ALL TIME,0xImpostor,False,1363.39,5,0,0,1,0,2
-ALL TIME,fs0c,False,1343.61,14,4,0,8,0,0
+ALL TIME,fs0c,False,1350.6,15,5,0,8,0,0
 ALL TIME,0xHarry,False,1342.54,6,0,0,3,0,3
 ALL TIME,pedr02b2,False,1332.2,19,1,0,1,0,3
 ALL TIME,CloudX,True,1330.34,5,0,0,1,0,3
 ALL TIME,RedOneN,False,1320.15,31,0,0,8,0,14
 ALL TIME,0xw4rd3n,False,1312.91,3,0,0,2,1,0
 ALL TIME,Noah3o6,False,1310.97,31,1,0,2,0,17
-ALL TIME,wait,False,1303.59,11,4,1,5,0,0
 ALL TIME,KKIntern,True,1293.2,4,2,0,1,0,0
 ALL TIME,bobi,False,1288.22,16,1,0,1,0,7
 ALL TIME,PierrickGT,False,1284.25,18,0,0,0,0,10
@@ -1888,26 +1944,28 @@ ALL TIME,natus,False,1280.0,8,0,0,0,0,8
 ALL TIME,Limbooo,False,1268.64,20,1,0,4,0,8
 ALL TIME,Aussie_Battlers,True,1263.53,4,1,0,1,0,1
 ALL TIME,Rohan16,False,1256.61,33,0,0,2,0,17
-ALL TIME,gz627,False,1224.64,11,1,0,5,0,1
+ALL TIME,gz627,False,1239.47,12,1,0,5,0,2
 ALL TIME,async,False,1211.32,13,1,0,3,0,3
 ALL TIME,skoorch,False,1211.7,1,0,0,1,1,0
 ALL TIME,Solimander,False,1208.13,3,1,0,2,0,0
 ALL TIME,Kthere,False,1192.53,7,1,0,1,0,1
 ALL TIME,Cityscape,False,1187.07,17,0,0,1,0,10
 ALL TIME,SooYa,False,1183.1,26,0,0,2,0,12
+ALL TIME,Diana,False,1169.34,26,0,0,0,0,13
 ALL TIME,ylv,False,1157.78,1,0,0,1,0,0
 ALL TIME,SecureZeroX,False,1156.63,5,0,0,1,0,2
-ALL TIME,Diana,False,1154.51,25,0,0,0,0,12
 ALL TIME,0xPanas,True,1140.17,3,2,0,0,0,0
 ALL TIME,stonesandtrees,False,1125.76,2,0,0,1,1,0
 ALL TIME,CCantor_Dust,True,1113.64,3,0,0,1,0,1
+ALL TIME,aviggiano,False,1107.55,17,4,0,4,0,5
 ALL TIME,eighty,False,1106.74,5,1,0,1,0,1
 ALL TIME,patitonar,False,1105.04,9,0,0,0,0,9
 ALL TIME,FSchmoede,False,1104.17,18,0,0,3,0,9
 ALL TIME,ksk2345,False,1087.45,2,1,0,0,0,0
 ALL TIME,zer0dot,False,1071.31,13,4,0,1,0,5
 ALL TIME,martin,False,1057.61,31,0,0,4,0,14
-ALL TIME,aviggiano,False,1050.4,15,3,0,4,0,5
+ALL TIME,cryptostellar5,False,1043.89,25,0,0,4,0,11
+ALL TIME,CRYP70,False,1036.27,16,2,0,5,0,5
 ALL TIME,bulej93,False,1016.34,28,0,0,1,0,12
 ALL TIME,mtz,False,1016.23,12,2,0,2,0,4
 ALL TIME,blackscale,False,1009.01,6,2,0,2,0,1
@@ -1920,15 +1978,14 @@ ALL TIME,ElliotFriedman,False,940.76,2,0,0,0,0,1
 ALL TIME,UnusualTurtle,False,932.22,17,0,0,1,0,13
 ALL TIME,fr0zn,False,925.81,9,1,0,0,0,5
 ALL TIME,RoiEvenHaim,False,925.13,13,0,0,0,0,9
+ALL TIME,nicobevi,False,920.52,8,2,0,0,0,3
 ALL TIME,Saintcode_,False,918.35,22,0,0,3,0,16
-ALL TIME,seyni,False,903.83,20,1,0,4,0,6
+ALL TIME,seyni,False,910.82,21,2,0,4,0,6
 ALL TIME,B2,False,902.87,25,0,0,0,0,12
 ALL TIME,cRat1st0s,False,892.15,22,0,0,3,0,12
 ALL TIME,karanctf,False,887.86,26,0,0,2,0,16
 ALL TIME,MadWookie,False,884.13,16,0,0,1,0,9
-ALL TIME,nicobevi,False,880.26,7,1,0,0,0,3
 ALL TIME,thank_you,False,870.81,4,0,0,3,0,0
-ALL TIME,cryptostellar5,False,859.56,24,0,0,3,0,11
 ALL TIME,zishansami,False,851.44,11,1,0,0,0,10
 ALL TIME,a12jmx,False,829.05,24,0,0,0,0,6
 ALL TIME,aysha,False,824.75,18,0,0,0,0,6
@@ -1936,28 +1993,27 @@ ALL TIME,AmitN,False,818.94,6,0,0,2,0,1
 ALL TIME,c7e7eff,False,802.35,9,2,0,5,0,0
 ALL TIME,0xmatt,False,799.69,14,0,0,2,0,4
 ALL TIME,BBClabs,True,796.6,5,0,0,2,0,0
+ALL TIME,ret2basic,False,781.41,27,0,0,0,0,15
 ALL TIME,apostle0x01,False,777.3,22,0,0,2,0,11
 ALL TIME,benk10,False,771.16,3,0,0,1,0,1
 ALL TIME,0xpiglet,False,766.68,3,3,0,0,0,0
-ALL TIME,ret2basic,False,766.58,26,0,0,0,0,14
-ALL TIME,CRYP70,False,765.74,13,1,0,3,0,5
 ALL TIME,0xfuje,False,763.19,2,0,0,0,0,0
 ALL TIME,peanuts,False,751.79,22,1,0,7,0,7
 ALL TIME,giovannidisiena,False,748.87,6,0,0,3,0,1
 ALL TIME,pcarranzav,False,739.2,9,2,0,4,0,0
 ALL TIME,Koustre,False,735.05,6,0,0,3,0,1
+ALL TIME,0xhacksmithh,False,726.23,9,0,0,2,0,3
 ALL TIME,t11s,False,724.79,9,1,0,0,0,5
 ALL TIME,FFoundation,True,720.05,3,1,0,0,0,1
 ALL TIME,Afanasyevich,False,717.29,5,0,0,1,0,3
-ALL TIME,0xhacksmithh,False,711.4,8,0,0,2,0,2
 ALL TIME,eccentricexit,False,711.14,10,1,0,3,0,2
 ALL TIME,bw,False,695.73,11,0,0,2,0,6
 ALL TIME,00x,True,693.37,3,1,0,1,0,0
+ALL TIME,saneryee,False,683.57,16,0,0,2,0,7
 ALL TIME,leosathya,False,679.83,22,0,0,3,0,9
 ALL TIME,joeysantoro,False,672.34,3,0,0,0,0,1
 ALL TIME,nahnah,False,668.84,7,0,0,0,0,7
 ALL TIME,Kulk0,False,668.95,7,0,0,2,0,2
-ALL TIME,saneryee,False,668.74,15,0,0,2,0,6
 ALL TIME,0xBug,False,667.43,3,1,0,1,0,1
 ALL TIME,codeislight,False,658.15,2,0,0,0,0,1
 ALL TIME,izhuer,False,650.6,6,2,0,2,0,0
@@ -1970,21 +2026,23 @@ ALL TIME,corerouter,False,631.59,8,1,0,6,0,0
 ALL TIME,cuong_qnom,False,622.94,3,0,0,0,0,0
 ALL TIME,JTJabba,False,621.61,6,3,0,2,0,0
 ALL TIME,242,False,619.28,7,1,0,1,0,1
+ALL TIME,Tointer,False,618.74,11,3,0,2,0,1
 ALL TIME,mcwildy,False,615.81,12,0,0,0,0,7
-ALL TIME,Tointer,False,611.75,10,2,0,2,0,1
 ALL TIME,Yiko,False,605.78,19,0,0,0,0,7
+ALL TIME,UUdarTeam,True,598.45,4,0,0,1,0,2
 ALL TIME,chrisdior4,False,593.4,17,0,0,0,0,7
 ALL TIME,sahar,False,583.83,7,0,0,1,0,1
 ALL TIME,okkothejawa,False,583.63,4,0,0,1,0,1
-ALL TIME,UUdarTeam,True,583.62,3,0,0,1,0,1
 ALL TIME,0xTraub,False,583.62,3,0,0,1,0,1
 ALL TIME,infosec_us_team,False,575.14,5,2,0,3,0,0
 ALL TIME,Haipls,False,571.4,2,0,0,2,0,0
+ALL TIME,bytehat,False,563.55,4,2,0,2,0,0
 ALL TIME,slowmoses,False,548.8,16,0,0,1,0,6
 ALL TIME,SinceJuly,False,544.75,5,0,0,3,0,0
 ALL TIME,d4rk,False,543.08,5,0,0,0,0,5
 ALL TIME,Awesome,False,542.03,17,0,0,2,0,9
 ALL TIME,aga7hokakological,False,532.92,8,0,0,0,0,3
+ALL TIME,helios,False,530.47,2,0,0,0,0,0
 ALL TIME,shark,False,520.31,16,0,0,2,0,6
 ALL TIME,Amithuddar,False,513.16,19,0,0,4,0,12
 ALL TIME,joshie,False,504.65,5,1,0,1,0,3
@@ -1992,15 +2050,15 @@ ALL TIME,prasantgupta52,False,491.76,13,0,0,2,0,6
 ALL TIME,DecorativePineapple,False,486.06,3,1,0,1,0,0
 ALL TIME,M4TZ1P,True,483.42,7,2,0,5,0,0
 ALL TIME,idkwhatimdoing,False,483.07,5,0,0,3,0,0
-ALL TIME,helios,False,480.31,1,0,0,0,0,0
 ALL TIME,0xkowloon,False,475.99,8,1,0,1,0,3
 ALL TIME,0xRobocop,False,473.09,8,2,0,4,0,0
 ALL TIME,zdhu,False,470.36,1,0,0,1,0,0
-ALL TIME,bytehat,False,470.36,1,0,0,1,0,0
 ALL TIME,0x040,False,459.03,18,0,0,0,0,12
 ALL TIME,bugwriter001,False,457.87,6,1,0,1,0,0
+ALL TIME,dic0de,False,457.47,7,0,0,4,0,0
 ALL TIME,natzuu,False,452.92,15,0,0,0,0,8
 ALL TIME,Cr4ckM3,False,430.28,6,0,0,2,0,3
+ALL TIME,Junnon,False,430.01,13,2,0,1,0,5
 ALL TIME,bharg4v,False,418.67,10,0,0,0,0,4
 ALL TIME,Nethermind,True,418.3,5,0,0,0,0,0
 ALL TIME,0xhunter,False,413.7,4,0,0,3,0,0
@@ -2008,7 +2066,6 @@ ALL TIME,obtarian,False,406.15,3,1,0,1,0,0
 ALL TIME,lucacez,False,405.29,13,0,0,0,0,9
 ALL TIME,hxzy,False,404.47,5,2,0,0,0,2
 ALL TIME,axic,False,394.93,3,1,0,0,0,2
-ALL TIME,Junnon,False,389.75,12,1,0,1,0,5
 ALL TIME,0xYamiDancho,False,388.69,5,1,0,2,0,1
 ALL TIME,svskaushik,False,388.37,8,0,0,1,0,1
 ALL TIME,medikko,False,386.32,15,0,0,0,0,11
@@ -2019,24 +2076,25 @@ ALL TIME,whilom,False,378.21,1,0,0,1,0,0
 ALL TIME,nxrblsrpr,False,375.49,6,0,0,0,0,1
 ALL TIME,Rahoz,False,373.01,13,0,0,2,0,5
 ALL TIME,tchkvsky,False,373.0,5,0,0,0,0,2
+ALL TIME,Breeje,False,368.68,2,0,0,0,0,1
 ALL TIME,rishabh,False,367.45,5,0,0,0,0,2
 ALL TIME,azephiar,False,357.26,4,0,0,3,0,0
 ALL TIME,ynnad,False,356.38,8,0,0,1,0,6
-ALL TIME,Breeje,False,353.85,1,0,0,0,0,0
+ALL TIME,pavankv,False,352.53,5,0,0,1,0,3
 ALL TIME,Wayne,False,352.37,5,1,0,1,0,1
 ALL TIME,m_smirnova2020,False,351.13,3,0,0,0,0,3
+ALL TIME,HardlyCodeMan,False,349.0,5,0,0,0,0,4
 ALL TIME,0x5rings,False,347.53,13,0,0,2,0,6
 ALL TIME,chatch,False,345.84,6,0,0,3,0,0
 ALL TIME,johnnycash,False,343.4,3,2,0,0,0,0
 ALL TIME,Bronicle,False,341.4,4,0,0,0,0,0
 ALL TIME,Matin,False,338.01,6,0,0,2,0,3
-ALL TIME,pavankv,False,337.7,4,0,0,1,0,2
 ALL TIME,s3cunda,False,334.27,6,1,0,3,0,1
-ALL TIME,HardlyCodeMan,False,334.17,4,0,0,0,0,3
 ALL TIME,RRockingMiles,True,333.18,9,0,0,0,0,5
+ALL TIME,haku,False,329.14,4,1,0,1,0,2
 ALL TIME,halden,False,327.2,5,0,0,0,0,5
 ALL TIME,Guardian,True,325.6,8,0,0,2,0,3
-ALL TIME,haku,False,322.15,3,0,0,1,0,2
+ALL TIME,UNCHAIN,True,317.19,5,2,0,2,0,0
 ALL TIME,gianganhnguyen,False,316.09,10,0,0,0,0,9
 ALL TIME,jag,False,316.71,13,0,0,1,0,11
 ALL TIME,sakman,False,312.67,11,0,0,0,0,7
@@ -2053,8 +2111,9 @@ ALL TIME,ppoirots,True,288.71,7,2,0,2,0,1
 ALL TIME,peiw,False,286.13,11,0,0,0,0,9
 ALL TIME,Diraco,False,285.03,12,0,0,1,0,7
 ALL TIME,0xabcc,False,280.7,2,1,0,0,0,1
+ALL TIME,supernova,False,279.59,12,1,0,4,0,4
 ALL TIME,byterocket,True,279.8,22,2,0,2,0,15
-ALL TIME,supernova,False,272.6,11,0,0,4,0,4
+ALL TIME,0xmuxyz,False,272.98,3,0,0,1,0,0
 ALL TIME,Dinesh11G,False,270.93,9,0,0,2,0,5
 ALL TIME,malinariy,False,269.83,7,0,0,0,0,3
 ALL TIME,tofunmi,False,267.28,9,0,0,2,0,5
@@ -2101,6 +2160,7 @@ ALL TIME,mrpathfindr,False,206.7,8,0,0,0,0,6
 ALL TIME,jayfromthe13th,False,205.1,5,0,0,0,0,3
 ALL TIME,JDeryl,False,204.76,2,0,0,0,0,0
 ALL TIME,mektigboy,False,204.69,5,0,0,0,0,3
+ALL TIME,Janio,False,201.96,2,0,0,1,0,0
 ALL TIME,0xSolus,False,198.78,5,0,0,0,0,2
 ALL TIME,yamapyblack,False,198.43,1,0,0,1,0,0
 ALL TIME,badbird,False,198.21,1,0,0,0,0,0
@@ -2115,7 +2175,9 @@ ALL TIME,johnsterlacci,False,182.6,1,0,0,1,0,0
 ALL TIME,Mathieu,False,178.76,6,0,0,0,0,5
 ALL TIME,BipinSah,False,178.37,3,0,0,1,0,1
 ALL TIME,dimitri,False,177.72,2,0,0,0,0,1
+ALL TIME,caventa,False,176.18,7,1,0,2,0,1
 ALL TIME,HardlyDifficult,False,175.4,8,0,0,0,0,4
+ALL TIME,BBPZ,True,173.84,1,0,0,1,0,0
 ALL TIME,FForkEth,True,171.27,1,0,0,1,0,0
 ALL TIME,CalabashSquash,False,171.04,1,0,0,0,0,0
 ALL TIME,sryysryy,False,170.77,6,0,0,0,0,4
@@ -2147,6 +2209,7 @@ ALL TIME,Ocean_Sky,False,142.87,6,0,0,0,0,3
 ALL TIME,Chinmay,False,142.44,3,0,0,0,0,3
 ALL TIME,0xdanial,False,142.37,3,1,0,0,0,1
 ALL TIME,0xNoah,False,142.29,1,1,0,0,0,0
+ALL TIME,0xAgro,False,139.98,4,0,0,0,0,1
 ALL TIME,Nikolay,False,139.18,1,0,0,0,0,0
 ALL TIME,got_targ,False,137.71,6,0,0,0,0,3
 ALL TIME,yyac,True,136.19,1,0,0,0,0,0
@@ -2157,11 +2220,12 @@ ALL TIME,blockdev,False,132.34,4,0,0,2,0,1
 ALL TIME,cryptoDave,False,131.6,1,0,0,1,0,0
 ALL TIME,Satyam_Sharma,False,130.99,6,0,0,1,0,4
 ALL TIME,IgnacioB,False,129.62,5,0,0,0,0,4
-ALL TIME,0xAgro,False,125.15,3,0,0,0,0,0
 ALL TIME,skyle,False,125.4,6,0,0,1,0,5
 ALL TIME,7811,False,124.95,1,1,0,0,0,0
 ALL TIME,w0Lfrum,False,124.75,5,0,0,0,0,2
 ALL TIME,bytera,False,124.69,2,0,0,0,0,1
+ALL TIME,rjs,False,123.14,4,1,0,0,0,2
+ALL TIME,Madalad,False,123.27,5,1,0,2,0,2
 ALL TIME,SaharAP,False,121.54,4,0,0,0,0,2
 ALL TIME,PranavG,False,120.75,5,0,0,0,0,2
 ALL TIME,bitsurfer,False,119.14,1,0,0,1,0,0
@@ -2177,9 +2241,7 @@ ALL TIME,polymorphism,False,114.82,1,1,0,0,0,0
 ALL TIME,0xackermann,False,112.49,4,0,0,0,0,2
 ALL TIME,Bludya,False,110.74,3,0,0,1,0,1
 ALL TIME,miguelmtzinf,False,110.78,1,0,0,0,0,1
-ALL TIME,dic0de,False,109.79,6,0,0,3,0,0
 ALL TIME,Avci,True,108.85,4,0,0,1,0,2
-ALL TIME,Madalad,False,108.44,4,1,0,2,0,1
 ALL TIME,Trabajo_de_mates,True,108.16,3,0,0,0,0,1
 ALL TIME,francoHacker,False,106.29,6,0,0,0,0,5
 ALL TIME,newfork01,False,106.08,5,0,0,0,0,5
@@ -2199,13 +2261,14 @@ ALL TIME,Kiep,False,91.94,2,0,0,0,0,2
 ALL TIME,0xDanielC,False,91.43,2,0,0,0,0,1
 ALL TIME,augustg,False,89.18,1,0,0,0,0,1
 ALL TIME,luduvigo,False,89.04,1,0,0,0,0,0
-ALL TIME,0xmuxyz,False,88.65,2,0,0,0,0,0
 ALL TIME,yash90,False,88.13,2,0,0,0,0,0
+ALL TIME,Zarf,False,87.84,2,0,0,1,0,0
 ALL TIME,i_got_hacked,False,87.7,3,0,0,0,0,1
 ALL TIME,nameruse,False,86.83,4,1,0,1,0,0
-ALL TIME,caventa,False,85.76,5,0,0,2,0,1
+ALL TIME,JrNet,False,86.15,5,0,0,0,0,4
 ALL TIME,0xAsm0d3us,False,85.55,2,0,0,0,0,2
 ALL TIME,tin537,False,84.96,1,0,0,0,0,1
+ALL TIME,millersplanet,False,83.62,5,0,0,0,0,3
 ALL TIME,marcopaladin,False,83.25,1,0,0,0,0,1
 ALL TIME,Anth3m,False,82.34,1,0,0,0,0,0
 ALL TIME,FudgyDRS,False,81.48,2,0,0,0,0,1
@@ -2220,16 +2283,14 @@ ALL TIME,JohnnyTime,False,74.07,2,0,0,0,0,0
 ALL TIME,Bruhhh,False,74.55,1,0,0,0,0,0
 ALL TIME,subtle77,False,74.1,3,0,0,0,0,2
 ALL TIME,Margaret,False,73.17,3,0,0,0,0,0
-ALL TIME,JrNet,False,71.32,4,0,0,0,0,3
 ALL TIME,Vexjon,False,71.09,2,0,0,0,0,0
 ALL TIME,xpriment626,False,69.53,1,0,0,0,0,0
-ALL TIME,millersplanet,False,68.79,4,0,0,0,0,2
 ALL TIME,Deathstore,False,68.66,1,0,0,0,0,1
 ALL TIME,0xean,False,68.65,1,0,0,0,0,1
 ALL TIME,merlin,False,66.69,2,0,0,1,0,0
 ALL TIME,floppydisk,False,66.07,1,0,0,0,0,0
-ALL TIME,rjs,False,65.99,2,0,0,0,0,2
 ALL TIME,0xNot0rious,False,65.64,1,0,0,0,0,1
+ALL TIME,SleepingBugs,True,64.99,2,0,0,0,0,1
 ALL TIME,0x510c,False,64.88,1,0,0,0,0,1
 ALL TIME,Extropy,True,62.41,2,0,0,0,0,1
 ALL TIME,chasemartin01,False,62.07,2,0,0,0,0,2
@@ -2264,46 +2325,58 @@ ALL TIME,Cheeezzyyyy,False,53.1,2,1,0,0,0,1
 ALL TIME,jwood,False,53.27,2,0,0,1,0,0
 ALL TIME,innertia,False,53.2,3,0,0,1,0,0
 ALL TIME,Bjorn_bug,False,52.1,2,0,0,0,0,1
+ALL TIME,AApocalypto,True,52.93,2,1,0,1,0,0
 ALL TIME,UVvirus,False,52.04,1,0,0,0,0,0
 ALL TIME,nogo,False,52.03,1,0,0,0,0,0
 ALL TIME,bae11,False,52.02,1,0,0,0,0,1
 ALL TIME,easy_peasy,False,51.02,2,0,0,1,0,1
 ALL TIME,RagePit,False,50.21,2,0,0,1,0,1
+ALL TIME,0xGusMcCrae,False,50.16,1,0,0,0,0,0
+ALL TIME,h0wl,False,50.16,1,0,0,0,0,0
+ALL TIME,ahayashi,False,50.16,1,0,0,0,0,0
 ALL TIME,ControlCplusControlV,False,49.95,1,0,0,0,0,1
 ALL TIME,ey88,False,49.61,1,1,0,0,0,0
+ALL TIME,eyexploit,False,49.27,3,1,0,1,0,1
 ALL TIME,me_na0mi,False,49.23,1,0,0,0,0,1
 ALL TIME,0xRajkumar,False,49.23,1,0,0,0,0,1
+ALL TIME,kiki_dev,False,48.12,3,1,0,2,0,0
 ALL TIME,nine9,False,47.79,2,0,0,2,0,0
+ALL TIME,BAHOZ,False,47.25,2,2,0,0,0,0
 ALL TIME,Sneakyninja0129,False,47.13,1,0,0,0,0,0
 ALL TIME,doddle0x,False,47.13,1,0,0,0,0,0
+ALL TIME,0xDave,False,46.78,2,1,0,1,0,0
 ALL TIME,WatchDogs,False,46.69,1,0,0,0,0,1
 ALL TIME,beardofginger,False,46.28,4,0,0,0,0,4
 ALL TIME,marximimus,False,46.8,2,0,0,0,0,1
 ALL TIME,beelzebufo,False,46.01,1,0,0,0,0,0
 ALL TIME,paribus,False,45.06,2,0,0,0,0,1
+ALL TIME,SamGMK,False,43.33,2,1,0,0,0,0
 ALL TIME,SaharDevep,False,43.54,1,0,0,0,0,0
-ALL TIME,eyexploit,False,42.28,2,0,0,1,0,1
 ALL TIME,hakerbaya,False,41.77,2,0,0,0,0,2
 ALL TIME,0xLad,False,41.25,2,1,0,1,0,0
 ALL TIME,iamwhitelights,False,41.2,1,0,0,0,0,0
 ALL TIME,rbitbytes,False,40.94,1,0,0,0,0,1
 ALL TIME,Triangle,True,40.84,2,0,0,0,0,1
 ALL TIME,Throne6g,False,40.62,1,0,0,0,0,0
+ALL TIME,0xxm,False,40.26,1,1,0,0,0,0
+ALL TIME,mauricio1802,False,40.26,1,1,0,0,0,0
 ALL TIME,Schlagatron,False,39.65,1,0,0,0,0,1
 ALL TIME,ontofractal,False,39.22,1,0,0,0,0,0
 ALL TIME,0x09GTO,False,38.23,1,0,0,0,0,1
+ALL TIME,lumoswiz,False,38.14,5,2,0,3,0,0
 ALL TIME,jocxyen,False,37.47,1,0,0,0,0,1
+ALL TIME,0xab00,False,37.05,2,0,0,0,0,2
 ALL TIME,cducrest,False,36.73,1,0,0,0,0,0
 ALL TIME,evmwanderer,False,36.73,1,0,0,0,0,0
 ALL TIME,kv,False,36.62,2,0,0,0,0,0
 ALL TIME,Hashlock,False,36.34,1,0,0,0,0,0
-ALL TIME,SamGMK,False,36.34,1,0,0,0,0,0
 ALL TIME,bin,False,36.34,1,0,0,0,0,0
 ALL TIME,SpaceCake,False,35.55,2,0,0,0,0,2
 ALL TIME,android69,False,35.44,1,0,0,0,0,0
 ALL TIME,0bi,False,35.44,1,0,0,0,0,0
 ALL TIME,CryptoMartian,False,35.17,1,0,0,0,0,0
 ALL TIME,luckypanda,False,35.17,1,0,0,0,0,0
+ALL TIME,izhelyazkov,False,35.11,2,1,0,0,0,0
 ALL TIME,blackswordsman,False,34.31,1,0,0,0,0,1
 ALL TIME,Mohandes,False,33.58,2,0,0,0,0,0
 ALL TIME,PostMan56,False,33.8,1,0,0,0,0,1
@@ -2311,16 +2384,12 @@ ALL TIME,Heuss,False,32.65,1,0,0,0,0,1
 ALL TIME,kris,False,32.58,1,0,0,0,0,1
 ALL TIME,Dionysus,False,32.6,1,0,0,0,0,1
 ALL TIME,owenthurm,False,31.22,1,0,0,0,0,1
-ALL TIME,lumoswiz,False,31.15,4,1,0,3,0,0
 ALL TIME,yellowBirdy,False,29.42,2,0,0,2,0,0
 ALL TIME,xxxxx,False,29.93,2,0,0,0,0,2
 ALL TIME,windhustler,False,29.76,1,0,0,0,0,1
 ALL TIME,Ben,False,29.47,2,0,0,0,0,2
 ALL TIME,naps62,False,28.28,1,0,0,0,0,0
 ALL TIME,Varun_Verma,False,28.28,1,0,0,0,0,0
-ALL TIME,Zarf,False,28.12,1,0,0,0,0,0
-ALL TIME,izhelyazkov,False,28.12,1,0,0,0,0,0
-ALL TIME,Janio,False,28.12,1,0,0,0,0,0
 ALL TIME,yasir,False,28.01,1,0,0,0,0,0
 ALL TIME,bbuddha,False,28.01,1,0,0,0,0,0
 ALL TIME,tibthecat,False,27.95,2,0,0,0,0,1
@@ -2333,7 +2402,6 @@ ALL TIME,iepathos,False,26.35,1,0,0,0,0,1
 ALL TIME,WilliamAmbrozic,False,25.27,2,0,0,0,0,2
 ALL TIME,RHaO-sec,False,25.05,1,0,0,0,0,1
 ALL TIME,grrwahrr,False,23.06,1,0,0,0,0,1
-ALL TIME,0xab00,False,22.22,1,0,0,0,0,1
 ALL TIME,ltyu,False,21.17,1,0,0,0,0,1
 ALL TIME,flyx,False,21.17,1,0,0,0,0,1
 ALL TIME,find_a_bug,False,21.17,1,0,0,0,0,1
@@ -2370,12 +2438,10 @@ ALL TIME,bbananasboys,True,5.34,1,0,0,1,0,0
 ALL TIME,satoshipotato,False,5.6,1,1,0,0,0,0
 ALL TIME,BradMoon,False,4.96,1,0,0,1,0,0
 ALL TIME,lotux,False,4.04,1,0,0,1,0,0
-ALL TIME,kiki_dev,False,2.18,2,1,0,1,0,0
 ALL TIME,kree-dotcom,False,2.18,2,1,0,1,0,0
 ALL TIME,phaze,False,1.3,2,1,0,1,0,0
 ALL TIME,bctester,False,0.97,1,0,0,1,0,0
 ALL TIME,kaliberpoziomka8552,False,0.84,1,1,0,0,0,0
-ALL TIME,0xDave,False,0.84,1,1,0,0,0,0
 ALL TIME,0x446576,False,0.84,1,1,0,0,0,0
 ALL TIME,JGcarv,False,0.74,1,0,0,1,0,0
 ALL TIME,tourist,False,0.61,1,0,0,1,0,0
