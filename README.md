@@ -1,9 +1,15 @@
-# code4rena-scraper
+> [!IMPORTANT]  
+> This repository is archived due to significant changes to both Code4rena's website and repos since first started over a year ago. Additionally, Code4rena started providing data through their [community resources](https://github.com/code-423n4/code423n4.com/blob/main/_data/README-community_resources.md).
+> A new repo is available as [code4rena-stats](https://github.com/Krow10/code4rena-stats) for the charts and insights.
+
+# Archived README.md
+
+## code4rena-scraper
 Scraping [Code4rena](https://www.code4rena.com) contest audits reports for stats, fun (and profit ?).
 
 For accurate prize money numbers check the Code4rena [leaderboard](https://code4rena.com/leaderboard) directly.
 
-## Why ?
+### Why ?
 
 To play around with the [Github API](https://docs.github.com/en/rest) and work my python scripting skills. It also gave me the chance to work with data analysis tools such as [Jupyter notebooks](https://jupyter.org/), [Pandas](https://pandas.pydata.org/docs/index.html) for manipulating the data and [Altair](https://altair-viz.github.io/index.html), a visualization framework for generating charts.
 
@@ -11,7 +17,7 @@ In the beginning, I was curious since I found out that the audits reports repos 
 
 Also, I realized after a week of working on this project that the [website repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) of Code4rena already contains data for contests, findings and handles but hey, I learned a lot about the scraping process !
 
-## What ?
+### What ?
 
 Data is scraped from the [Code4rena](https://www.code4rena.com) published audits repos using the [Github API](https://docs.github.com/en/rest), as well as directly from the [leaderboard](https://code4rena.com/leaderboard) and [contests](https://code4rena.com/contests/) entries of the Code4rena website and is parsed to CSV files. Original CSV files can also be used directly from the [Code4rena repo](https://github.com/code-423n4/code423n4.com/tree/main/_data) in the contests/ and findings/ folders. 
 
@@ -23,13 +29,13 @@ Worth the time ? I'd say yes as it gave me insights as to how to track funds acc
 
 Also, the extracted data allows to see who might be most efficient, writes the most duplicates, percentage of invalid submission, etc. 
 
-### Jupyter notebooks
+#### Jupyter notebooks
 Notebooks can be found in the [charts_data](charts_data/) folder to visualize the data. A link is provided below each chart for a static view of each notebook.
 For an interactive lab, you could setup your own locally or run one online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Krow10/code4rena-scraper/HEAD).
 
 You can also run non-interactive notebooks through [nbviewer](https://nbviewer.org/github/Krow10/code4rena-scraper/tree/master/charts_data/) or view the static generated html at [https://krow10.github.io/code4rena-scraper/](https://krow10.github.io/code4rena-scraper/).
 
-## How ?
+### How ?
 
 Install all requirements through `pip install -r requirements.txt` and setup your own [Github access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) in the `.env` file. 
 
@@ -64,7 +70,7 @@ And for the contests ([contests_code4rena.csv](contests_cod4rena.csv)), the data
 | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 | The name of the Github repo for the contest audit report or empty if not published yet | Name of the contest sponsor (lowercase, stripped) | Description of the contest sponsor | Starting date of the contest | Ending date of the contest | Total prize pool (calculated from the sum of warden's prize money) | Name of the warden | Total earnings for the contest (in $USD) | Total accepted reports for the contest | High severity issues found with others | High severity issues found alone | Medium severity issues found with others | Medium severity issues found alone | Gas optimization reports submitted
 
-## Next ?
+### Next ?
 
 - [x] Get linked audits issues tags and add the data to the csv (helps flag invalid, duplicate and accepted submissions)
 - [x] Use data analysis modules or external programs to actually do something with the data
